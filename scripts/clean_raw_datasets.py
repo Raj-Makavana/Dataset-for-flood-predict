@@ -47,21 +47,41 @@ for filepath in csv_files:
     rows_before = len(df_raw)
     cols_before = len(df_raw.columns)
     
+    if 'rainfall' not in fname.lower() or rows_before == 0:
+        print(f"Skipping non-rainfall or empty file: {fname}")
+        continue
+
     df = df_raw.copy()
     
     # 1. Strip whitespace from column names
     df.columns = df.columns.str.strip()
     
     # 2. Identify key columns
-    state_col = 'State' if 'State' in df else [c for c in df.columns if 'state' in c.lower()][0]
-    district_col = 'District' if 'District' in df else [c for c in df.columns if 'district' in c.lower()][0]
-    station_col = 'Station' if 'Station' in df else [c for c in df.columns if 'station' in c.lower()][0]
-    time_col = [c for c in df.columns if 'time' in c.lower() or 'date' in c.lower()][0]
-    rainfall_col = [c for c in df.columns if 'rainfall' in c.lower()][0]
-    lat_col = 'Latitude' if 'Latitude' in df else [c for c in df.columns if 'lat' in c.lower()][0]
-    lon_col = 'Longitude' if 'Longitude' in df else [c for c in df.columns if 'lon' in c.lower()][0]
+    state_cols = [c for c in df.columns if 'state' in c.lower()]
+    state_col = 'State' if 'State' in df else (state_cols[0] if state_cols else None)
     
-    state_name = df[state_col].dropna().iloc[0] if len(df[state_col].dropna()) > 0 else fname
+    district_cols = [c for c in df.columns if 'district' in c.lower()]
+    district_col = 'District' if 'District' in df else (district_cols[0] if district_cols else None)
+    
+    station_cols = [c for c in df.columns if 'station' in c.lower()]
+    station_col = 'Station' if 'Station' in df else (station_cols[0] if station_cols else None)
+    
+    time_cols = [c for c in df.columns if 'time' in c.lower() or 'date' in c.lower()]
+    time_col = time_cols[0] if time_cols else None
+    
+    rf_cols = [c for c in df.columns if 'rainfall' in c.lower()]
+    if not rf_cols:
+        print(f"No rainfall column found in {fname}, skipping.")
+        continue
+    rainfall_col = rf_cols[0]
+    
+    lat_cols = [c for c in df.columns if 'lat' in c.lower()]
+    lat_col = 'Latitude' if 'Latitude' in df else (lat_cols[0] if lat_cols else None)
+    
+    lon_cols = [c for c in df.columns if 'lon' in c.lower()]
+    lon_col = 'Longitude' if 'Longitude' in df else (lon_cols[0] if lon_cols else None)
+    
+    state_name = df[state_col].dropna().iloc[0] if state_col and len(df[state_col].dropna()) > 0 else fname
     
     # 3. Clean Text Formatting (remove trailing dots, clean station names)
     df[station_col] = df[station_col].astype(str).str.strip().str.rstrip('.')

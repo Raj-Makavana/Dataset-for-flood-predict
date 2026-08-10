@@ -1,0 +1,25 @@
+State,File,Rows Before,Rows After,Duplicates Removed,Missing LatLon Fixed,Missing Rainfall Before,Missing Rainfall After,Imputation Strategy,Clean Path
+Andhra Pradesh,rainfall_tel_hr_cwc_ap_2021_2025.csv,31274,31270,4,0,8369,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_ap_2021_2025.csv
+Arunachal Pradesh,rainfall_tel_hr_cwc_ar_2021_2025.csv,18290,18289,1,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_ar_2021_2025.csv
+Assam,rainfall_tel_hr_cwc_as_2021_2025.csv,137659,137659,0,0,102350,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_as_2021_2025.csv
+Bihar,rainfall_tel_hr_cwc_br_2021_2025.csv,73554,73553,1,0,20733,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_br_2021_2025.csv
+Chhattisgarh,rainfall_tel_hr_cwc_cg_2021_2025.csv,40151,40146,5,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_cg_2021_2025.csv
+Gujarat,rainfall_tel_hr_cwc_gj_2021_2025.csv,491009,491005,4,0,483818,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_gj_2021_2025.csv
+Himachal Pradesh,rainfall_tel_hr_cwc_hp_2021_2025.csv,48114,48114,0,0,41513,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_hp_2021_2025.csv
+Haryana,rainfall_tel_hr_cwc_hr_2021_2025.csv,1693,1693,0,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_hr_2021_2025.csv
+Jharkhand,rainfall_tel_hr_cwc_jh_2021_2025.csv,67789,67789,0,0,19210,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_jh_2021_2025.csv
+Karnataka,rainfall_tel_hr_cwc_ka_2021_2025.csv,33838,33837,1,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_ka_2021_2025.csv
+Kerala,rainfall_tel_hr_cwc_kl_2021_2025.csv,9206,7735,1471,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_kl_2021_2025.csv
+Maharashtra,rainfall_tel_hr_cwc_mh_2021_2025.csv,266707,266704,3,0,244115,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_mh_2021_2025.csv
+Manipur,rainfall_tel_hr_cwc_mn_2021_2025.csv,9,9,0,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_mn_2021_2025.csv
+Madhya Pradesh,rainfall_tel_hr_cwc_mp_2021_2025.csv,227817,225248,2569,0,158713,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_mp_2021_2025.csv
+Nagaland,rainfall_tel_hr_cwc_nl_2021_2025.csv,1368,1368,0,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_nl_2021_2025.csv
+Odisha,rainfall_tel_hr_cwc_od_2021_2025.csv,357371,357366,5,0,244820,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_od_2021_2025.csv
+Rajasthan,rainfall_tel_hr_cwc_rj_2021_2025.csv,179762,179761,1,0,147975,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_rj_2021_2025.csv
+Sikkim,rainfall_tel_hr_cwc_sk_2021_2025.csv,105564,105563,1,0,11363,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_sk_2021_2025.csv
+Tamil Nadu,rainfall_tel_hr_cwc_tn_2021_2025.csv,81008,77698,3310,12885,25736,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_tn_2021_2025.csv
+Tripura,rainfall_tel_hr_cwc_tr_2021_2025.csv,4354,4354,0,0,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_tr_2021_2025.csv
+Telangana,rainfall_tel_hr_cwc_ts_2021_2025.csv,16546,16545,1,5573,0,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_ts_2021_2025.csv
+Uttarakhand,rainfall_tel_hr_cwc_uk_2021_2025.csv,77507,77506,1,0,39244,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_uk_2021_2025.csv
+Uttar Pradesh,rainfall_tel_hr_cwc_up_2021_2025.csv,552647,552644,3,0,511076,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_up_2021_2025.csv
+West Bengal,rainfall_tel_hr_cwc_wb_2021_2025.csv,69516,69516,0,0,34757,0,Spatial k-NN + Zero Impute,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_rainfall_tel_hr_cwc_wb_2021_2025.csv
