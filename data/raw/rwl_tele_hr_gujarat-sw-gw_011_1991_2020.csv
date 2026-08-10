@@ -1,0 +1,923 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
+1,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 00:00,58.39
+2,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 01:00,58.39
+3,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 02:00,58.39
+4,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 03:00,58.39
+5,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 04:00,58.391
+6,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 05:00,58.392
+7,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 06:00,58.393
+8,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 07:00,58.393
+9,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 08:00,58.394
+10,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 09:00,58.393
+11,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 10:00,58.393
+12,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 11:00,58.392
+13,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 13:00,58.394
+14,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 14:00,58.393
+15,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 15:00,58.392
+16,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 16:00,58.392
+17,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 17:00,58.388
+18,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 18:00,58.396
+19,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 19:00,58.393
+20,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 20:00,58.393
+21,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 21:00,58.392
+22,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 22:00,58.392
+23,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2007 23:00,58.391
+24,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 00:00,58.391
+25,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 01:00,58.392
+26,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 02:00,58.392
+27,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 03:00,58.393
+28,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 04:00,58.393
+29,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 05:00,58.392
+30,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 06:00,58.393
+31,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 07:00,58.393
+32,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 08:00,58.394
+33,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 09:00,58.394
+34,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 10:00,58.394
+35,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 11:00,58.394
+36,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 12:00,58.394
+37,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 13:00,58.393
+38,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 14:00,58.392
+39,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 16:00,58.39
+40,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 17:00,58.393
+41,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 18:00,58.395
+42,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 19:00,58.398
+43,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 20:00,58.398
+44,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 21:00,58.397
+45,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 22:00,58.396
+46,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2008 23:00,58.394
+47,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 00:00,58.394
+48,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 01:00,58.394
+49,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 02:00,58.394
+50,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 03:00,58.394
+51,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 04:00,58.394
+52,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 05:00,58.394
+53,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 06:00,58.394
+54,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 07:00,58.393
+55,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 08:00,58.393
+56,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 09:00,58.394
+57,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 10:00,58.393
+58,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 11:00,58.394
+59,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 12:00,58.393
+60,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 13:00,58.393
+61,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 14:00,58.392
+62,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 15:00,58.39
+63,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 16:00,58.39
+64,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 17:00,58.39
+65,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 18:00,58.391
+66,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 19:00,58.392
+67,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 20:00,58.393
+68,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 21:00,58.392
+69,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 22:00,58.393
+70,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2009 23:00,58.392
+71,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 00:00,58.393
+72,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 01:00,58.392
+73,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 02:00,58.393
+74,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 03:00,58.393
+75,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 04:00,58.393
+76,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 05:00,58.393
+77,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 06:00,58.393
+78,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 07:00,58.393
+79,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 08:00,58.393
+80,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 09:00,58.393
+81,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 10:00,58.393
+82,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 11:00,58.394
+83,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 12:00,58.393
+84,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 13:00,58.394
+85,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 14:00,58.393
+86,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 15:00,58.393
+87,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 16:00,58.391
+88,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 17:00,58.39
+89,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 18:00,58.391
+90,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 19:00,58.39
+91,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 20:00,58.388
+92,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 21:00,58.385
+93,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 22:00,58.383
+94,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2010 23:00,58.382
+95,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 00:00,58.383
+96,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 01:00,58.383
+97,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 02:00,58.384
+98,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 03:00,58.386
+99,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 04:00,58.388
+100,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 05:00,58.389
+101,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 06:00,58.39
+102,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 07:00,58.391
+103,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 08:00,58.392
+104,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 09:00,58.393
+105,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 11:00,58.394
+106,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 12:00,58.396
+107,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 13:00,58.396
+108,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 14:00,58.396
+109,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 15:00,58.396
+110,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 16:00,58.396
+111,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 17:00,58.398
+112,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 18:00,58.398
+113,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 19:00,58.401
+114,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 20:00,58.4
+115,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 21:00,58.399
+116,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 22:00,58.397
+117,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,14-06-2011 23:00,58.397
+118,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 00:00,58.397
+119,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 01:00,58.398
+120,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 02:00,58.398
+121,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 03:00,58.398
+122,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 04:00,58.398
+123,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 05:00,58.398
+124,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 06:00,58.398
+125,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 07:00,58.398
+126,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 08:00,58.398
+127,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 10:00,58.4
+128,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 11:00,58.4
+129,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 12:00,58.401
+130,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 13:00,58.402
+131,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 14:00,58.405
+132,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 15:00,58.405
+133,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 16:00,58.402
+134,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 17:00,58.401
+135,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 18:00,58.403
+136,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 19:00,58.406
+137,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 20:00,58.406
+138,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 21:00,58.406
+139,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 22:00,58.404
+140,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,13-06-2012 23:00,58.404
+141,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,15-05-2014 20:00,58.424
+142,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,15-05-2014 21:00,58.422
+143,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,15-05-2014 22:00,58.42
+144,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,15-05-2014 23:00,58.419
+145,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,15-05-2015 00:00,58.418
+146,ASHWIN   HARIPURA,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.04527778,73.71694444,Yes,0.0000,58.04,06-12-2020 07:00,58.428
+147,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 00:00,122.778
+148,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 01:00,122.785
+149,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 02:00,122.763
+150,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 03:00,122.762
+151,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 04:00,122.771
+152,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 05:00,122.779
+153,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 06:00,122.777
+154,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 07:00,122.793
+155,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 08:00,122.917
+156,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 09:00,122.909
+157,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 10:00,122.904
+158,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 11:00,122.763
+159,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 12:00,122.764
+160,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 13:00,122.765
+161,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 14:00,122.761
+162,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 15:00,122.732
+163,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 16:00,122.701
+164,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 17:00,122.771
+165,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 18:00,122.775
+166,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 19:00,122.79
+167,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 20:00,122.803
+168,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 21:00,122.782
+169,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 22:00,122.782
+170,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2007 23:00,122.789
+171,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 00:00,122.788
+172,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 01:00,122.782
+173,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 02:00,122.787
+174,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 03:00,122.789
+175,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 04:00,122.795
+176,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 05:00,122.803
+177,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 06:00,122.816
+178,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 07:00,122.824
+179,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 08:00,122.89
+180,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 09:00,122.704
+181,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 10:00,122.707
+182,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 11:00,122.836
+183,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 12:00,122.848
+184,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 13:00,122.69
+185,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 14:00,122.68
+186,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 15:00,122.746
+187,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 16:00,122.843
+188,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 17:00,122.691
+189,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 18:00,122.854
+190,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 19:00,122.847
+191,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 20:00,122.854
+192,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 21:00,122.85
+193,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 22:00,122.848
+194,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2008 23:00,122.843
+195,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 01:00,122.842
+196,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 02:00,122.846
+197,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 03:00,122.853
+198,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 04:00,122.85
+199,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 05:00,122.847
+200,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 06:00,122.848
+201,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 07:00,122.842
+202,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 08:00,122.841
+203,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 09:00,122.819
+204,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 10:00,122.818
+205,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 11:00,122.809
+206,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 12:00,122.776
+207,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 13:00,122.874
+208,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 14:00,122.767
+209,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 15:00,122.772
+210,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 16:00,122.762
+211,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 17:00,122.777
+212,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 18:00,122.771
+213,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 19:00,122.781
+214,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 21:00,122.783
+215,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 22:00,122.776
+216,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2009 23:00,122.774
+217,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 00:00,122.774
+218,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 01:00,122.776
+219,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 02:00,122.773
+220,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 03:00,122.775
+221,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 05:00,122.774
+222,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 06:00,122.772
+223,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 07:00,122.772
+224,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 08:00,122.763
+225,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 09:00,122.764
+226,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 10:00,122.76
+227,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 11:00,122.752
+228,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 12:00,122.747
+229,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 13:00,122.757
+230,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 14:00,122.752
+231,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 15:00,122.859
+232,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 16:00,122.865
+233,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 17:00,122.855
+234,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 18:00,122.855
+235,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 19:00,122.787
+236,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 20:00,122.8
+237,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 21:00,122.779
+238,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 22:00,122.771
+239,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2010 23:00,122.772
+240,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 00:00,122.77
+241,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 02:00,122.775
+242,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 03:00,122.778
+243,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 04:00,122.773
+244,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 05:00,122.785
+245,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 06:00,122.784
+246,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 07:00,122.789
+247,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 08:00,122.781
+248,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 09:00,122.782
+249,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 10:00,122.759
+250,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 11:00,122.874
+251,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 12:00,122.875
+252,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 13:00,122.873
+253,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 14:00,122.863
+254,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 15:00,122.87
+255,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 16:00,122.871
+256,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 17:00,122.879
+257,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 18:00,122.88
+258,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 19:00,122.884
+259,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 20:00,122.887
+260,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 21:00,122.885
+261,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 22:00,122.884
+262,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,14-06-2011 23:00,122.885
+263,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 00:00,122.884
+264,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 01:00,122.882
+265,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 02:00,122.886
+266,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 03:00,122.885
+267,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 04:00,122.887
+268,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 05:00,122.883
+269,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 06:00,122.887
+270,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 07:00,122.884
+271,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 08:00,122.881
+272,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 09:00,122.886
+273,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 10:00,122.882
+274,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 11:00,122.868
+275,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 12:00,122.864
+276,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 13:00,122.871
+277,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 14:00,122.873
+278,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 15:00,122.847
+279,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 16:00,122.846
+280,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 17:00,122.837
+281,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 18:00,122.844
+282,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 19:00,122.841
+283,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 20:00,122.846
+284,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 21:00,122.849
+285,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 22:00,122.85
+286,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,13-06-2012 23:00,122.851
+287,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,15-05-2014 18:00,122.856
+288,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,15-05-2014 19:00,122.875
+289,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,15-05-2014 20:00,122.875
+290,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,15-05-2014 21:00,122.863
+291,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,15-05-2014 22:00,122.853
+292,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,15-05-2014 23:00,122.85
+293,CHHOTAUDEPUR,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Chhota Udaipur,-,-,Narmada,Narmada,-,-,-,-,22.29611111,74.01305556,Yes,0.0000,122.84,15-05-2015 00:00,122.854
+294,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 00:00,67.035
+295,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 01:00,67.011
+296,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 02:00,67.019
+297,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 03:00,67.023
+298,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 04:00,67.039
+299,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 05:00,67.061
+300,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 06:00,67.058
+301,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 07:00,67.046
+302,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 08:00,67.056
+303,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 09:00,67.052
+304,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 10:00,67.058
+305,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 11:00,67.035
+306,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 12:00,67.035
+307,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 13:00,67.077
+308,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 14:00,67.076
+309,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 15:00,67.036
+310,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 16:00,67.053
+311,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 17:00,67.061
+312,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 19:00,67.052
+313,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 20:00,67.058
+314,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 21:00,67.031
+315,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 22:00,67.049
+316,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2007 23:00,67.036
+317,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 00:00,67.079
+318,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 01:00,67.057
+319,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 02:00,67.075
+320,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 03:00,67.082
+321,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 04:00,67.034
+322,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 05:00,67.044
+323,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 06:00,67.05
+324,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 07:00,67.074
+325,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 08:00,67.083
+326,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 09:00,67.038
+327,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 10:00,67.074
+328,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 11:00,67.051
+329,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 12:00,67.049
+330,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 13:00,67.092
+331,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 14:00,67.049
+332,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 15:00,67.066
+333,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 16:00,67.039
+334,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 17:00,67.03
+335,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 18:00,67.034
+336,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 21:00,67.061
+337,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 22:00,67.021
+338,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2008 23:00,67.05
+339,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 00:00,67.075
+340,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 01:00,67.047
+341,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 02:00,67.045
+342,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 03:00,67.052
+343,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 04:00,67.061
+344,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 05:00,67.059
+345,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 06:00,67.057
+346,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 07:00,67.031
+347,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 08:00,67.067
+348,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 09:00,67.049
+349,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 10:00,67.051
+350,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 11:00,67
+351,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 12:00,67.038
+352,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 13:00,67.044
+353,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 14:00,66.997
+354,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 15:00,67.035
+355,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 16:00,67.002
+356,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 17:00,67.069
+357,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 18:00,67.062
+358,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 19:00,67.064
+359,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 21:00,67.056
+360,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 22:00,67.07
+361,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2009 23:00,67.061
+362,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 00:00,67.084
+363,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 01:00,67.04
+364,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 02:00,67.043
+365,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 03:00,67.05
+366,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 04:00,67.083
+367,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 05:00,67.07
+368,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 06:00,67.055
+369,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 07:00,67.04
+370,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 08:00,67.042
+371,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 09:00,67.032
+372,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 10:00,67.081
+373,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 11:00,67.075
+374,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 12:00,67.069
+375,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 13:00,67.073
+376,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 14:00,67.069
+377,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 15:00,67.069
+378,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 16:00,67.081
+379,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 17:00,67.085
+380,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 18:00,66.997
+381,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 19:00,67.054
+382,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 20:00,67.032
+383,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 21:00,67.047
+384,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 22:00,67.078
+385,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2010 23:00,67.049
+386,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 00:00,67.064
+387,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 01:00,67.066
+388,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 02:00,67.022
+389,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 03:00,67.062
+390,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 04:00,67.055
+391,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 05:00,67.048
+392,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 06:00,67.076
+393,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 07:00,67.086
+394,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 08:00,67.087
+395,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 09:00,67.068
+396,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 10:00,67.044
+397,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 11:00,67.092
+398,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 12:00,67.064
+399,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 13:00,67.101
+400,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 14:00,67.067
+401,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 15:00,67.015
+402,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 16:00,67.053
+403,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 17:00,67.032
+404,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 18:00,67.079
+405,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 19:00,67.055
+406,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 20:00,67.041
+407,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 21:00,67.055
+408,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 22:00,67.086
+409,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,14-06-2011 23:00,67.114
+410,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 00:00,67.048
+411,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 01:00,67.072
+412,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 02:00,67.088
+413,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 03:00,67.069
+414,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 04:00,67.061
+415,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 05:00,67.078
+416,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 06:00,67.109
+417,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 07:00,67.055
+418,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 08:00,67.109
+419,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 09:00,67.063
+420,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 10:00,67.058
+421,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 11:00,67.095
+422,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 12:00,67.094
+423,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 13:00,67.066
+424,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 14:00,67.087
+425,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 15:00,67.032
+426,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 17:00,67.092
+427,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 18:00,67.073
+428,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 19:00,67.014
+429,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 20:00,67.075
+430,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 21:00,67.089
+431,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 22:00,67.099
+432,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,13-06-2012 23:00,67.081
+433,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,15-05-2014 20:00,67.098
+434,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,15-05-2014 21:00,67.112
+435,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,15-05-2014 22:00,67.099
+436,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,15-05-2014 23:00,67.077
+437,HERAN AT WASNA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.12027778,73.74944444,Yes,0.0000,66.86,15-05-2015 00:00,67.061
+438,Karjan Dam,Gujarat SW GW,24,Gujarat,452,Narmada,Rajpipla,-,-,Narmada,Narmada,Karjan,-,-,Karjan,21.81527778,73.53666667,No,0,105.00,14-05-2008 16:00,0
+439,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 00:00,147.228
+440,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 01:00,147.229
+441,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 02:00,147.23
+442,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 03:00,147.231
+443,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 04:00,147.232
+444,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 05:00,147.232
+445,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 06:00,147.231
+446,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 07:00,147.231
+447,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 08:00,147.23
+448,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 09:00,147.229
+449,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 10:00,147.215
+450,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 11:00,147.215
+451,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 12:00,147.205
+452,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 13:00,147.208
+453,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 14:00,147.21
+454,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 15:00,147.221
+455,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 16:00,147.218
+456,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 17:00,147.218
+457,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 18:00,147.218
+458,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 19:00,147.218
+459,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 20:00,147.218
+460,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 21:00,147.219
+461,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 22:00,147.219
+462,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2007 23:00,147.22
+463,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 00:00,147.22
+464,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 01:00,147.22
+465,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 02:00,147.221
+466,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 03:00,147.222
+467,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 04:00,147.221
+468,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 05:00,147.221
+469,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 06:00,147.221
+470,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 07:00,147.221
+471,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 08:00,147.221
+472,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 09:00,147.22
+473,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 10:00,147.221
+474,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 11:00,147.193
+475,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 12:00,147.194
+476,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 13:00,147.219
+477,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 14:00,147.211
+478,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 15:00,147.217
+479,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 16:00,147.218
+480,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 17:00,147.222
+481,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 18:00,147.222
+482,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 19:00,147.221
+483,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 20:00,147.219
+484,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 21:00,147.219
+485,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 22:00,147.217
+486,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2008 23:00,147.218
+487,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 00:00,147.218
+488,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 01:00,147.218
+489,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 02:00,147.218
+490,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 03:00,147.218
+491,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 04:00,147.218
+492,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 05:00,147.218
+493,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 06:00,147.218
+494,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 07:00,147.217
+495,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 08:00,147.217
+496,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 09:00,147.217
+497,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 11:00,147.22
+498,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 12:00,147.204
+499,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 13:00,147.223
+500,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 14:00,147.216
+501,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 15:00,147.208
+502,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 16:00,147.226
+503,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 17:00,147.229
+504,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 18:00,147.237
+505,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 20:00,147.228
+506,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 21:00,147.225
+507,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 22:00,147.221
+508,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2009 23:00,147.22
+509,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 00:00,147.219
+510,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 01:00,147.218
+511,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 02:00,147.217
+512,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 03:00,147.217
+513,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 05:00,147.217
+514,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 06:00,147.216
+515,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 08:00,147.215
+516,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 09:00,147.215
+517,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 10:00,147.215
+518,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 11:00,147.213
+519,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 12:00,147.192
+520,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 13:00,147.214
+521,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 14:00,147.213
+522,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 15:00,147.212
+523,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 16:00,147.189
+524,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 17:00,147.195
+525,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 18:00,147.207
+526,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 19:00,147.205
+527,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 20:00,147.204
+528,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 21:00,147.203
+529,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 22:00,147.202
+530,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2010 23:00,147.201
+531,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 00:00,147.201
+532,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 01:00,147.2
+533,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 02:00,147.201
+534,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 03:00,147.202
+535,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 04:00,147.203
+536,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 05:00,147.203
+537,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 06:00,147.204
+538,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 07:00,147.204
+539,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 08:00,147.205
+540,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 09:00,147.206
+541,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 10:00,147.207
+542,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 11:00,147.199
+543,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 12:00,147.207
+544,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 13:00,147.207
+545,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 14:00,147.195
+546,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 15:00,147.153
+547,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 16:00,147.152
+548,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 17:00,147.149
+549,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 18:00,147.189
+550,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 19:00,147.199
+551,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 21:00,147.204
+552,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 22:00,147.206
+553,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,14-06-2011 23:00,147.206
+554,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 00:00,147.206
+555,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 01:00,147.207
+556,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 02:00,147.206
+557,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 03:00,147.207
+558,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 04:00,147.206
+559,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 05:00,147.207
+560,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 07:00,147.206
+561,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 08:00,147.207
+562,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 09:00,147.206
+563,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 10:00,147.206
+564,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 11:00,147.188
+565,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 12:00,147.204
+566,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 13:00,147.205
+567,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 14:00,147.206
+568,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 15:00,147.206
+569,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 16:00,147.192
+570,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 17:00,147.205
+571,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 18:00,147.203
+572,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 19:00,147.203
+573,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 20:00,147.203
+574,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 21:00,147.202
+575,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 22:00,147.202
+576,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,13-06-2012 23:00,147.201
+577,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,15-05-2014 19:00,147.39
+578,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,15-05-2014 21:00,147.388
+579,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,15-05-2014 22:00,147.388
+580,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,15-05-2014 23:00,147.388
+581,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,15-05-2015 00:00,147.388
+582,KARJAN   THAVA,Gujarat SW GW,24,Gujarat,442,Bharuch,VALIA,-,-,Narmada,Narmada,Karjan,-,-,-,21.58472222,73.46805556,Yes,0.0000,146.33,06-12-2020 17:00,147.473
+583,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,28-06-2006 09:10,104.394
+584,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,28-06-2006 09:32,104.087
+585,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 00:00,0
+586,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 01:00,0
+587,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 02:00,0
+588,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 03:00,0
+589,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 04:00,0
+590,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 05:00,0
+591,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 06:00,0
+592,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 07:00,0
+593,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 08:00,0
+594,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 09:00,0
+595,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 10:00,0
+596,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 11:00,0
+597,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 12:00,0
+598,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 13:00,0
+599,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 14:00,0
+600,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 15:00,0
+601,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 16:00,0
+602,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 17:00,0
+603,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 18:00,0
+604,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 19:00,0
+605,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 20:00,0
+606,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 21:00,0
+607,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 22:00,0
+608,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2007 23:00,0
+609,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 00:00,96.842
+610,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 01:00,96.848
+611,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 02:00,96.971
+612,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 03:00,96.947
+613,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 04:00,96.873
+614,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 05:00,96.973
+615,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 06:00,96.973
+616,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 07:00,96.946
+617,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 08:00,96.95
+618,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 09:00,96.948
+619,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 10:00,96.955
+620,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 11:00,96.732
+621,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 12:00,96.959
+622,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 13:00,96.959
+623,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 14:00,96.746
+624,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 15:00,96.746
+625,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 16:00,96.741
+626,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 17:00,96.743
+627,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 18:00,96.958
+628,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 19:00,96.954
+629,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 20:00,96.957
+630,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 21:00,96.785
+631,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 22:00,96.916
+632,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2007 23:00,96.786
+633,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 00:00,0
+634,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 01:00,0
+635,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 02:00,0
+636,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 03:00,0
+637,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 04:00,0
+638,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 05:00,0
+639,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 06:00,0
+640,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 07:00,0
+641,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 08:00,0
+642,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 09:00,0
+643,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 10:00,0
+644,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 11:00,0
+645,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 12:00,0
+646,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 13:00,0
+647,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 14:00,0
+648,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 15:00,0
+649,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 16:00,0
+650,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 17:00,0
+651,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 18:00,0
+652,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 19:00,0
+653,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 20:00,0
+654,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 21:00,0
+655,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 22:00,0
+656,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-05-2008 23:00,0
+657,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 00:00,96.757
+658,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 01:00,96.756
+659,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 02:00,96.758
+660,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 03:00,96.75
+661,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 04:00,96.783
+662,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 05:00,96.76
+663,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 06:00,96.916
+664,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 07:00,96.918
+665,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 08:00,96.905
+666,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 09:00,96.918
+667,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 10:00,96.906
+668,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 11:00,96.911
+669,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 12:00,96.907
+670,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 13:00,96.927
+671,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 14:00,96.937
+672,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 15:00,96.927
+673,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 16:00,96.931
+674,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 17:00,96.936
+675,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 18:00,96.943
+676,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 19:00,96.94
+677,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 20:00,96.937
+678,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 21:00,96.931
+679,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 22:00,96.934
+680,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2008 23:00,96.925
+681,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 00:00,96.93
+682,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 01:00,96.929
+683,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 02:00,96.933
+684,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 03:00,96.937
+685,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 04:00,96.936
+686,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 05:00,96.936
+687,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 06:00,96.944
+688,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 07:00,96.972
+689,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 08:00,96.971
+690,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 09:00,96.975
+691,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 10:00,96.972
+692,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 11:00,96.973
+693,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 12:00,96.972
+694,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 14:00,96.822
+695,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 15:00,96.971
+696,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 16:00,96.974
+697,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 17:00,96.974
+698,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 18:00,96.971
+699,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 19:00,96.971
+700,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 20:00,96.733
+701,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 21:00,96.968
+702,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 22:00,96.971
+703,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2009 23:00,96.943
+704,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 00:00,96.945
+705,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 01:00,96.947
+706,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 02:00,96.95
+707,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 03:00,96.939
+708,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 04:00,96.949
+709,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 05:00,96.944
+710,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 06:00,96.942
+711,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 07:00,96.763
+712,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 08:00,96.931
+713,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 09:00,96.929
+714,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 10:00,96.94
+715,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 11:00,96.937
+716,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 13:00,96.954
+717,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 14:00,96.955
+718,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 15:00,96.957
+719,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 16:00,96.957
+720,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 17:00,96.956
+721,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 18:00,96.965
+722,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 19:00,96.958
+723,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 20:00,96.959
+724,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 21:00,96.957
+725,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 22:00,96.963
+726,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2010 23:00,96.96
+727,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 00:00,96.961
+728,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 01:00,96.96
+729,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 02:00,96.964
+730,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 03:00,96.963
+731,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 04:00,96.956
+732,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 05:00,96.959
+733,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 06:00,96.959
+734,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 07:00,96.959
+735,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 08:00,96.954
+736,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 09:00,96.944
+737,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 10:00,96.785
+738,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 11:00,96.783
+739,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 12:00,96.783
+740,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 13:00,96.953
+741,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 14:00,96.952
+742,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 15:00,96.951
+743,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 16:00,96.81
+744,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 17:00,96.948
+745,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 18:00,96.95
+746,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 19:00,96.941
+747,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 20:00,96.94
+748,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 21:00,96.927
+749,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 22:00,96.941
+750,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,14-06-2011 23:00,96.952
+751,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 00:00,96.957
+752,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 01:00,96.955
+753,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 03:00,96.952
+754,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 04:00,96.946
+755,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 05:00,96.94
+756,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 06:00,96.945
+757,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 07:00,96.736
+758,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 08:00,96.731
+759,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 10:00,96.896
+760,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 11:00,96.87
+761,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 12:00,96.866
+762,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 13:00,96.853
+763,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 14:00,96.804
+764,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 15:00,96.843
+765,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 16:00,96.842
+766,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 17:00,96.844
+767,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 18:00,96.848
+768,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 19:00,96.842
+769,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 20:00,96.849
+770,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 21:00,96.852
+771,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 22:00,96.853
+772,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,13-06-2012 23:00,96.853
+773,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2014 20:00,96.944
+774,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2014 21:00,96.944
+775,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2014 22:00,96.957
+776,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2014 23:00,96.958
+777,MEN AT AMROLI,Gujarat SW GW,24,Gujarat,668,Chhota Udaipur,Nasvadi,-,-,Narmada,Narmada,-,-,-,-,22.01722222,73.75277778,Yes,0.0000,97.02,15-05-2015 00:00,96.95
+778,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 00:00,90.711
+779,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 01:00,90.846
+780,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 02:00,90.695
+781,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 03:00,90.7
+782,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 04:00,90.713
+783,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 05:00,90.703
+784,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 06:00,90.949
+785,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 07:00,90.967
+786,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 08:00,90.739
+787,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 09:00,90.737
+788,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 10:00,90.942
+789,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 11:00,90.938
+790,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 12:00,90.957
+791,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 13:00,90.953
+792,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 14:00,90.972
+793,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 15:00,90.965
+794,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 16:00,90.893
+795,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 17:00,90.866
+796,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 18:00,90.903
+797,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 19:00,90.952
+798,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 20:00,90.954
+799,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 21:00,90.984
+800,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 22:00,90.983
+801,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2007 23:00,90.947
+802,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 00:00,90.733
+803,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 02:00,90.982
+804,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 03:00,90.798
+805,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 04:00,90.977
+806,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 05:00,90.732
+807,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 06:00,90.968
+808,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 07:00,90.981
+809,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 08:00,90.991
+810,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 09:00,90.992
+811,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 10:00,90.969
+812,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 11:00,90.981
+813,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 12:00,90.734
+814,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 13:00,90.893
+815,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 14:00,90.879
+816,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 15:00,90.87
+817,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 16:00,90.977
+818,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 17:00,90.995
+819,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 18:00,90.92
+820,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 20:00,90.742
+821,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 21:00,90.825
+822,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 22:00,90.979
+823,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2008 23:00,90.882
+824,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 00:00,90.987
+825,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 01:00,90.988
+826,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 02:00,90.773
+827,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 03:00,91.004
+828,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 04:00,90.743
+829,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 05:00,91.011
+830,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 06:00,91.011
+831,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 07:00,91.005
+832,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 08:00,91.007
+833,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 09:00,91.011
+834,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 10:00,90.988
+835,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 11:00,91.008
+836,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 12:00,91.008
+837,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 13:00,91.005
+838,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 14:00,91.006
+839,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 15:00,91.012
+840,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 16:00,90.945
+841,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 17:00,90.98
+842,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 18:00,90.971
+843,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 19:00,90.978
+844,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 21:00,90.734
+845,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 22:00,90.726
+846,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2009 23:00,90.972
+847,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 00:00,90.732
+848,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 01:00,90.734
+849,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 02:00,90.876
+850,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 03:00,90.864
+851,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 05:00,90.965
+852,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 06:00,90.979
+853,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 07:00,90.982
+854,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 08:00,90.981
+855,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 09:00,90.982
+856,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 10:00,90.948
+857,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 11:00,90.93
+858,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 12:00,90.858
+859,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 13:00,90.749
+860,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 14:00,90.729
+861,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 15:00,90.875
+862,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 16:00,90.716
+863,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 17:00,90.721
+864,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 18:00,90.746
+865,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 19:00,90.961
+866,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 20:00,90.958
+867,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 21:00,90.927
+868,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 22:00,90.789
+869,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2010 23:00,90.717
+870,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 00:00,90.72
+871,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 02:00,90.842
+872,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 03:00,90.845
+873,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 04:00,90.847
+874,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 05:00,90.833
+875,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 06:00,90.719
+876,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 07:00,90.969
+877,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 08:00,90.848
+878,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 09:00,90.85
+879,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 10:00,90.862
+880,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 11:00,90.862
+881,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 12:00,90.969
+882,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 13:00,90.858
+883,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 14:00,90.851
+884,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 15:00,90.896
+885,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 16:00,90.731
+886,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 17:00,90.872
+887,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 18:00,90.887
+888,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 19:00,90.982
+889,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 20:00,90.984
+890,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 21:00,90.97
+891,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 22:00,90.783
+892,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,14-06-2011 23:00,90.736
+893,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 00:00,90.867
+894,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 01:00,90.767
+895,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 02:00,90.891
+896,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 03:00,91.01
+897,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 04:00,91.012
+898,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 05:00,91.006
+899,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 06:00,91.01
+900,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 07:00,91.016
+901,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 08:00,91.011
+902,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 09:00,91.018
+903,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 10:00,91.007
+904,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 11:00,91.016
+905,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 12:00,91.024
+906,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 13:00,91.012
+907,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 14:00,91.02
+908,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 15:00,91.026
+909,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 16:00,91.017
+910,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 17:00,91.012
+911,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 18:00,91.025
+912,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 19:00,90.998
+913,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 20:00,90.998
+914,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 21:00,91.005
+915,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 22:00,91.004
+916,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,13-06-2012 23:00,91.014
+917,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,15-05-2014 20:00,90.994
+918,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,15-05-2014 21:00,90.993
+919,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,15-05-2014 22:00,90.993
+920,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,15-05-2014 23:00,90.993
+921,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,15-05-2015 00:00,90.989
+922,UNCH AT KHORIA,Gujarat SW GW,24,Gujarat,461,Vadodara,SANKHEDA,-,-,Narmada,Narmada,-,-,-,-,22.18500000,73.74250000,Yes,0.0000,90.93,06-12-2020 11:00,90.92

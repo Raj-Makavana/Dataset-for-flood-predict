@@ -1,0 +1,47 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
+1,Betawada,Gujarat SW GW,24,Gujarat,450,Kheda,KAPADVANJ,-,-,-,Sabarmati,-,-,-,-,23.08555556,73.05555556,Yes,0.0000,69.92,21-03-1970 00:00,71.06
+2,Bhempoda,Gujarat SW GW,24,Gujarat,672,Aravalli,Malpur,-,-,Sabarmati,Sabarmati,-,-,-,-,23.31888889,73.40555556,No,0,130.14,28-04-1970 14:00,129.983
+3,Bhempoda,Gujarat SW GW,24,Gujarat,672,Aravalli,Malpur,-,-,Sabarmati,Sabarmati,-,-,-,-,23.31888889,73.40555556,No,0,130.14,08-10-1970 13:00,132.572
+4,Bilodra,Gujarat SW GW,24,Gujarat,450,Kheda,NADIAD,-,-,-,Sabarmati,-,-,-,-,22.73666667,72.87777778,Yes,0.0000,25.60,17-01-1970 00:00,1015.905
+5,Bilodra,Gujarat SW GW,24,Gujarat,450,Kheda,NADIAD,-,-,-,Sabarmati,-,-,-,-,22.73666667,72.87777778,Yes,0.0000,25.60,07-09-1973 11:00,24.366
+6,Dabha,Gujarat SW GW,24,Gujarat,672,Aravalli,Bayad,-,-,Sabarmati,Sabarmati,-,-,-,-,23.21500000,73.09916667,Yes,0.0000,70.63,08-10-1970 13:00,70.849
+7,Dabha,Gujarat SW GW,24,Gujarat,672,Aravalli,Bayad,-,-,Sabarmati,Sabarmati,-,-,-,-,23.21500000,73.09916667,Yes,0.0000,70.63,04-03-1972 21:00,70.607
+8,Dabha,Gujarat SW GW,24,Gujarat,672,Aravalli,Bayad,-,-,Sabarmati,Sabarmati,-,-,-,-,23.21500000,73.09916667,Yes,0.0000,70.63,12-03-1982 11:00,70.668
+9,Dakor,Gujarat SW GW,24,Gujarat,450,Kheda,THASRA,-,-,-,Sabarmati,-,-,-,-,22.74777778,73.15027778,Yes,0.0000,45.47,09-11-1970 00:00,45.285
+10,Dharoi,Gujarat SW GW,24,Gujarat,451,Mahesana,KHERALU,-,-,Sabarmati,Sabarmati,-,-,-,Sabarmati,24.00444444,72.85388889,No,0,74.00,03-10-1970 15:00,184.577
+11,Dharoi,Gujarat SW GW,24,Gujarat,451,Mahesana,KHERALU,-,-,Sabarmati,Sabarmati,-,-,-,Sabarmati,24.00444444,72.85388889,No,0,74.00,09-10-1970 17:00,184.61
+12,Ganapipali,Gujarat SW GW,24,Gujarat,441,Banaskantha,DANTA,-,-,-,Sabarmati,-,-,-,-,24.29361111,72.94555556,Yes,0.0000,254.00,31-10-1970 08:00,253.88
+13,Ganapipali,Gujarat SW GW,24,Gujarat,441,Banaskantha,DANTA,-,-,-,Sabarmati,-,-,-,-,24.29361111,72.94555556,Yes,0.0000,254.00,29-11-1970 00:00,253.925
+14,Goma,Gujarat SW GW,24,Gujarat,676,Botad,Botad,-,-,Sabarmati,Sabarmati,-,-,-,-,22.23472222,71.51305556,No,0,123.96,08-10-1970 20:00,124.207
+15,Hathmati   Bhiloda,Gujarat SW GW,24,Gujarat,672,Aravalli,Bhiloda,-,-,Sabarmati,Sabarmati,-,-,-,-,23.76416667,73.25611111,Yes,0.0000,187.11,05-10-1970 00:00,187.47
+16,Khandiol (Guhai) dam,Gujarat SW GW,24,Gujarat,458,Sabarkantha,IDAR,-,-,Sabarmati,Sabarmati,Guhai,-,-,Guhai,23.69972222,73.05166667,No,0,156.08,09-07-1973 16:00,165.3
+17,Khari   Magodi,Gujarat SW GW,24,Gujarat,446,Gandhinagar,GANDHINAGAR,-,-,-,Sabarmati,-,-,-,-,23.20194444,72.77527778,No,0.0000,69.49,18-02-1971 16:00,69.537
+18,Khari   Magodi,Gujarat SW GW,24,Gujarat,446,Gandhinagar,GANDHINAGAR,-,-,-,Sabarmati,-,-,-,-,23.20194444,72.77527778,No,0.0000,69.49,05-07-1972 06:00,69.394
+19,L.Bhogavo_Limbdi,Gujarat SW GW,24,Gujarat,460,Surendranagar,LIMBDI,-,-,-,Sabarmati,-,-,-,-,22.56611111,71.81000000,No,0,39.90,08-08-1970 00:00,39.899
+20,Limdi Bhogavo dam,Gujarat SW GW,24,Gujarat,460,Surendranagar,SAYLA,-,-,-,Sabarmati,-,-,-,-,22.47944444,71.45055556,No,0,121.10,12-01-1970 00:00,44.738
+21,Limdi Bhogavo dam,Gujarat SW GW,24,Gujarat,460,Surendranagar,SAYLA,-,-,-,Sabarmati,-,-,-,-,22.47944444,71.45055556,No,0,121.10,02-09-1970 04:00,41.935
+22,Limdi Bhogavo-II,Gujarat SW GW,24,Gujarat,460,Surendranagar,WADHWAN,-,-,Sabarmati,Sabarmati,Bhogava,-,-,Bhogava,22.55500000,71.66361111,No,0,72.23,12-04-1970 10:00,72.265
+23,Mahemdabad,Gujarat SW GW,24,Gujarat,450,Kheda,MEHMEDABAD,-,-,-,Sabarmati,-,-,-,-,22.83527778,72.76444444,Yes,0.0000,23.73,01-02-1970 19:00,23.851
+24,Mahemdabad,Gujarat SW GW,24,Gujarat,450,Kheda,MEHMEDABAD,-,-,-,Sabarmati,-,-,-,-,22.83527778,72.76444444,Yes,0.0000,23.73,07-09-1970 08:00,24.663
+25,Mahemdabad,Gujarat SW GW,24,Gujarat,450,Kheda,MEHMEDABAD,-,-,-,Sabarmati,-,-,-,-,22.83527778,72.76444444,Yes,0.0000,23.73,24-09-1970 00:00,23.645
+26,Mahemdabad,Gujarat SW GW,24,Gujarat,450,Kheda,MEHMEDABAD,-,-,-,Sabarmati,-,-,-,-,22.83527778,72.76444444,Yes,0.0000,23.73,07-10-1970 20:00,24.669
+27,Meshwo_Kabola,Gujarat SW GW,24,Gujarat,672,Aravalli,Modasa,-,-,Sabarmati,Sabarmati,Watrak,-,-,Watrak,23.52638889,73.21638889,No,0,132.91,01-01-1970 09:00,132.947
+28,Meshwo_Kabola,Gujarat SW GW,24,Gujarat,672,Aravalli,Modasa,-,-,Sabarmati,Sabarmati,Watrak,-,-,Watrak,23.52638889,73.21638889,No,0,132.91,09-01-1970 15:00,132.941
+29,Meshwo_Kabola,Gujarat SW GW,24,Gujarat,672,Aravalli,Modasa,-,-,Sabarmati,Sabarmati,Watrak,-,-,Watrak,23.52638889,73.21638889,No,0,132.91,08-04-1970 00:56,133.064
+30,Meshwo_Kabola,Gujarat SW GW,24,Gujarat,672,Aravalli,Modasa,-,-,Sabarmati,Sabarmati,Watrak,-,-,Watrak,23.52638889,73.21638889,No,0,132.91,14-05-1970 00:00,133.141
+31,Minamuvada,Gujarat SW GW,24,Gujarat,446,Gandhinagar,DEHGAM,-,-,-,Sabarmati,-,-,-,-,23.18055556,72.92166667,Yes,0.0000,64.27,18-08-1970 09:00,64.699
+32,Minamuvada,Gujarat SW GW,24,Gujarat,446,Gandhinagar,DEHGAM,-,-,-,Sabarmati,-,-,-,-,23.18055556,72.92166667,Yes,0.0000,64.27,09-10-1970 00:00,64.26
+33,Minamuvada,Gujarat SW GW,24,Gujarat,446,Gandhinagar,DEHGAM,-,-,-,Sabarmati,-,-,-,-,23.18055556,72.92166667,Yes,0.0000,64.27,09-10-1970 12:00,64.089
+34,Nani Jher,Gujarat SW GW,24,Gujarat,450,Kheda,KAPADVANJ,-,-,-,Sabarmati,-,-,-,-,23.16722222,73.12583333,No,0,78.63,04-01-1970 18:00,78.868
+35,Nani Jher,Gujarat SW GW,24,Gujarat,450,Kheda,KAPADVANJ,-,-,-,Sabarmati,-,-,-,-,23.16722222,73.12583333,No,0,78.63,09-10-1970 01:00,78.877
+36,Nayka,Gujarat SW GW,24,Gujarat,460,Surendranagar,MULI,-,-,Sabarmati,Sabarmati,Bhogava,-,-,Bhogava,22.67500000,71.47361111,No,0,98.36,11-12-1978 16:00,101.808
+37,Rellawada,Gujarat SW GW,24,Gujarat,672,Aravalli,Meghraj,-,-,-,Sabarmati,-,-,-,-,23.61861111,73.46916667,Yes,0.0000,178.85,01-01-1970 01:00,178.886
+38,Rellawada,Gujarat SW GW,24,Gujarat,672,Aravalli,Meghraj,-,-,-,Sabarmati,-,-,-,-,23.61861111,73.46916667,Yes,0.0000,178.85,13-01-1970 19:00,182.355
+39,Sabarmati_Gandhinagar,Gujarat SW GW,24,Gujarat,446,Gandhinagar,GANDHINAGAR,-,-,-,Sabarmati,-,-,-,-,23.24500000,72.68444444,No,0,51.00,08-04-1970 16:00,52.1
+40,Sabarmati_Gandhinagar,Gujarat SW GW,24,Gujarat,446,Gandhinagar,GANDHINAGAR,-,-,-,Sabarmati,-,-,-,-,23.24500000,72.68444444,No,0,51.00,13-11-1970 02:00,51.821
+41,Sabarmati_Gandhinagar,Gujarat SW GW,24,Gujarat,446,Gandhinagar,GANDHINAGAR,-,-,-,Sabarmati,-,-,-,-,23.24500000,72.68444444,No,0,51.00,17-11-1970 05:00,51.879
+42,Sabarmati_Gandhinagar,Gujarat SW GW,24,Gujarat,446,Gandhinagar,GANDHINAGAR,-,-,-,Sabarmati,-,-,-,-,23.24500000,72.68444444,No,0,51.00,10-01-1976 17:00,51.553
+43,Vanaj dam,Gujarat SW GW,24,Gujarat,458,Sabarkantha,VIJAYNAGAR,-,-,Sabarmati,Sabarmati,Harnav,-,-,Harnav,23.98500000,73.29916667,No,0,307.82,06-10-1970 10:00,328.712
+44,Vanaj dam,Gujarat SW GW,24,Gujarat,458,Sabarkantha,VIJAYNAGAR,-,-,Sabarmati,Sabarmati,Harnav,-,-,Harnav,23.98500000,73.29916667,No,0,307.82,21-01-1974 13:00,328.75
+45,Vanaj dam,Gujarat SW GW,24,Gujarat,458,Sabarkantha,VIJAYNAGAR,-,-,Sabarmati,Sabarmati,Harnav,-,-,Harnav,23.98500000,73.29916667,No,0,307.82,11-04-1976 20:00,328.701
+46,Volvo,Gujarat SW GW,24,Gujarat,672,Aravalli,Modasa,-,-,Sabarmati,Sabarmati,Mazam,-,-,-,23.48305556,73.35472222,No,0,153.21,24-01-1970 07:00,151.84
