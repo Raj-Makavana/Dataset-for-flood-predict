@@ -1,0 +1,28 @@
+# Environment secret files
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data directories
+# data/raw/*
+
+# IDE and Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Node / Web dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Model files
+models/*.joblib
+
