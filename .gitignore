@@ -17,12 +17,9 @@ __pycache__/
 # IDE and Editor files
 .vscode/
 .idea/
-.DS_Store
+# Incomplete downloads & large uncompressed shapefiles (>100MB)
+*.crdownload
+data/raw/Reservoir.shp
+data/raw/Reservoir.dbf
 
-# Node / Web dependencies
-frontend/node_modules/
-frontend/dist/
-
-# Model files
-models/*.joblib
 

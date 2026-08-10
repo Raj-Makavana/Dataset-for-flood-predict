@@ -1,0 +1,8 @@
+State,File,Metric,Rows Before,Rows After,Duplicates Removed,Missing LatLon Fixed,Missing Target Before,Missing Target After,Clean Path
+Andhra Pradesh,reservior_storage_manual_daily_andhra_pradesh_sw_ap_1970_2025.csv,Reservoir_Storage_mcm,98888,98888,0,0,8,0,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_reservior_storage_manual_daily_andhra_pradesh_sw_ap_1970_2025.csv
+Andhra Pradesh,reservior_water_level_manual_daily_andhra_pradesh_sw_ap_1970_2025.csv,Reservoir_Water_Level_m,126645,123085,3560,0,19,0,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_reservior_water_level_manual_daily_andhra_pradesh_sw_ap_1970_2025.csv
+Andhra Pradesh,reservior_water_level_manual_daily_andhra_pradesh_sw_ap_2026_2030.csv,Reservoir_Water_Level_m,1,1,0,0,0,0,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_reservior_water_level_manual_daily_andhra_pradesh_sw_ap_2026_2030.csv
+Tamil Nadu,river_discharge_manual_daily_cwc_tn_2001_2025.csv,River_Discharge_m3sec,299129,298329,800,0,0,0,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_river_discharge_manual_daily_cwc_tn_2001_2025.csv
+Tripura,river_discharge_manual_daily_cwc_tr_2001_2025.csv,River_Discharge_m3sec,919,919,0,0,0,0,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_river_discharge_manual_daily_cwc_tr_2001_2025.csv
+Telangana,river_discharge_manual_daily_cwc_ts_2001_2025.csv,River_Discharge_m3sec,113910,113064,846,0,0,0,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_river_discharge_manual_daily_cwc_ts_2001_2025.csv
+West Bengal,river_discharge_manual_daily_cwc_wb_2001_2025.csv,River_Discharge_m3sec,6906,6903,3,0,0,0,c:\Users\Lenovo\Desktop\FRP\data\cleaned\cleaned_river_discharge_manual_daily_cwc_wb_2001_2025.csv
