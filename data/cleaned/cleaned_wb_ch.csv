@@ -1,0 +1,40 @@
+id,objectid_1,Wetland_Code,Wetland_Name,Aquatic_Vegetation,Turbidity,Level_I_Category,Level_II_Category,Waterbody_Type,Area_ha,remarks,Latitude,Longitude,State_Code,Perimeter_Length_m,Shape_Area_sqm,Dataset_Name,Source_Agency,Waterbody_Name
+4,4,1202,Water Treatment Plant,No,Moderate,Inland,Man-made,Industrial,1.65672468900208,,30.7478502239,76.7275783251,Chandigarh,515.170211253638,16567.2468900208,Hydrological Layer,SAC N,Tank/Pond
+10,10,1202,,No,Moderate,Inland,Man-made,Urban,0.436916415488394,,30.7739393643,76.7719376965,Chandigarh,241.956829623975,4369.16415488394,Hydrological Layer,SAC N,Tank/Pond
+1,1,1202,,Yes,Moderate,Inland,Man-made,Urban,1.12594945523399,,30.6727079689,76.7748548048,Chandigarh,439.656039098154,11259.4945523399,Hydrological Layer,SAC N,Tank/Pond
+2,2,1202,,Yes,Moderate,Inland,Man-made,Urban,0.74581354324868,,30.7435727901,76.7062234487,Chandigarh,467.749273737203,7458.1354324868,Hydrological Layer,SAC N,Tank/Pond
+3,3,1202,,No,Moderate,Inland,Man-made,Urban,0.0267845845380469,,30.7879303349,76.7587960162,Chandigarh,79.1412948910121,267.845845380469,Hydrological Layer,SAC N,Tank/Pond
+5,5,1202,Water Treatment Plant,No,Moderate,Inland,Man-made,Industrial,8.59757385985186,,30.7521341466,76.7277045732,Chandigarh,1575.94509640796,85975.7385985186,Hydrological Layer,SAC N,Tank/Pond
+6,6,1202,Water Treatment Plant,No,Moderate,Inland,Man-made,Industrial,0.888795961059627,,30.7519867968,76.7241731634,Chandigarh,377.397263658969,8887.95961059627,Hydrological Layer,SAC N,Tank/Pond
+16,16,1202,,No,Moderate,Inland,Man-made,Urban,0.290370304646826,,30.7319674166,76.841336001,Chandigarh,198.919399889598,2903.70304646826,Hydrological Layer,SAC N,Tank/Pond
+18,18,1202,,No,Moderate,Inland,Man-made,Urban,0.722862591563782,,30.7567141454,76.8283195019,Chandigarh,306.313405932097,7228.62591563782,Hydrological Layer,SAC N,Tank/Pond
+28,28,1202,,No,Moderate,Inland,Man-made,Urban,0.411616462947082,,30.7602579522,76.8031205048,Chandigarh,271.436562180642,4116.16462947082,Hydrological Layer,SAC N,Tank/Pond
+7,7,1202,Water Treatment Plant,No,Moderate,Inland,Man-made,Industrial,3.96752623798655,,30.7511889089,76.7320113565,Chandigarh,1083.46613652716,39675.2623798655,Hydrological Layer,SAC N,Tank/Pond
+8,8,1202,Dhanas Lake,Yes,Moderate,Inland,Man-made,Urban,6.84031826891204,,30.7664081883,76.7578909593,Chandigarh,1287.17636606992,68403.1826891204,Hydrological Layer,SAC N,Tank/Pond
+22,22,1202,,Yes,Moderate,Inland,Man-made,Urban,0.808077400923301,,30.7745305346,76.8098440481,Chandigarh,331.495624140054,8080.77400923301,Hydrological Layer,SAC N,Tank/Pond
+38,38,1203,,Yes,Moderate,Inland,Man-made,,1.81459481634778,,30.7342562566,76.835463571,Chandigarh,612.399567546404,18145.9481634778,Hydrological Layer,SAC N,Waterlogged
+33,33,1203,,Yes,Moderate,Inland,Man-made,,1.86167495190462,,30.7843010172,76.7617821272,Chandigarh,659.064268617988,18616.7495190462,Hydrological Layer,SAC N,Waterlogged
+39,39,1203,,NA,NA,Inland,Man-made,,0.81023684568741,,30.7324902001,76.8390688084,Chandigarh,338.036740688936,8102.3684568741,Hydrological Layer,SAC N,Waterlogged
+9,9,1202,,No,Moderate,Inland,Man-made,Urban,3.2412300273357,,30.7752928134,76.7634926978,Chandigarh,944.752529621546,32412.300273357,Hydrological Layer,SAC N,Tank/Pond
+11,11,1202,New Lake,No,Moderate,Inland,Man-made,Urban,1.64331592587687,,30.7269477639,76.7380883804,Chandigarh,691.649423607555,16433.1592587687,Hydrological Layer,SAC N,Tank/Pond
+12,12,1202,Water Treatment Plant,Yes,Moderate,Inland,Man-made,Industrial,2.62942979462988,,30.6923126925,76.7782093401,Chandigarh,800.365611575508,26294.2979462988,Hydrological Layer,SAC N,Tank/Pond
+13,13,1202,Water Treatment Plant,No,Moderate,Inland,Man-made,Industrial,2.08953287765884,,30.679742045,76.8226050669,Chandigarh,566.432175679173,20895.3287765884,Hydrological Layer,SAC N,Tank/Pond
+14,14,1202,Water Treatment Plant,No,Moderate,Inland,Man-made,Industrial,0.513724272269929,,30.6735777472,76.8140685304,Chandigarh,301.310377842213,5137.24272269929,Hydrological Layer,SAC N,Tank/Pond
+15,15,1202,,No,Moderate,Inland,Man-made,Urban,0.850002657678549,,30.7287419069,76.8090638191,Chandigarh,388.125274861267,8500.02657678549,Hydrological Layer,SAC N,Tank/Pond
+17,17,1202,,No,Moderate,Inland,Man-made,Urban,1.03392300806394,,30.7570404099,76.8225779271,Chandigarh,370.922291879546,10339.2300806394,Hydrological Layer,SAC N,Tank/Pond
+19,19,1203,,No,Moderate,Inland,Man-made,,1.5702440410536,,30.7489517885,76.8203370989,Chandigarh,492.668560142229,15702.440410536,Hydrological Layer,SAC N,Waterlogged
+20,20,1202,,No,Moderate,Inland,Man-made,Urban,1.5488133937836,,30.7372767506,76.8290382713,Chandigarh,591.541920748985,15488.133937836,Hydrological Layer,SAC N,Tank/Pond
+35,35,1202,,Yes,Moderate,Inland,Man-made,Urban,0.257084882028598,,30.7768423942,76.765587377,Chandigarh,183.293919984532,2570.84882028598,Hydrological Layer,SAC N,Tank/Pond
+21,21,1201,Sukhna Lake,Yes,Moderate,Inland,Man-made,Barrage,168.127270024049,,30.7415318928,76.820492174,Chandigarh,6401.97210920087,1681272.70024049,Hydrological Layer,SAC N,Reservoir/Barrage
+23,23,1203,,Yes,Moderate,Inland,Man-made,,2.27656380077954,,30.7350377697,76.8326997143,Chandigarh,837.905965424938,22765.6380077954,Hydrological Layer,SAC N,Waterlogged
+24,24,1203,,Yes,Moderate,Inland,Man-made,,1.53491717928836,,30.7605393112,76.7300294037,Chandigarh,673.132128504887,15349.1717928836,Hydrological Layer,SAC N,Waterlogged
+25,25,1202,,Yes,Moderate,Inland,Man-made,Urban,1.20760137911822,,30.7568757772,76.7146791681,Chandigarh,402.118858919878,12076.0137911822,Hydrological Layer,SAC N,Tank/Pond
+26,26,1203,,No,Moderate,Inland,Man-made,,1.205983919649,,30.7578193942,76.7412959278,Chandigarh,527.314218839119,12059.83919649,Hydrological Layer,SAC N,Waterlogged
+27,27,1203,,Yes,Moderate,Inland,Man-made,,1.44090407287791,,30.753375197,76.8133968652,Chandigarh,508.170977779874,14409.0407287791,Hydrological Layer,SAC N,Waterlogged
+29,29,1202,,No,Moderate,Inland,Man-made,Urban,0.39649312738369,,30.7607773842,76.8039788956,Chandigarh,256.966682552554,3964.9312738369,Hydrological Layer,SAC N,Tank/Pond
+30,30,1203,,Yes,Moderate,Inland,Man-made,,2.0879856922292,,30.7586908004,76.735797448,Chandigarh,650.642925056991,20879.856922292,Hydrological Layer,SAC N,Waterlogged
+31,31,1203,,Yes,Moderate,Inland,Man-made,,1.48893623675259,,30.6885175076,76.819883991,Chandigarh,472.191947216822,14889.3623675259,Hydrological Layer,SAC N,Waterlogged
+32,32,1203,,Yes,Moderate,Inland,Man-made,,6.96704202826641,,30.6855908372,76.8218459051,Chandigarh,1119.6243939861,69670.4202826641,Hydrological Layer,SAC N,Waterlogged
+34,34,1202,,No,Moderate,Inland,Man-made,Urban,0.600133970549274,,30.779657021,76.7690252655,Chandigarh,280.407571471374,6001.33970549274,Hydrological Layer,SAC N,Tank/Pond
+36,36,1202,,Yes,Moderate,Inland,Man-made,Urban,2.36672035664413,,30.7710011945,76.7548359046,Chandigarh,733.802544967085,23667.2035664413,Hydrological Layer,SAC N,Tank/Pond
+37,37,1203,,Yes,Moderate,Inland,Man-made,,0.608699852259404,,30.6811897949,76.7950651437,Chandigarh,300.287030413905,6086.99852259404,Hydrological Layer,SAC N,Waterlogged
