@@ -1,0 +1,813 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Manual Daily Rainfall (mm)
+1,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-06-19 08:30:00,14.8
+2,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-06-20 08:30:00,14.0
+3,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-06-22 08:30:00,8.6
+4,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-06-23 08:30:00,2.4
+5,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-06-27 08:30:00,6.2
+6,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-06-29 08:30:00,4.8
+7,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-05-07 08:30:00,2.2
+8,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-07-20 08:30:00,97.6
+9,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-07-21 08:30:00,8.4
+10,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-07-24 08:30:00,14.2
+11,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-07-29 08:30:00,4.2
+12,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-07-30 08:30:00,55.0
+13,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-07-31 08:30:00,54.8
+14,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-08-08 08:30:00,64.6
+15,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-08 08:30:00,25.2
+16,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-10-08 08:30:00,23.2
+17,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-12-08 08:30:00,17.4
+18,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-08-13 08:30:00,13.4
+19,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-08-17 08:30:00,14.8
+20,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-08-18 08:30:00,32.6
+21,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-08-26 08:30:00,12.2
+22,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-08-28 08:30:00,13.6
+23,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-08-30 08:30:00,14.2
+24,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-03-09 08:30:00,15.2
+25,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-04-09 08:30:00,2.2
+26,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-07-09 08:30:00,3.0
+27,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-09 08:30:00,3.0
+28,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-11-09 08:30:00,16.2
+29,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-12-09 08:30:00,4.8
+30,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-13 08:30:00,15.8
+31,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-14 08:30:00,11.4
+32,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-15 08:30:00,16.8
+33,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-23 08:30:00,20.2
+34,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-27 08:30:00,9.4
+35,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-29 08:30:00,12.2
+36,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-09-30 08:30:00,125.4
+37,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-01-10 08:30:00,88.2
+38,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-02-10 08:30:00,2.2
+39,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-03-10 08:30:00,5.0
+40,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-10-19 08:30:00,11.6
+41,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2021-10-20 08:30:00,34.2
+42,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-06-19 08:30:00,4.2
+43,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-06-20 08:30:00,6.2
+44,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-06-22 08:30:00,22.6
+45,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-02-07 08:30:00,16.8
+46,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-07 08:30:00,8.4
+47,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-07-21 08:30:00,22.6
+48,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-07-25 08:30:00,6.4
+49,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-07-26 08:30:00,9.2
+50,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-07-29 08:30:00,24.2
+51,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-01-08 08:30:00,2.4
+52,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-07-08 08:30:00,11.8
+53,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-08 08:30:00,3.8
+54,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-10-08 08:30:00,2.8
+55,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-11-08 08:30:00,14.8
+56,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-20 08:30:00,72.4
+57,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-24 08:30:00,17.6
+58,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-25 08:30:00,8.6
+59,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-26 08:30:00,11.6
+60,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-29 08:30:00,38.8
+61,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-31 08:30:00,17.2
+62,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-01-09 08:30:00,50.4
+63,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-02-09 08:30:00,40.6
+64,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-04-09 08:30:00,20.6
+65,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-07-09 08:30:00,4.6
+66,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-08-09 08:30:00,11.2
+67,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-12-09 08:30:00,35.2
+68,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-13 08:30:00,21.8
+69,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-14 08:30:00,12.4
+70,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-21 08:30:00,21.4
+71,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-26 08:30:00,29.2
+72,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-27 08:30:00,39.2
+73,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-28 08:30:00,48.4
+74,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-09-30 08:30:00,18.6
+75,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-03-10 08:30:00,60.6
+76,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-04-10 08:30:00,46.2
+77,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-05-10 08:30:00,15.7
+78,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2022-12-10 08:30:00,22.2
+79,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-06-21 08:30:00,3.2
+80,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-06-26 08:30:00,6.4
+81,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-06-27 08:30:00,2.2
+82,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-06-28 08:30:00,13.4
+83,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-06-29 08:30:00,20.2
+84,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-06-30 08:30:00,15.4
+85,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-02-07 08:30:00,20.4
+86,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-05-07 08:30:00,22.4
+87,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-07-18 08:30:00,16.4
+88,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-07-22 08:30:00,8.4
+89,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-07-31 08:30:00,7.0
+90,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-02-08 08:30:00,16.6
+91,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-03-08 08:30:00,14.4
+92,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-08-08 08:30:00,16.4
+93,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-08-14 08:30:00,16.4
+94,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-08-18 08:30:00,21.4
+95,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-08-24 08:30:00,12.4
+96,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-08-25 08:30:00,14.4
+97,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-06-09 08:30:00,32.2
+98,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-08-09 08:30:00,33.6
+99,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-09-09 08:30:00,50.2
+100,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-09-15 08:30:00,4.0
+101,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-09-21 08:30:00,18.2
+102,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-09-22 08:30:00,14.6
+103,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-09-23 08:30:00,6.4
+104,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-09-25 08:30:00,14.4
+105,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-09-30 08:30:00,40.8
+106,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-01-10 08:30:00,40.2
+107,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-02-10 08:30:00,6.4
+108,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-03-10 08:30:00,14.8
+109,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-04-10 08:30:00,20.8
+110,Barkisuriya,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.22083333,85.90277778,2023-05-10 08:30:00,22.8
+111,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-02-06 08:30:00,3.6
+112,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-04-06 08:30:00,2.6
+113,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-05-06 08:30:00,0.8
+114,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-12-06 08:30:00,3.2
+115,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-13 08:30:00,9.2
+116,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-14 08:30:00,8.2
+117,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-15 08:30:00,4.2
+118,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-16 08:30:00,1.4
+119,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-17 08:30:00,22.8
+120,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-18 08:30:00,8.4
+121,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-19 08:30:00,5.6
+122,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-20 08:30:00,4.6
+123,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-21 08:30:00,27.2
+124,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-22 08:30:00,4.6
+125,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-23 08:30:00,3.8
+126,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-24 08:30:00,1.6
+127,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-26 08:30:00,9.2
+128,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-27 08:30:00,4.6
+129,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-28 08:30:00,2.8
+130,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-30 08:30:00,1.8
+131,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-03-07 08:30:00,14.8
+132,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-04-07 08:30:00,12.2
+133,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-05-07 08:30:00,1.6
+134,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-07 08:30:00,3.8
+135,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-07 08:30:00,8.6
+136,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-07 08:30:00,14.2
+137,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-13 08:30:00,1.2
+138,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-15 08:30:00,0.8
+139,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-18 08:30:00,5.8
+140,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-19 08:30:00,10.6
+141,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-20 08:30:00,14.6
+142,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-21 08:30:00,6.2
+143,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-23 08:30:00,1.6
+144,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-24 08:30:00,20.6
+145,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-25 08:30:00,9.2
+146,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-27 08:30:00,4.2
+147,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-28 08:30:00,2.6
+148,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-29 08:30:00,9.8
+149,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-30 08:30:00,42.2
+150,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-31 08:30:00,95.4
+151,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-01-08 08:30:00,1.4
+152,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-02-08 08:30:00,1.2
+153,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-04-08 08:30:00,24.2
+154,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-05-08 08:30:00,4.8
+155,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-08 08:30:00,7.4
+156,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-08 08:30:00,1.6
+157,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-08 08:30:00,9.2
+158,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-08 08:30:00,1.4
+159,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-11-08 08:30:00,1.8
+160,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-14 08:30:00,2.6
+161,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-16 08:30:00,4.6
+162,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-17 08:30:00,4.2
+163,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-18 08:30:00,5.2
+164,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-19 08:30:00,16.8
+165,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-20 08:30:00,9.6
+166,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-21 08:30:00,3.8
+167,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-23 08:30:00,2.4
+168,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-25 08:30:00,15.2
+169,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-26 08:30:00,10.8
+170,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-28 08:30:00,6.2
+171,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-29 08:30:00,8.8
+172,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-30 08:30:00,7.6
+173,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-31 08:30:00,12.2
+174,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-01-09 08:30:00,5.2
+175,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-05-09 08:30:00,0.8
+176,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-09 08:30:00,0.8
+177,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-09 08:30:00,5.2
+178,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-08-09 08:30:00,14.4
+179,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-09 08:30:00,10.4
+180,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-10-09 08:30:00,12.4
+181,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-11-09 08:30:00,2.8
+182,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-12-09 08:30:00,5.4
+183,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-13 08:30:00,15.4
+184,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-14 08:30:00,31.4
+185,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-15 08:30:00,19.2
+186,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-16 08:30:00,23.4
+187,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-19 08:30:00,1.4
+188,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-21 08:30:00,4.6
+189,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-22 08:30:00,7.8
+190,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-23 08:30:00,21.2
+191,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-24 08:30:00,1.2
+192,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-27 08:30:00,8.6
+193,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-28 08:30:00,4.8
+194,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-29 08:30:00,11.6
+195,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-09-30 08:30:00,188.2
+196,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-01-10 08:30:00,77.4
+197,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-02-10 08:30:00,22.6
+198,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-03-10 08:30:00,4.8
+199,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-06-10 08:30:00,0.2
+200,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-07-10 08:30:00,4.2
+201,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-10-16 08:30:00,16.2
+202,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-10-17 08:30:00,2.8
+203,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-10-18 08:30:00,14.6
+204,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-10-19 08:30:00,9.8
+205,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2021-10-20 08:30:00,4.2
+206,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-10-06 08:30:00,0.4
+207,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-11-06 08:30:00,6.02
+208,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-12-06 08:30:00,8.2
+209,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-14 08:30:00,1.2
+210,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-15 08:30:00,1.8
+211,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-16 08:30:00,2.8
+212,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-18 08:30:00,4.8
+213,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-20 08:30:00,3.8
+214,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-22 08:30:00,10.8
+215,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-25 08:30:00,2.4
+216,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-02-07 08:30:00,6.2
+217,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-03-07 08:30:00,8.2
+218,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-04-07 08:30:00,4.2
+219,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-05-07 08:30:00,1.8
+220,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-07 08:30:00,10.4
+221,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-07 08:30:00,12.2
+222,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-10-07 08:30:00,4.8
+223,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-11-07 08:30:00,1.8
+224,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-13 08:30:00,4.2
+225,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-14 08:30:00,2.2
+226,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-15 08:30:00,4.8
+227,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-16 08:30:00,8.8
+228,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-17 08:30:00,0.6
+229,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-18 08:30:00,1.4
+230,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-22 08:30:00,0.6
+231,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-23 08:30:00,10.4
+232,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-24 08:30:00,10.2
+233,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-25 08:30:00,10.2
+234,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-26 08:30:00,7.8
+235,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-27 08:30:00,2.8
+236,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-29 08:30:00,14.2
+237,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-30 08:30:00,1.4
+238,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-31 08:30:00,12.4
+239,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-01-08 08:30:00,0.8
+240,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-02-08 08:30:00,4.2
+241,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-04-08 08:30:00,1.4
+242,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-05-08 08:30:00,11.2
+243,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-08 08:30:00,1.6
+244,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-08 08:30:00,3.2
+245,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-10-08 08:30:00,14.4
+246,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-11-08 08:30:00,98.4
+247,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-12-08 08:30:00,32.4
+248,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-14 08:30:00,29.4
+249,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-15 08:30:00,43.4
+250,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-16 08:30:00,8.2
+251,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-19 08:30:00,14.8
+252,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-20 08:30:00,61.2
+253,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-21 08:30:00,24.6
+254,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-22 08:30:00,17.2
+255,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-25 08:30:00,16.4
+256,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-29 08:30:00,20.4
+257,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-31 08:30:00,8.4
+258,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-01-09 08:30:00,12.8
+259,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-03-09 08:30:00,15.2
+260,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-04-09 08:30:00,6.2
+261,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-05-09 08:30:00,14.8
+262,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-09 08:30:00,5.2
+263,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-09 08:30:00,1.8
+264,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-08-09 08:30:00,20.8
+265,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-09 08:30:00,4.2
+266,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-10-09 08:30:00,10.2
+267,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-11-09 08:30:00,18.8
+268,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-12-09 08:30:00,20.8
+269,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-13 08:30:00,52.8
+270,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-14 08:30:00,48.4
+271,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-15 08:30:00,12.2
+272,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-16 08:30:00,1.2
+273,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-18 08:30:00,11.2
+274,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-19 08:30:00,8.8
+275,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-20 08:30:00,22.8
+276,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-21 08:30:00,18.8
+277,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-22 08:30:00,2.8
+278,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-26 08:30:00,10.2
+279,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-28 08:30:00,15.6
+280,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-09-30 08:30:00,14.8
+281,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-03-10 08:30:00,26.4
+282,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-04-10 08:30:00,16.8
+283,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-05-10 08:30:00,48.6
+284,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-06-10 08:30:00,6.2
+285,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-07-10 08:30:00,8.2
+286,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-12-10 08:30:00,7.4
+287,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-10-13 08:30:00,12.4
+288,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-10-14 08:30:00,6.2
+289,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2022-10-25 08:30:00,0.4
+290,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-13 08:30:00,0.2
+291,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-19 08:30:00,0.8
+292,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-21 08:30:00,1.2
+293,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-22 08:30:00,2.6
+294,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-26 08:30:00,6.6
+295,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-27 08:30:00,8.2
+296,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-28 08:30:00,8.8
+297,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-29 08:30:00,5.8
+298,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-30 08:30:00,5.2
+299,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-01-07 08:30:00,4.2
+300,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-02-07 08:30:00,2.2
+301,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-03-07 08:30:00,4.4
+302,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-05-07 08:30:00,4.2
+303,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-07 08:30:00,4.8
+304,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-07 08:30:00,2.8
+305,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-12-07 08:30:00,0.8
+306,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-16 08:30:00,4.4
+307,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-17 08:30:00,4.2
+308,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-18 08:30:00,6.6
+309,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-19 08:30:00,5.8
+310,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-21 08:30:00,4.2
+311,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-22 08:30:00,9.8
+312,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-23 08:30:00,4.6
+313,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-24 08:30:00,4.4
+314,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-27 08:30:00,4.2
+315,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-28 08:30:00,2.2
+316,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-29 08:30:00,2.6
+317,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-30 08:30:00,14.4
+318,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-31 08:30:00,6.2
+319,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-01-08 08:30:00,4.8
+320,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-02-08 08:30:00,8.8
+321,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-03-08 08:30:00,23.8
+322,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-04-08 08:30:00,1.4
+323,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-08 08:30:00,1.6
+324,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-08 08:30:00,8.6
+325,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-10-08 08:30:00,8.8
+326,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-11-08 08:30:00,8.2
+327,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-12-08 08:30:00,4.8
+328,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-13 08:30:00,10.2
+329,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-14 08:30:00,4.8
+330,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-15 08:30:00,12.4
+331,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-16 08:30:00,6.8
+332,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-17 08:30:00,13.2
+333,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-18 08:30:00,13.6
+334,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-19 08:30:00,5.2
+335,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-23 08:30:00,13.4
+336,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-24 08:30:00,5.8
+337,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-25 08:30:00,6.8
+338,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-26 08:30:00,1.2
+339,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-04-09 08:30:00,13.4
+340,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-05-09 08:30:00,9.2
+341,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-09 08:30:00,5.6
+342,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-07-09 08:30:00,4.8
+343,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-08-09 08:30:00,11.4
+344,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-09 08:30:00,22.4
+345,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-10-09 08:30:00,2.8
+346,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-15 08:30:00,6.8
+347,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-16 08:30:00,4.6
+348,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-17 08:30:00,2.4
+349,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-19 08:30:00,10.2
+350,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-21 08:30:00,14.2
+351,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-22 08:30:00,13.2
+352,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-23 08:30:00,33.8
+353,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-24 08:30:00,2.2
+354,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-27 08:30:00,1.2
+355,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-29 08:30:00,8.2
+356,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-09-30 08:30:00,2.8
+357,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-01-10 08:30:00,38.8
+358,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-02-10 08:30:00,42.8
+359,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-03-10 08:30:00,6.8
+360,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-04-10 08:30:00,22.4
+361,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-05-10 08:30:00,22.8
+362,Chandrapura (CTPS),Damodar Valley Corporation(DVC),20,Jharkhand,322,BOKARO,CHAS,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.73055556,86.12222222,2023-06-10 08:30:00,2.6
+363,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-02-06 08:30:00,3.8
+364,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-05-06 08:30:00,1.6
+365,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-06 08:30:00,1.8
+366,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-11-06 08:30:00,4.4
+367,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-12-06 08:30:00,5.8
+368,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-13 08:30:00,1.8
+369,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-14 08:30:00,5.2
+370,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-15 08:30:00,4.6
+371,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-16 08:30:00,7.2
+372,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-17 08:30:00,17.2
+373,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-18 08:30:00,12.4
+374,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-19 08:30:00,4.6
+375,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-20 08:30:00,4.8
+376,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-21 08:30:00,1.4
+377,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-22 08:30:00,4.8
+378,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-23 08:30:00,2.2
+379,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-24 08:30:00,2.6
+380,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-25 08:30:00,0.8
+381,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-27 08:30:00,3.6
+382,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-30 08:30:00,1.2
+383,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-01-07 08:30:00,1.4
+384,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-03-07 08:30:00,3.4
+385,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-04-07 08:30:00,1.6
+386,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-05-07 08:30:00,1.2
+387,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-07 08:30:00,4.6
+388,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-07 08:30:00,4.4
+389,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-07 08:30:00,4.6
+390,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-07 08:30:00,8.2
+391,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-10-07 08:30:00,4.8
+392,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-11-07 08:30:00,1.2
+393,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-13 08:30:00,3.2
+394,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-14 08:30:00,4.2
+395,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-15 08:30:00,1.6
+396,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-19 08:30:00,2.6
+397,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-20 08:30:00,2.2
+398,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-21 08:30:00,0.8
+399,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-24 08:30:00,17.2
+400,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-25 08:30:00,7.4
+401,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-26 08:30:00,5.4
+402,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-27 08:30:00,5.2
+403,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-28 08:30:00,1.4
+404,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-29 08:30:00,4.5
+405,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-30 08:30:00,16.8
+406,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-31 08:30:00,37.8
+407,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-01-08 08:30:00,0.8
+408,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-04-08 08:30:00,2.8
+409,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-05-08 08:30:00,3.6
+410,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-06-08 08:30:00,1.2
+411,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-08 08:30:00,4.4
+412,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-11-08 08:30:00,2.2
+413,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-12-08 08:30:00,2.6
+414,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-14 08:30:00,1.4
+415,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-16 08:30:00,2.6
+416,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-18 08:30:00,1.2
+417,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-19 08:30:00,3.4
+418,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-21 08:30:00,1.2
+419,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-23 08:30:00,2.4
+420,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-24 08:30:00,2.4
+421,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-25 08:30:00,1.2
+422,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-26 08:30:00,3.2
+423,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-28 08:30:00,2.6
+424,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-30 08:30:00,0.8
+425,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-31 08:30:00,2.8
+426,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-01-09 08:30:00,1.8
+427,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-03-09 08:30:00,2.4
+428,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-04-09 08:30:00,1.8
+429,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-07-09 08:30:00,3.4
+430,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-08-09 08:30:00,6.4
+431,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-09 08:30:00,3.4
+432,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-13 08:30:00,5.8
+433,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-14 08:30:00,14.2
+434,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-15 08:30:00,9.8
+435,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-16 08:30:00,2.8
+436,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-19 08:30:00,4.6
+437,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-22 08:30:00,3.2
+438,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-23 08:30:00,4.4
+439,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-24 08:30:00,3.2
+440,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-27 08:30:00,2.4
+441,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-28 08:30:00,4.5
+442,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-29 08:30:00,5.6
+443,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-30 08:30:00,65.8
+444,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-01-10 08:30:00,14.6
+445,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-03-10 08:30:00,4.2
+446,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-09-10 08:30:00,1.4
+447,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-10-18 08:30:00,1.2
+448,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-10-19 08:30:00,5.2
+449,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2021-10-20 08:30:00,5.8
+450,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-02-06 08:30:00,1.8
+451,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-06 08:30:00,1.8
+452,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-10-06 08:30:00,1.6
+453,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-11-06 08:30:00,1.4
+454,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-12-06 08:30:00,2.2
+455,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-13 08:30:00,2.1
+456,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-15 08:30:00,3.2
+457,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-18 08:30:00,2.6
+458,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-19 08:30:00,2.2
+459,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-20 08:30:00,5.4
+460,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-21 08:30:00,5.4
+461,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-22 08:30:00,3.4
+462,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-23 08:30:00,4.4
+463,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-30 08:30:00,2.4
+464,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-01-07 08:30:00,0.8
+465,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-02-07 08:30:00,1.4
+466,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-03-07 08:30:00,3.2
+467,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-04-07 08:30:00,4.4
+468,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-07 08:30:00,1.8
+469,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-07 08:30:00,2.2
+470,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-10-07 08:30:00,1.6
+471,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-11-07 08:30:00,2.4
+472,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-12-07 08:30:00,1.6
+473,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-13 08:30:00,2.4
+474,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-14 08:30:00,0.8
+475,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-15 08:30:00,1.2
+476,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-18 08:30:00,2.8
+477,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-19 08:30:00,1.2
+478,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-23 08:30:00,4.6
+479,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-24 08:30:00,2.2
+480,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-25 08:30:00,1.2
+481,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-26 08:30:00,0.8
+482,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-28 08:30:00,3.4
+483,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-29 08:30:00,2.2
+484,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-30 08:30:00,1.2
+485,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-31 08:30:00,2.2
+486,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-01-08 08:30:00,3.2
+487,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-02-08 08:30:00,2.4
+488,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-04-08 08:30:00,1.2
+489,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-05-08 08:30:00,1.4
+490,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-08 08:30:00,1.6
+491,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-08 08:30:00,3.4
+492,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-10-08 08:30:00,3.6
+493,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-11-08 08:30:00,12.6
+494,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-12-08 08:30:00,6.8
+495,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-13 08:30:00,4.6
+496,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-14 08:30:00,2.2
+497,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-15 08:30:00,6.6
+498,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-16 08:30:00,2.2
+499,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-17 08:30:00,1.2
+500,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-20 08:30:00,12.6
+501,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-21 08:30:00,14.6
+502,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-22 08:30:00,8.6
+503,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-23 08:30:00,1.4
+504,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-24 08:30:00,0.8
+505,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-25 08:30:00,8.6
+506,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-28 08:30:00,1.4
+507,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-29 08:30:00,9.2
+508,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-08-31 08:30:00,2.4
+509,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-01-09 08:30:00,1.4
+510,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-03-09 08:30:00,6.4
+511,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-04-09 08:30:00,5.6
+512,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-05-09 08:30:00,4.4
+513,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-09 08:30:00,2.6
+514,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-07-09 08:30:00,4.4
+515,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-11-09 08:30:00,1.4
+516,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-13 08:30:00,3.4
+517,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-14 08:30:00,4.4
+518,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-15 08:30:00,7.8
+519,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-16 08:30:00,1.4
+520,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-17 08:30:00,1.6
+521,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-20 08:30:00,4.4
+522,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-21 08:30:00,5.6
+523,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-23 08:30:00,1.8
+524,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-26 08:30:00,1.4
+525,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-28 08:30:00,1.6
+526,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-29 08:30:00,1.8
+527,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-09-30 08:30:00,2.8
+528,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-03-10 08:30:00,2.4
+529,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-04-10 08:30:00,6.8
+530,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-05-10 08:30:00,9.8
+531,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-06-10 08:30:00,6.4
+532,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-12-10 08:30:00,9.8
+533,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-10-13 08:30:00,2.8
+534,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2022-10-14 08:30:00,2.2
+535,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-12-06 08:30:00,0.8
+536,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-22 08:30:00,1.2
+537,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-23 08:30:00,0.8
+538,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-26 08:30:00,6.8
+539,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-27 08:30:00,5.4
+540,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-28 08:30:00,7.6
+541,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-29 08:30:00,4.6
+542,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-30 08:30:00,2.4
+543,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-01-07 08:30:00,2.2
+544,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-02-07 08:30:00,0.8
+545,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-03-07 08:30:00,4.8
+546,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-07 08:30:00,2.4
+547,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-07 08:30:00,2.2
+548,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-07 08:30:00,1.2
+549,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-07 08:30:00,3.6
+550,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-13 08:30:00,4.6
+551,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-16 08:30:00,1.2
+552,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-17 08:30:00,4.6
+553,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-18 08:30:00,6.6
+554,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-19 08:30:00,2.4
+555,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-20 08:30:00,1.4
+556,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-21 08:30:00,1.8
+557,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-22 08:30:00,3.8
+558,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-23 08:30:00,1.6
+559,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-24 08:30:00,2.2
+560,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-27 08:30:00,1.6
+561,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-28 08:30:00,2.6
+562,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-29 08:30:00,0.8
+563,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-30 08:30:00,1.6
+564,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-31 08:30:00,3.8
+565,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-01-08 08:30:00,3.6
+566,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-02-08 08:30:00,6.6
+567,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-03-08 08:30:00,6.8
+568,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-04-08 08:30:00,4.4
+569,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-05-08 08:30:00,1.4
+570,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-08 08:30:00,1.4
+571,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-08 08:30:00,1.8
+572,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-08 08:30:00,6.8
+573,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-08 08:30:00,2.6
+574,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-10-08 08:30:00,1.2
+575,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-11-08 08:30:00,2.2
+576,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-12-08 08:30:00,2.8
+577,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-13 08:30:00,2.4
+578,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-14 08:30:00,2.2
+579,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-15 08:30:00,3.2
+580,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-16 08:30:00,2.2
+581,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-17 08:30:00,5.4
+582,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-18 08:30:00,4.6
+583,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-19 08:30:00,2.4
+584,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-20 08:30:00,1.8
+585,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-23 08:30:00,2.2
+586,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-24 08:30:00,3.2
+587,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-25 08:30:00,5.2
+588,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-26 08:30:00,4.6
+589,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-03-09 08:30:00,2.4
+590,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-04-09 08:30:00,1.8
+591,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-05-09 08:30:00,4.8
+592,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-09 08:30:00,1.8
+593,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-08-09 08:30:00,7.4
+594,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-09 08:30:00,3.4
+595,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-10-09 08:30:00,1.8
+596,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-14 08:30:00,1.8
+597,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-15 08:30:00,3.4
+598,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-16 08:30:00,3.4
+599,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-19 08:30:00,3.4
+600,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-20 08:30:00,0.8
+601,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-21 08:30:00,3.6
+602,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-22 08:30:00,7.4
+603,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-23 08:30:00,7.6
+604,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-24 08:30:00,1.4
+605,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-25 08:30:00,5.4
+606,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-26 08:30:00,1.6
+607,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-29 08:30:00,1.8
+608,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-09-30 08:30:00,4.4
+609,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-01-10 08:30:00,4.8
+610,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-02-10 08:30:00,13.6
+611,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-03-10 08:30:00,8.6
+612,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-04-10 08:30:00,11.4
+613,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-05-10 08:30:00,12.4
+614,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-06-10 08:30:00,5.4
+615,Gansadih,Damodar Valley Corporation(DVC),20,Jharkhand,325,DHANBAD,BALIAPUR,-,-,Ganga,Ganga,Damodar,-,-,Damodar,23.75972222,86.01111111,2023-07-10 08:30:00,1.4
+616,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-02-06 08:30:00,16.8
+617,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-11-06 08:30:00,2.0
+618,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-13 08:30:00,5.4
+619,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-14 08:30:00,3.0
+620,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-16 08:30:00,57.0
+621,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-17 08:30:00,52.6
+622,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-18 08:30:00,43.0
+623,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-19 08:30:00,18.0
+624,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-20 08:30:00,33.2
+625,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-21 08:30:00,15.4
+626,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-22 08:30:00,15.2
+627,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-23 08:30:00,4.0
+628,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-24 08:30:00,10.6
+629,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-25 08:30:00,7.6
+630,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-26 08:30:00,7.2
+631,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-01-07 08:30:00,5.6
+632,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-03-07 08:30:00,3.4
+633,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-04-07 08:30:00,1.0
+634,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-05-07 08:30:00,32.4
+635,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-07 08:30:00,3.4
+636,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-07 08:30:00,5.2
+637,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-10-07 08:30:00,2.0
+638,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-18 08:30:00,14.8
+639,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-19 08:30:00,30.4
+640,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-20 08:30:00,5.4
+641,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-21 08:30:00,1.4
+642,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-22 08:30:00,3.4
+643,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-24 08:30:00,24.6
+644,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-25 08:30:00,16.4
+645,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-27 08:30:00,14.0
+646,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-28 08:30:00,11.04
+647,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-29 08:30:00,5.6
+648,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-30 08:30:00,29.0
+649,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-31 08:30:00,60.2
+650,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-04-08 08:30:00,2.2
+651,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-05-08 08:30:00,9.6
+652,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-06-08 08:30:00,2.4
+653,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-08 08:30:00,47.4
+654,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-10-08 08:30:00,25.4
+655,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-11-08 08:30:00,34.2
+656,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-12-08 08:30:00,2.0
+657,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-13 08:30:00,2.4
+658,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-17 08:30:00,7.8
+659,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-18 08:30:00,12.0
+660,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-19 08:30:00,10.8
+661,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-23 08:30:00,18.0
+662,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-25 08:30:00,10.0
+663,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-26 08:30:00,2.0
+664,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-27 08:30:00,1.0
+665,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-28 08:30:00,13.4
+666,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-29 08:30:00,0.2
+667,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-30 08:30:00,3.8
+668,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-31 08:30:00,4.0
+669,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-03-09 08:30:00,68.2
+670,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-07-09 08:30:00,2.0
+671,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-08-09 08:30:00,1.6
+672,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-10-09 08:30:00,1.4
+673,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-12-09 08:30:00,3.0
+674,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-13 08:30:00,0.4
+675,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-14 08:30:00,24.0
+676,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-15 08:30:00,6.0
+677,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-16 08:30:00,0.2
+678,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-19 08:30:00,1.0
+679,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-22 08:30:00,2.0
+680,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-23 08:30:00,1.0
+681,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-29 08:30:00,27.2
+682,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-09-30 08:30:00,78.2
+683,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-01-10 08:30:00,65.4
+684,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-02-10 08:30:00,33.0
+685,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-10-16 08:30:00,18.6
+686,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-10-18 08:30:00,4.6
+687,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-10-19 08:30:00,32.6
+688,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2021-10-20 08:30:00,22.0
+689,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-03-06 08:30:00,32.0
+690,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-06 08:30:00,10.0
+691,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-10-06 08:30:00,8.2
+692,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-17 08:30:00,9.6
+693,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-18 08:30:00,16.8
+694,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-19 08:30:00,15.0
+695,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-20 08:30:00,12.0
+696,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-21 08:30:00,3.8
+697,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-22 08:30:00,38.0
+698,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-23 08:30:00,1.0
+699,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-26 08:30:00,0.6
+700,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-30 08:30:00,22.0
+701,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-02-07 08:30:00,47.0
+702,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-03-07 08:30:00,71.0
+703,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-04-07 08:30:00,8.6
+704,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-05-07 08:30:00,1.6
+705,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-07 08:30:00,5.0
+706,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-07 08:30:00,3.2
+707,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-16 08:30:00,6.4
+708,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-18 08:30:00,3.4
+709,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-21 08:30:00,30.6
+710,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-22 08:30:00,10.2
+711,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-23 08:30:00,13.8
+712,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-24 08:30:00,14.4
+713,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-25 08:30:00,2.0
+714,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-28 08:30:00,6.8
+715,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-30 08:30:00,0.2
+716,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-03-08 08:30:00,58.4
+717,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-04-08 08:30:00,24.2
+718,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-08 08:30:00,4.4
+719,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-08 08:30:00,12.6
+720,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-10-08 08:30:00,1.4
+721,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-11-08 08:30:00,10.2
+722,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-12-08 08:30:00,15.8
+723,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-14 08:30:00,5.0
+724,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-15 08:30:00,14.6
+725,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-16 08:30:00,20.0
+726,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-19 08:30:00,18.6
+727,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-20 08:30:00,35.0
+728,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-21 08:30:00,13.0
+729,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-22 08:30:00,1.4
+730,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-24 08:30:00,19.4
+731,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-25 08:30:00,20.0
+732,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-29 08:30:00,33.0
+733,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-01-09 08:30:00,21.8
+734,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-02-09 08:30:00,17.0
+735,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-04-09 08:30:00,65.0
+736,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-06-09 08:30:00,1.0
+737,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-07-09 08:30:00,1.6
+738,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-08-09 08:30:00,1.4
+739,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-12-09 08:30:00,33.0
+740,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-13 08:30:00,14.8
+741,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-14 08:30:00,13.4
+742,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-15 08:30:00,17.2
+743,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-16 08:30:00,1.6
+744,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-17 08:30:00,1.0
+745,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-19 08:30:00,30.6
+746,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-20 08:30:00,14.0
+747,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-21 08:30:00,6.4
+748,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-25 08:30:00,5.0
+749,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-27 08:30:00,15.8
+750,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-28 08:30:00,16.0
+751,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2022-09-30 08:30:00,69.0
+752,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-20 08:30:00,6.6
+753,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-21 08:30:00,15.2
+754,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-22 08:30:00,4.0
+755,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-26 08:30:00,5.0
+756,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-27 08:30:00,7.6
+757,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-28 08:30:00,1.6
+758,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-29 08:30:00,17.0
+759,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-30 08:30:00,5.4
+760,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-02-07 08:30:00,9.0
+761,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-03-07 08:30:00,2.4
+762,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-04-07 08:30:00,3.6
+763,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-07 08:30:00,5.0
+764,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-07 08:30:00,0.6
+765,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-12-07 08:30:00,11.0
+766,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-15 08:30:00,27.4
+767,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-17 08:30:00,33.4
+768,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-22 08:30:00,21.4
+769,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-23 08:30:00,5.4
+770,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-27 08:30:00,3.0
+771,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-30 08:30:00,7.0
+772,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-31 08:30:00,21.4
+773,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-02-08 08:30:00,143.8
+774,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-03-08 08:30:00,4.8
+775,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-04-08 08:30:00,2.0
+776,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-08 08:30:00,3.0
+777,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-08 08:30:00,5.0
+778,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-08 08:30:00,12.0
+779,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-08 08:30:00,1.0
+780,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-11-08 08:30:00,11.0
+781,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-13 08:30:00,17.0
+782,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-15 08:30:00,4.4
+783,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-17 08:30:00,36.4
+784,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-18 08:30:00,14.0
+785,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-19 08:30:00,2.0
+786,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-23 08:30:00,43.0
+787,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-24 08:30:00,1.0
+788,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-25 08:30:00,44.6
+789,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-04-09 08:30:00,14.6
+790,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-05-09 08:30:00,8.0
+791,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-09 08:30:00,28.4
+792,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-07-09 08:30:00,13.6
+793,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-08-09 08:30:00,103.4
+794,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-09 08:30:00,98.6
+795,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-11-09 08:30:00,5.4
+796,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-15 08:30:00,9.0
+797,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-16 08:30:00,2.0
+798,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-19 08:30:00,38.0
+799,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-20 08:30:00,18.0
+800,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-21 08:30:00,30.0
+801,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-22 08:30:00,25.4
+802,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-23 08:30:00,7.0
+803,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-24 08:30:00,3.0
+804,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-28 08:30:00,44.4
+805,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-30 08:30:00,52.0
+806,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-01-10 08:30:00,56.6
+807,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-02-10 08:30:00,92.4
+808,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-03-10 08:30:00,12.6
+809,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-04-10 08:30:00,23.0
+810,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-05-10 08:30:00,45.2
+811,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-06-10 08:30:00,3.0
+812,Palganj,Damodar Valley Corporation(DVC),20,Jharkhand,329,GIRIDIH,GIRIDIH,-,-,Ganga,Ganga,Damodar,Barakar,-,Barakar,24.11388889,85.22361111,2023-09-10 08:30:00,9.0
