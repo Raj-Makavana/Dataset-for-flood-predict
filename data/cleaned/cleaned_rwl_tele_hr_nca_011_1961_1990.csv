@@ -1,0 +1,3 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
+1,Man Dam Project,NCA,23,Madhya Pradesh,403,DHAR,DHAR,-,-,Narmada,Narmada,-,-,-,-,22.43,75.21,No,0,0,1970-04-04 03:00:00,280.292
+2,Man Dam Project,NCA,23,Madhya Pradesh,403,DHAR,DHAR,-,-,Narmada,Narmada,-,-,-,-,22.43,75.21,No,0,0,1970-02-07 05:00:00,281.869

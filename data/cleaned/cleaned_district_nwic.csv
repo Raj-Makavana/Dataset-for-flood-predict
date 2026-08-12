@@ -1,0 +1,734 @@
+id,objectid,state,stcode,district,dtcode,shape_length,shape_area,ds_name,src_agency,state_name
+377,377,MN,14,Kamjong,717,230554.29191157038,2225794048.57499,Administrative Boundary,Survey of India (SOI),Manipur
+378,378,MP,23,Anuppur,390,558872.8413233353,3623848651.219041,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+379,379,MP,23,Ashoknagar,391,427264.9891107919,4554179421.196586,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+380,380,MP,23,Balaghat,392,707216.3873542913,8900542725.364841,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+396,396,MP,23,Harda,408,309255.3830323403,3213779734.5141964,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+397,397,MP,23,Narmadapuram,409,569106.8733022104,6432138820.474316,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+398,398,MP,23,Indore,410,513869.5309880867,3759722487.977282,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+399,399,MP,23,Jabalpur,411,570813.5218545281,4901183134.938284,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+400,400,MP,23,Jhabua,412,340149.2942706253,3312081736.3977804,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+401,401,MP,23,Katni,413,622065.2301023597,4853040434.63407,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+402,402,MP,23,Khargone,414,675412.7209271983,7721664830.8442335,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+403,403,MP,23,Mandla,415,699235.0168510713,7175672693.596525,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+503,503,PY,34,Pondicherry,600,333810.6762151293,303864801.8328308,Administrative Boundary,Survey of India (SOI),Puducherry
+504,504,PY,34,Yanam,601,38726.091152680536,36933324.50478104,Administrative Boundary,Survey of India (SOI),Puducherry
+521,521,RJ,08,Jaipur,102,843721.5048482525,10739840567.998528,Administrative Boundary,Survey of India (SOI),Rajasthan
+522,522,RJ,08,Jaisalmer,103,1152163.2815805923,37060761714.57551,Administrative Boundary,Survey of India (SOI),Rajasthan
+523,523,RJ,08,Jalore,104,734412.6976531631,10237217034.685947,Administrative Boundary,Survey of India (SOI),Rajasthan
+524,524,RJ,08,Jhalawar,105,749209.3554154993,6096593825.763745,Administrative Boundary,Survey of India (SOI),Rajasthan
+525,525,RJ,08,Jhunjhunu,106,511249.63912691566,5717752775.050811,Administrative Boundary,Survey of India (SOI),Rajasthan
+526,526,RJ,08,Jodhpur,107,1035229.1840036344,21857134941.98634,Administrative Boundary,Survey of India (SOI),Rajasthan
+527,527,RJ,08,Karauli,108,521932.2396616785,4836638838.827777,Administrative Boundary,Survey of India (SOI),Rajasthan
+528,528,RJ,08,Kota,109,614406.7122635125,4903424828.285047,Administrative Boundary,Survey of India (SOI),Rajasthan
+529,529,RJ,08,Nagaur,110,954835.0758398832,17162796010.219244,Administrative Boundary,Survey of India (SOI),Rajasthan
+530,530,RJ,08,Pali,111,870296.9798784581,11916340369.439003,Administrative Boundary,Survey of India (SOI),Rajasthan
+531,531,RJ,08,Rajsamand,112,712155.2636188829,4454350393.675214,Administrative Boundary,Survey of India (SOI),Rajasthan
+532,532,RJ,08,Sawai Madhopur,113,570119.838399867,4838069351.349286,Administrative Boundary,Survey of India (SOI),Rajasthan
+697,697,UP,09,Siddharth Nagar,182,423097.2220245321,2799390746.908026,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+698,698,UP,09,Sitapur,183,538851.3476798672,5540290016.564448,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+699,699,UP,09,Sonbhadra,184,568733.6737875255,6619250141.631542,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+700,700,UP,09,Sultanpur,185,457094.291641699,2581041746.5958624,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+701,701,UP,09,Unnao,186,529272.2167391398,4414072941.94204,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+702,702,UP,09,Varanasi,187,295655.0486671113,1478661956.7043293,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+703,703,UP,09,Kasganj,633,321727.32381242554,1903029222.1906471,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+704,704,UP,09,Amethi,640,394601.94681803073,2336340374.0034666,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+705,705,UP,09,Sambhal,659,397801.1385953074,2328704403.99544,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+706,706,UP,09,Shamli,660,219884.12767241735,1227291214.1832356,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+707,707,UP,09,Hapur,661,248970.77377494154,1112194057.0544403,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+708,708,WB,19,24 Paraganas North,303,588698.9171783382,3851759704.132817,Administrative Boundary,Survey of India (SOI),West Bengal
+709,709,WB,19,24 Paraganas South,304,1782759.204097278,7493869980.074116,Administrative Boundary,Survey of India (SOI),West Bengal
+710,710,WB,19,Bankura,305,499880.7099801528,6625315227.39529,Administrative Boundary,Survey of India (SOI),West Bengal
+711,711,WB,19,Purba Bardhaman,306,571178.1223199782,5198326138.21749,Administrative Boundary,Survey of India (SOI),West Bengal
+712,712,WB,19,Birbhum,307,660128.0144433932,4370755823.435136,Administrative Boundary,Survey of India (SOI),West Bengal
+713,713,WB,19,Coochbehar,308,804489.4902738179,3249365346.6669855,Administrative Boundary,Survey of India (SOI),West Bengal
+714,714,WB,19,Darjeeling,309,332463.6373005962,1960970159.6467605,Administrative Boundary,Survey of India (SOI),West Bengal
+715,715,WB,19,Dinajpur Dakshin,310,401293.08849589305,2139908460.503777,Administrative Boundary,Survey of India (SOI),West Bengal
+1,1,AN,35,South Andamans,602,1145082.490883024,2439209618.3741646,Administrative Boundary,Survey of India (SOI),Andaman & Nicobar Island
+2,2,AN,35,Nicobars,603,762537.4205508644,1771159773.856906,Administrative Boundary,Survey of India (SOI),Andaman & Nicobar Island
+3,3,AN,35,North And Middle Andaman,632,1572232.1216115355,3366991489.3871994,Administrative Boundary,Survey of India (SOI),Andaman & Nicobar Island
+4,4,AP,28,Anantapur,502,1411353.6292373298,18893199861.55161,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+5,5,AP,28,Chittoor,503,1282175.4289619364,14912347672.460918,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+6,6,AP,28,Y.S.R.,504,793984.4571010179,15155281743.014128,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+7,7,AP,28,East Godavari,505,928230.395035673,12655608441.456224,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+8,8,AP,28,Guntur,506,781983.2331911654,11173014918.914808,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+9,9,AP,28,Krishna,510,816922.0767455493,8561527637.783598,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+10,10,AP,28,Kurnool,511,901339.5412676996,17350560516.545586,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+11,11,AP,28,Spsr Nellore,515,673637.2647510174,13067292571.887081,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+12,12,AP,28,Prakasam,517,832751.9311174314,17307462862.109756,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+13,13,AP,28,Srikakulam,519,680283.1129890468,5697773439.36692,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+14,14,AP,28,Visakhapatanam,520,986482.91340755,11288297562.116693,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+15,15,AP,28,Vizianagaram,521,835190.5788719537,5987589225.140161,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+16,16,AP,28,West Godavari,523,662718.4544053982,8205557782.946188,Administrative Boundary,Survey of India (SOI),Andhra Pradesh
+17,17,AR,12,Changlang,229,588417.559984707,4871864544.180673,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+18,18,AR,12,Dibang Valley,230,582178.716285833,9169777411.587393,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+19,19,AR,12,East Kameng,231,394164.866007362,4258333436.297447,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+22,22,AR,12,Lohit,234,366216.82526782394,2729718846.4049096,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+23,23,AR,12,Lower Dibang Valley,235,405318.77919431654,3598149740.230137,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+24,24,AR,12,Lower Subansiri,236,209985.6207991708,1451005289.6815178,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+20,20,AR,12,East Siang,232,204295.86826671707,1680356917.2805007,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+21,21,AR,12,Kurung Kumey,233,344039.7151862346,4287153596.3618207,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+25,25,AR,12,Papum Pare,237,428960.44783072965,3324534917.346744,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+26,26,AR,12,Tawang,238,310834.72003614006,2371661294.4047856,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+27,27,AR,12,Tirap,239,181221.26146998303,1057282626.6522392,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+28,28,AR,12,Upper Siang,240,479253.7782229575,6489901608.9334955,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+29,29,AR,12,Upper Subansiri,241,476531.0761746009,6257782886.27953,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+30,30,AR,12,West Kameng,242,377943.91255122295,4742694836.106576,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+31,31,AR,12,West Siang,243,204806.2024822593,1289317508.7651846,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+32,32,AR,12,Anjaw,628,400872.69728640496,5943448619.917078,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+33,33,AR,12,Longding,666,180943.36830981908,879706801.6899847,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+34,34,AR,12,Kra Daadi,677,261880.20651211689,2121271761.4935179,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+35,35,AR,12,Namsai,678,176628.8901951884,1316666332.7928667,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+36,36,AR,12,Siang,679,377170.3709912202,3280575551.4924946,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+75,75,BR,10,Araria,188,385019.5180995918,2696205651.9674835,Administrative Boundary,Survey of India (SOI),Bihar
+76,76,BR,10,Aurangabad,189,371783.98064569314,3179164216.1759553,Administrative Boundary,Survey of India (SOI),Bihar
+37,37,AR,12,Kamle,718,204618.12548196968,1341838468.1460404,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+38,38,AR,12,Lower Siang,719,297821.4756550348,1751551306.0948203,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+77,77,BR,10,Banka,190,342906.33189174795,2914803258.782167,Administrative Boundary,Survey of India (SOI),Bihar
+78,78,BR,10,Begusarai,191,359204.44611728017,1848491399.4705098,Administrative Boundary,Survey of India (SOI),Bihar
+79,79,BR,10,Bhagalpur,192,384618.74083201174,2459426082.0361886,Administrative Boundary,Survey of India (SOI),Bihar
+80,80,BR,10,Bhojpur,193,298572.5819852343,2322347786.5709214,Administrative Boundary,Survey of India (SOI),Bihar
+81,81,BR,10,Buxar,194,281440.74691638234,1634085683.633999,Administrative Boundary,Survey of India (SOI),Bihar
+82,82,BR,10,Darbhanga,195,471340.50690190477,2414927306.347297,Administrative Boundary,Survey of India (SOI),Bihar
+83,83,BR,10,Gaya,196,619314.1123358213,4781355796.646316,Administrative Boundary,Survey of India (SOI),Bihar
+84,84,BR,10,Gopalganj,197,347968.69793260697,1964218889.0294306,Administrative Boundary,Survey of India (SOI),Bihar
+39,39,AR,12,Pakke Kessang,723,292821.16620707035,1840585395.6291068,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+85,85,BR,10,Jamui,198,403932.1838899788,2981608255.656418,Administrative Boundary,Survey of India (SOI),Bihar
+86,86,BR,10,Jehanabad,199,219863.03179065534,902424229.1600611,Administrative Boundary,Survey of India (SOI),Bihar
+40,40,AR,12,Leparada,724,138959.55241556105,750949909.3832649,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+87,87,BR,10,Kaimur (Bhabua),200,378099.350526564,3209754183.135665,Administrative Boundary,Survey of India (SOI),Bihar
+88,88,BR,10,Katihar,201,480636.26436029247,2953172168.4006233,Administrative Boundary,Survey of India (SOI),Bihar
+41,41,AR,12,Shi Yomi,725,235075.85834173037,2532964729.7338448,Administrative Boundary,Survey of India (SOI),Arunanchal Pradesh
+42,42,AS,18,Barpeta,280,408513.01881161274,2161104090.494118,Administrative Boundary,Survey of India (SOI),Assam
+43,43,AS,18,Bongaigaon,281,302200.5714044233,1085561885.5630648,Administrative Boundary,Survey of India (SOI),Assam
+44,44,AS,18,Cachar,282,432182.0806289202,3638672487.3120337,Administrative Boundary,Survey of India (SOI),Assam
+45,45,AS,18,Darrang,283,352232.96486137074,1558724505.2389944,Administrative Boundary,Survey of India (SOI),Assam
+46,46,AS,18,Dhemaji,284,405138.3083489547,2449922719.4877114,Administrative Boundary,Survey of India (SOI),Assam
+47,47,AS,18,Dhubri,285,500472.2323712048,1463546037.113341,Administrative Boundary,Survey of India (SOI),Assam
+48,48,AS,18,Dibrugarh,286,440923.8880928333,3275851112.7790146,Administrative Boundary,Survey of India (SOI),Assam
+49,49,AS,18,Goalpara,287,332354.47463919007,1856877825.673855,Administrative Boundary,Survey of India (SOI),Assam
+50,50,AS,18,Golaghat,288,587254.5327628853,3157440478.3424726,Administrative Boundary,Survey of India (SOI),Assam
+51,51,AS,18,Hailakandi,289,261275.98399687881,1278172550.4596088,Administrative Boundary,Survey of India (SOI),Assam
+52,52,AS,18,Jorhat,290,338387.44059792813,1780630670.1195645,Administrative Boundary,Survey of India (SOI),Assam
+53,53,AS,18,Kamrup,291,507420.0520224483,3005667841.9919066,Administrative Boundary,Survey of India (SOI),Assam
+54,54,AS,18,Karbi Anglong,292,789907.4035291461,7052769812.46202,Administrative Boundary,Survey of India (SOI),Assam
+55,55,AS,18,Karimganj,293,251566.6082969181,1743593347.0350225,Administrative Boundary,Survey of India (SOI),Assam
+56,56,AS,18,Kokrajhar,294,391937.48259890656,3037073800.431767,Administrative Boundary,Survey of India (SOI),Assam
+57,57,AS,18,Lakhimpur,295,367286.83707389334,2819906483.488561,Administrative Boundary,Survey of India (SOI),Assam
+58,58,AS,18,Marigaon,296,225753.46844832195,1498413668.5322042,Administrative Boundary,Survey of India (SOI),Assam
+59,59,AS,18,Nagaon,297,595039.8567788578,2467166643.4797826,Administrative Boundary,Survey of India (SOI),Assam
+60,60,AS,18,Nalbari,298,232334.91176583627,1013199777.696762,Administrative Boundary,Survey of India (SOI),Assam
+61,61,AS,18,Dima Hasao,299,498170.6544892446,4698216626.981192,Administrative Boundary,Survey of India (SOI),Assam
+62,62,AS,18,Sivasagar,300,270562.73420834047,1516852717.1292205,Administrative Boundary,Survey of India (SOI),Assam
+63,63,AS,18,Sonitpur,301,302034.94266775856,3318539503.918358,Administrative Boundary,Survey of India (SOI),Assam
+64,64,AS,18,Tinsukia,302,418235.74896268995,3677158694.3341923,Administrative Boundary,Survey of India (SOI),Assam
+65,65,AS,18,Chirang,612,284127.9341624141,1871154078.6739492,Administrative Boundary,Survey of India (SOI),Assam
+66,66,AS,18,Baksa,616,463674.6745895705,2377931914.0295753,Administrative Boundary,Survey of India (SOI),Assam
+67,67,AS,18,Udalguri,617,402292.5802536571,1907593733.7525022,Administrative Boundary,Survey of India (SOI),Assam
+68,68,AS,18,Kamrup Metro,618,201165.19311607684,904438977.2860676,Administrative Boundary,Survey of India (SOI),Assam
+69,69,AS,18,Biswanath,705,226362.28507382263,1720849425.7672482,Administrative Boundary,Survey of India (SOI),Assam
+70,70,AS,18,Majuli,706,260525.9322656163,1187708322.934511,Administrative Boundary,Survey of India (SOI),Assam
+71,71,AS,18,South Salmara Mancachar,707,233304.40666451625,658301800.8739126,Administrative Boundary,Survey of India (SOI),Assam
+72,72,AS,18,Charaideo,708,228074.79488845041,1031380954.8165023,Administrative Boundary,Survey of India (SOI),Assam
+73,73,AS,18,Hojai,709,251494.81569915765,1401255520.5063198,Administrative Boundary,Survey of India (SOI),Assam
+74,74,AS,18,West Karbi Anglong,710,430020.72235269804,2957349361.427882,Administrative Boundary,Survey of India (SOI),Assam
+89,89,BR,10,Khagaria,202,291450.10719574254,1436456255.2732165,Administrative Boundary,Survey of India (SOI),Bihar
+90,90,BR,10,Kishanganj,203,415848.7514241587,1905886127.5218377,Administrative Boundary,Survey of India (SOI),Bihar
+91,91,BR,10,Lakhisarai,204,224744.06389572908,1170702304.9765232,Administrative Boundary,Survey of India (SOI),Bihar
+92,92,BR,10,Madhepura,205,334907.4259789969,1733700194.942164,Administrative Boundary,Survey of India (SOI),Bihar
+93,93,BR,10,Madhubani,206,477060.96091620077,3374213839.4355836,Administrative Boundary,Survey of India (SOI),Bihar
+94,94,BR,10,Munger,207,265746.911620132,1356940969.4276757,Administrative Boundary,Survey of India (SOI),Bihar
+95,95,BR,10,Muzaffarpur,208,423078.5376519842,3060042309.1929607,Administrative Boundary,Survey of India (SOI),Bihar
+96,96,BR,10,Nalanda,209,383814.8342203904,2263906599.4356065,Administrative Boundary,Survey of India (SOI),Bihar
+97,97,BR,10,Nawada,210,375808.15837177413,2396744684.022766,Administrative Boundary,Survey of India (SOI),Bihar
+98,98,BR,10,Pashchim Champaran,211,488759.1873034042,5040417440.09238,Administrative Boundary,Survey of India (SOI),Bihar
+99,99,BR,10,Patna,212,573807.0521937956,3097316129.944569,Administrative Boundary,Survey of India (SOI),Bihar
+100,100,BR,10,Purbi Champaran,213,479310.9772513354,3825639116.230368,Administrative Boundary,Survey of India (SOI),Bihar
+101,101,BR,10,Purnia,214,457970.4000814875,3100685074.5653486,Administrative Boundary,Survey of India (SOI),Bihar
+102,102,BR,10,Rohtas,215,407943.67200951773,3726411301.366514,Administrative Boundary,Survey of India (SOI),Bihar
+103,103,BR,10,Saharsa,216,298480.19667364494,1602863122.828036,Administrative Boundary,Survey of India (SOI),Bihar
+104,104,BR,10,Samastipur,217,457593.9596196229,2582603826.9249434,Administrative Boundary,Survey of India (SOI),Bihar
+105,105,BR,10,Saran,218,352162.0996367754,2556560141.007497,Administrative Boundary,Survey of India (SOI),Bihar
+106,106,BR,10,Sheikhpura,219,214961.9605912571,663274347.5942733,Administrative Boundary,Survey of India (SOI),Bihar
+107,107,BR,10,Sheohar,220,170654.707737306,425669080.13159436,Administrative Boundary,Survey of India (SOI),Bihar
+108,108,BR,10,Sitamarhi,221,381489.2699062011,2109853801.2635608,Administrative Boundary,Survey of India (SOI),Bihar
+109,109,BR,10,Siwan,222,308726.2217836996,2135457431.7867815,Administrative Boundary,Survey of India (SOI),Bihar
+110,110,BR,10,Supaul,223,369864.49756289175,2329935035.0589237,Administrative Boundary,Survey of India (SOI),Bihar
+111,111,BR,10,Vaishali,224,246129.93772682894,1910537324.8399146,Administrative Boundary,Survey of India (SOI),Bihar
+112,112,BR,10,Arwal,611,187561.20369990467,612897335.4282886,Administrative Boundary,Survey of India (SOI),Bihar
+113,113,CG,22,Bastar,374,563682.5936583626,5225602444.0245495,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+114,114,CG,22,Bilaspur,375,452721.1209200359,3439293870.8795657,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+115,115,CG,22,Dantewada,376,453605.95143492817,2737776738.3877826,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+116,116,CG,22,Dhamtari,377,430511.17320362874,3943176397.223756,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+117,117,CG,22,Durg,378,340841.3411764633,2214161318.2639604,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+118,118,CG,22,Janjgir-Champa,379,384090.372033407,3718419253.671185,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+119,119,CG,22,Jashpur,380,504258.2665174971,5626416185.870893,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+120,120,CG,22,Kanker,381,644412.6246300094,6942372992.131012,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+121,121,CG,22,Kabirdham,382,431554.6920983919,4039502125.6389456,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+122,122,CG,22,Korba,383,483855.9875768951,6347605441.708696,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+123,123,CG,22,Korea,384,540129.7255051545,6355978495.287798,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+124,124,CG,22,Mahasamund,385,523248.671692979,4585304298.865324,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+125,125,CG,22,Raigarh,386,711045.6228063703,6786250302.246012,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+126,126,CG,22,Raipur,387,290651.8024351294,2798769780.195844,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+127,127,CG,22,Rajnandgaon,388,762302.4043922571,7779017991.951688,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+128,128,CG,22,Surguja,389,444057.578940792,3854280563.093434,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+129,129,CG,22,Bijapur,636,740762.1096237478,8132846688.5171585,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+130,130,CG,22,Narayanpur,637,512946.97795192216,4588287141.62409,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+131,131,CG,22,Sukma,642,634949.0499626833,5316966087.82506,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+132,132,CG,22,Kondagaon,643,465670.5871012304,4908795475.060978,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+133,133,CG,22,Baloda Bazar,644,483928.5124876381,4495463151.437017,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+134,134,CG,22,Gariyaband,645,511504.5847105692,4671511521.376328,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+135,135,CG,22,Balod,646,413636.2878221514,3249493705.117081,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+136,136,CG,22,Mungeli,647,435131.3618120408,2670017689.745303,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+137,137,CG,22,Surajpur,648,587597.1377651835,5244476770.841503,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+138,138,CG,22,Balrampur,649,651055.7045719407,6021797517.857315,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+139,139,CG,22,Bemetara,650,418209.64972605,2758857284.9623713,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+140,140,CG,22,Gaurella Pendra Marwahi,734,269725.9267694372,1893469810.2856495,Administrative Boundary,Survey of India (SOI),Chhattisgarh
+141,141,CH,04,Chandigarh,044,61197.06877143918,111751163.14497104,Administrative Boundary,Survey of India (SOI),Chandigarh
+142,142,DH,38,Daman,463,46131.232067811135,57780668.51511497,Administrative Boundary,Survey of India (SOI),Dadra & Nagar Havelli and Daman & Diu
+146,146,DL,07,New Delhi,079,75386.00112890251,149650587.44585723,Administrative Boundary,Survey of India (SOI),Delhi
+147,147,DL,07,North,080,109503.33604200189,282164807.1007894,Administrative Boundary,Survey of India (SOI),Delhi
+148,148,DL,07,North East,081,46591.10205366868,42948102.76715699,Administrative Boundary,Survey of India (SOI),Delhi
+149,149,DL,07,North West,082,92615.82847957194,148896605.5324592,Administrative Boundary,Survey of India (SOI),Delhi
+150,150,DL,07,South,083,72494.7428493831,157249006.0083483,Administrative Boundary,Survey of India (SOI),Delhi
+151,151,DL,07,South West,084,110022.49348739468,273457114.4991869,Administrative Boundary,Survey of India (SOI),Delhi
+152,152,DL,07,West,085,73306.40243704969,127199849.13593265,Administrative Boundary,Survey of India (SOI),Delhi
+153,153,DL,07,South East,670,56376.63475016287,97272655.72985299,Administrative Boundary,Survey of India (SOI),Delhi
+154,154,DL,07,Shahdara,671,33739.569602556505,34873114.146665275,Administrative Boundary,Survey of India (SOI),Delhi
+143,143,DH,38,Diu,464,47358.050911552615,37646642.87745144,Administrative Boundary,Survey of India (SOI),Dadra & Nagar Havelli and Daman & Diu
+144,144,DL,07,Central,077,70942.24881994566,78206381.9529264,Administrative Boundary,Survey of India (SOI),Delhi
+155,155,DH,38,Dadra And Nagar Haveli,465,221581.86534952003,475158189.4355312,Administrative Boundary,Survey of India (SOI),Dadra & Nagar Havelli and Daman & Diu
+156,156,GA,30,North Goa,551,276664.8744772423,1696177776.3727427,Administrative Boundary,Survey of India (SOI),Goa
+157,157,GA,30,South Goa,552,319072.2264834317,1932230234.6725433,Administrative Boundary,Survey of India (SOI),Goa
+158,158,GJ,24,Ahmadabad,438,899790.8982459692,6839954437.44282,Administrative Boundary,Survey of India (SOI),Gujarat
+159,159,GJ,24,Amreli,439,730148.4792770852,7129461642.213562,Administrative Boundary,Survey of India (SOI),Gujarat
+145,145,DL,07,East,078,31792.58944349742,45139695.956186295,Administrative Boundary,Survey of India (SOI),Delhi
+160,160,GJ,24,Anand,440,376903.94049086794,2962750754.783734,Administrative Boundary,Survey of India (SOI),Gujarat
+161,161,GJ,24,Banas Kantha,441,932789.3433570027,10362555026.253765,Administrative Boundary,Survey of India (SOI),Gujarat
+162,162,GJ,24,Bharuch,442,647034.1862492339,5222075971.112502,Administrative Boundary,Survey of India (SOI),Gujarat
+163,163,GJ,24,Bhavnagar,443,550984.6086195918,6536073844.878734,Administrative Boundary,Survey of India (SOI),Gujarat
+164,164,GJ,24,Dang,444,265494.88591538795,1701608944.8211489,Administrative Boundary,Survey of India (SOI),Gujarat
+165,165,GJ,24,Dohad,445,398789.5456728134,3523827759.998239,Administrative Boundary,Survey of India (SOI),Gujarat
+166,166,GJ,24,Gandhinagar,446,417848.7929347063,2004884373.5728927,Administrative Boundary,Survey of India (SOI),Gujarat
+167,167,GJ,24,Jamnagar,447,794376.2389293939,6549611081.1361265,Administrative Boundary,Survey of India (SOI),Gujarat
+168,168,GJ,24,Junagadh,448,563256.8139699645,4840050534.416941,Administrative Boundary,Survey of India (SOI),Gujarat
+169,169,GJ,24,Kachchh,449,1883413.0228641196,41280096782.11052,Administrative Boundary,Survey of India (SOI),Gujarat
+170,170,GJ,24,Kheda,450,456971.7076469915,3285260974.9675975,Administrative Boundary,Survey of India (SOI),Gujarat
+171,171,GJ,24,Mahesana,451,588247.6754033916,4255541309.3466268,Administrative Boundary,Survey of India (SOI),Gujarat
+172,172,GJ,24,Narmada,452,391106.0999386979,2706148166.888554,Administrative Boundary,Survey of India (SOI),Gujarat
+173,173,GJ,24,Navsari,453,312589.48547788424,2133849015.8121734,Administrative Boundary,Survey of India (SOI),Gujarat
+174,174,GJ,24,Panch Mahals,454,460817.9210413002,3158115229.922956,Administrative Boundary,Survey of India (SOI),Gujarat
+175,175,GJ,24,Patan,455,716305.2892032366,5551720653.926561,Administrative Boundary,Survey of India (SOI),Gujarat
+176,176,GJ,24,Porbandar,456,413984.5043088974,2239806304.2023244,Administrative Boundary,Survey of India (SOI),Gujarat
+177,177,GJ,24,Rajkot,457,979117.8979929242,7325463831.137458,Administrative Boundary,Survey of India (SOI),Gujarat
+178,178,GJ,24,Sabar Kantha,458,575821.5170296007,3980279292.314839,Administrative Boundary,Survey of India (SOI),Gujarat
+179,179,GJ,24,Surat,459,546686.5558774706,4129666479.273854,Administrative Boundary,Survey of India (SOI),Gujarat
+180,180,GJ,24,Surendranagar,460,976522.9886447141,8805447262.887083,Administrative Boundary,Survey of India (SOI),Gujarat
+181,181,GJ,24,Vadodara,461,488880.6572209077,3935139967.2685823,Administrative Boundary,Survey of India (SOI),Gujarat
+182,182,GJ,24,Valsad,462,502035.95870386553,2862485181.351061,Administrative Boundary,Survey of India (SOI),Gujarat
+183,183,GJ,24,Tapi,641,577541.5985138429,3024783228.255831,Administrative Boundary,Survey of India (SOI),Gujarat
+184,184,GJ,24,Chhotaudepur,668,505304.1261855728,3330330573.1502113,Administrative Boundary,Survey of India (SOI),Gujarat
+185,185,GJ,24,Mahisagar,669,377245.7414635276,2416547149.69379,Administrative Boundary,Survey of India (SOI),Gujarat
+186,186,GJ,24,Arvalli,672,414848.21154244867,3134361743.2929444,Administrative Boundary,Survey of India (SOI),Gujarat
+187,187,GJ,24,Morbi,673,543218.0114027035,4661391969.510138,Administrative Boundary,Survey of India (SOI),Gujarat
+188,188,GJ,24,Devbhumi Dwarka,674,770150.2139469099,4406206166.962533,Administrative Boundary,Survey of India (SOI),Gujarat
+189,189,GJ,24,Gir Somnath,675,367327.8578642811,3677046496.852394,Administrative Boundary,Survey of India (SOI),Gujarat
+190,190,GJ,24,Botad,676,404838.13056960085,2522525885.01329,Administrative Boundary,Survey of India (SOI),Gujarat
+191,191,HP,02,Bilaspur,015,252059.37759227803,1139926636.6936984,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+192,192,HP,02,Chamba,016,559452.4126035853,6388893754.422402,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+193,193,HP,02,Hamirpur,017,188390.26680363604,1092457529.2227194,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+194,194,HP,02,Kangra,018,571333.6026097181,5632522222.428497,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+195,195,HP,02,Kinnaur,019,498005.7835401078,6361316042.295631,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+196,196,HP,02,Kullu,020,421741.71621288377,5379323837.549195,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+197,197,HP,02,Lahul And Spiti,021,920355.751861651,13634351303.580666,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+198,198,HP,02,Mandi,022,335032.23188252555,3867148545.4485984,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+199,199,HP,02,Shimla,023,550658.895105613,5006625229.947793,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+200,200,HP,02,Sirmaur,024,348118.37841656053,2759194427.2073593,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+201,201,HP,02,Solan,025,310382.6247115605,1890338630.9471378,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+202,202,HP,02,Una,026,245967.37302130947,1511106472.3362386,Administrative Boundary,Survey of India (SOI),Himachal Pradesh
+203,203,HR,06,Ambala,058,380704.3054432452,1484873999.3401515,Administrative Boundary,Survey of India (SOI),Haryana
+204,204,HR,06,Bhiwani,059,398571.91049422143,3205954497.3352704,Administrative Boundary,Survey of India (SOI),Haryana
+205,205,HR,06,Faridabad,060,144893.99929782667,717262975.605271,Administrative Boundary,Survey of India (SOI),Haryana
+206,206,HR,06,Fatehabad,061,324920.77030065964,2454129261.8935604,Administrative Boundary,Survey of India (SOI),Haryana
+207,207,HR,06,Gurugram,062,242218.7822050419,1217701962.9082239,Administrative Boundary,Survey of India (SOI),Haryana
+208,208,HR,06,Hisar,063,418564.32691884396,3950491019.5484724,Administrative Boundary,Survey of India (SOI),Haryana
+209,209,HR,06,Jhajjar,064,332242.4628633652,1838577563.6229126,Administrative Boundary,Survey of India (SOI),Haryana
+210,210,HR,06,Jind,065,403528.59146768803,2674842714.729795,Administrative Boundary,Survey of India (SOI),Haryana
+211,211,HR,06,Kaithal,066,349232.3418176483,2213922911.0077624,Administrative Boundary,Survey of India (SOI),Haryana
+212,212,HR,06,Karnal,067,354093.8455471312,2403629690.7084355,Administrative Boundary,Survey of India (SOI),Haryana
+213,213,HR,06,Kurukshetra,068,262706.83702028956,1632838989.3010352,Administrative Boundary,Survey of India (SOI),Haryana
+214,214,HR,06,Mahendragarh,069,393649.3625341748,1868645651.1871037,Administrative Boundary,Survey of India (SOI),Haryana
+215,215,HR,06,Panchkula,070,211878.51403806504,854476847.3981462,Administrative Boundary,Survey of India (SOI),Haryana
+216,216,HR,06,Panipat,071,210653.81668871807,1265551415.4450374,Administrative Boundary,Survey of India (SOI),Haryana
+217,217,HR,06,Rewari,072,300403.4097975365,1462632965.9106202,Administrative Boundary,Survey of India (SOI),Haryana
+218,218,HR,06,Rohtak,073,244913.1698190334,1616220948.804521,Administrative Boundary,Survey of India (SOI),Haryana
+219,219,HR,06,Sirsa,074,425849.8735917874,4148068991.8201365,Administrative Boundary,Survey of India (SOI),Haryana
+220,220,HR,06,Sonipat,075,277921.378636455,2086871989.0337515,Administrative Boundary,Survey of India (SOI),Haryana
+221,221,HR,06,Yamunanagar,076,271950.80148211017,1669878084.815718,Administrative Boundary,Survey of India (SOI),Haryana
+222,222,HR,06,Nuh,604,334601.96345239005,1448191052.6686103,Administrative Boundary,Survey of India (SOI),Haryana
+223,223,HR,06,Palwal,619,235161.6463010096,1318949796.2512243,Administrative Boundary,Survey of India (SOI),Haryana
+224,224,HR,06,Charki Dadri,701,271483.3501902865,1319339218.50482,Administrative Boundary,Survey of India (SOI),Haryana
+225,225,JH,20,Bokaro,322,426591.19331191643,2767027111.202119,Administrative Boundary,Survey of India (SOI),Jharkhand
+226,226,JH,20,Chatra,323,559338.7199942387,3651062171.90079,Administrative Boundary,Survey of India (SOI),Jharkhand
+227,227,JH,20,Deoghar,324,309241.0770153327,2387997469.566804,Administrative Boundary,Survey of India (SOI),Jharkhand
+228,228,JH,20,Dhanbad,325,222757.50071376638,1961459879.623983,Administrative Boundary,Survey of India (SOI),Jharkhand
+229,229,JH,20,Dumka,326,402748.03808377293,3619159901.33363,Administrative Boundary,Survey of India (SOI),Jharkhand
+230,230,JH,20,East Singhbum,327,418415.86603143596,3427373506.268849,Administrative Boundary,Survey of India (SOI),Jharkhand
+231,231,JH,20,Garhwa,328,410777.6879424753,3927512236.9325576,Administrative Boundary,Survey of India (SOI),Jharkhand
+232,232,JH,20,Giridih,329,470287.7950428703,4790244514.617932,Administrative Boundary,Survey of India (SOI),Jharkhand
+233,233,JH,20,Godda,330,315971.2145206166,2179829942.136894,Administrative Boundary,Survey of India (SOI),Jharkhand
+234,234,JH,20,Gumla,331,572328.1678242842,5152986350.044573,Administrative Boundary,Survey of India (SOI),Jharkhand
+235,235,JH,20,Hazaribagh,332,648291.4079204586,4163826528.5439787,Administrative Boundary,Survey of India (SOI),Jharkhand
+236,236,JH,20,Jamtara,333,328486.7975375338,1745351890.5823321,Administrative Boundary,Survey of India (SOI),Jharkhand
+237,237,JH,20,Koderma,334,308138.06902217143,1570371372.479018,Administrative Boundary,Survey of India (SOI),Jharkhand
+238,238,JH,20,Latehar,335,502185.93255304196,4087770799.7156143,Administrative Boundary,Survey of India (SOI),Jharkhand
+239,239,JH,20,Lohardaga,336,249999.77238044317,1443534551.0656354,Administrative Boundary,Survey of India (SOI),Jharkhand
+240,240,JH,20,Pakur,337,337334.58658987615,1742831758.211636,Administrative Boundary,Survey of India (SOI),Jharkhand
+241,241,JH,20,Palamu,338,462916.1465178679,4254460869.6813455,Administrative Boundary,Survey of India (SOI),Jharkhand
+242,242,JH,20,Ranchi,339,630735.9222032389,4807094577.24855,Administrative Boundary,Survey of India (SOI),Jharkhand
+243,243,JH,20,Sahebganj,340,308333.5232681722,2019401575.855289,Administrative Boundary,Survey of India (SOI),Jharkhand
+244,244,JH,20,Saraikela Kharsawan,341,363928.69877045765,2558843335.82294,Administrative Boundary,Survey of India (SOI),Jharkhand
+245,245,JH,20,Simdega,342,404267.42990256555,3624625189.686936,Administrative Boundary,Survey of India (SOI),Jharkhand
+246,246,JH,20,West Singhbhum,343,533685.344050483,6957016687.860969,Administrative Boundary,Survey of India (SOI),Jharkhand
+247,247,JH,20,Khunti,606,387436.62486160727,2535175481.932276,Administrative Boundary,Survey of India (SOI),Jharkhand
+248,248,JH,20,Ramgarh,607,331503.377607623,1340133174.150573,Administrative Boundary,Survey of India (SOI),Jharkhand
+249,249,JK,01,Anantnag,001,359294.8232003061,2772444566.3721895,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+250,250,JK,01,Budgam,002,196944.91830147718,1239941822.4278743,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+251,251,JK,01,Baramulla,003,264341.638152041,2026530519.2998302,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+252,252,JK,01,Doda,004,289910.9539557557,2386209872.465344,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+253,253,JK,01,Jammu,005,387933.96238612704,2304037721.679544,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+254,254,JK,01,Kathua,007,310305.0786612201,2473597069.153113,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+255,255,JK,01,Kupwara,008,275066.2880563932,2755634370.6816297,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+256,256,JK,01,Poonch,010,401452.86508965975,4226341669.24001,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+257,257,JK,01,Pulwama,011,190696.13222593037,899339583.1511332,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+258,258,JK,01,Rajouri,012,314542.07391178806,2642588547.6594825,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+259,259,JK,01,Srinagar,013,165864.28097894802,279778797.6218032,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+260,260,JK,01,Udhampur,014,300881.8008318329,2222153087.7496514,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+261,261,JK,01,Kishtwar,620,566931.4064854732,8090157786.288359,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+262,262,JK,01,Ramban,621,179432.5401337148,1231626218.8612206,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+263,263,JK,01,Kulgam,622,238687.9029292735,1172800068.465542,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+264,264,JK,01,Bandipora,623,331719.9839153978,2645443650.3387647,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+265,265,JK,01,Samba,624,212401.90161010833,907359288.535646,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+266,266,JK,01,Shopian,625,166178.1805050949,491388880.89887434,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+267,267,JK,01,Ganderbal,626,347171.606957674,1630977648.0631742,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+268,268,JK,01,Reasi,627,348184.36198560026,2029109102.9514225,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+269,269,KA,29,Bagalkote,524,659248.7911049579,6414799460.773807,Administrative Boundary,Survey of India (SOI),Karnataka
+270,270,KA,29,Bengaluru Urban,525,332159.64243145,2189239764.650828,Administrative Boundary,Survey of India (SOI),Karnataka
+271,271,KA,29,Bengaluru Rural,526,490845.4015095752,2286901731.8762655,Administrative Boundary,Survey of India (SOI),Karnataka
+272,272,KA,29,Belagavi,527,1094590.2652962797,13151085482.360353,Administrative Boundary,Survey of India (SOI),Karnataka
+273,273,KA,29,Ballari,528,778959.5498047245,8329842225.610894,Administrative Boundary,Survey of India (SOI),Karnataka
+274,274,KA,29,Bidar,529,548153.6978715768,5290280211.436426,Administrative Boundary,Survey of India (SOI),Karnataka
+275,275,KA,29,Vijayapura,530,690734.2825724096,10248024374.017014,Administrative Boundary,Survey of India (SOI),Karnataka
+276,276,KA,29,Chamarajanagara,531,589041.7922165912,5667601236.992235,Administrative Boundary,Survey of India (SOI),Karnataka
+277,277,KA,29,Chikkamagaluru,532,588821.2409516055,7157341468.500472,Administrative Boundary,Survey of India (SOI),Karnataka
+278,278,KA,29,Chitradurga,533,673495.6875217456,8347285849.256522,Administrative Boundary,Survey of India (SOI),Karnataka
+279,279,KA,29,Dakshina Kannada,534,483714.5697600294,4856606887.964821,Administrative Boundary,Survey of India (SOI),Karnataka
+280,280,KA,29,Davangere,535,588950.4029030866,5852943794.484994,Administrative Boundary,Survey of India (SOI),Karnataka
+281,281,KA,29,Dharwad,536,464410.07341632096,4185663526.3251557,Administrative Boundary,Survey of India (SOI),Karnataka
+282,282,KA,29,Gadag,537,558441.7683845009,4576789449.533759,Administrative Boundary,Survey of India (SOI),Karnataka
+283,283,KA,29,Kalaburagi,538,882443.3767887331,10674992246.859356,Administrative Boundary,Survey of India (SOI),Karnataka
+284,284,KA,29,Hassan,539,651511.1917689972,6790123373.806953,Administrative Boundary,Survey of India (SOI),Karnataka
+285,285,KA,29,Haveri,540,465599.67241056456,4756748680.989289,Administrative Boundary,Survey of India (SOI),Karnataka
+286,286,KA,29,Kodagu,541,466177.6957944069,4113653734.6698785,Administrative Boundary,Survey of India (SOI),Karnataka
+287,287,KA,29,Kolar,542,498776.7304762063,3961427799.245243,Administrative Boundary,Survey of India (SOI),Karnataka
+288,288,KA,29,Koppal,543,536297.8969468819,5469495541.587741,Administrative Boundary,Survey of India (SOI),Karnataka
+289,289,KA,29,Mandya,544,554671.6793271097,4952166670.040381,Administrative Boundary,Survey of India (SOI),Karnataka
+290,290,KA,29,Mysuru,545,673605.8493055075,6322872583.528143,Administrative Boundary,Survey of India (SOI),Karnataka
+291,291,KA,29,Raichur,546,540627.3864373538,8269741124.6640835,Administrative Boundary,Survey of India (SOI),Karnataka
+292,292,KA,29,Shivamogga,547,744438.9289135963,8394371650.546379,Administrative Boundary,Survey of India (SOI),Karnataka
+293,293,KA,29,Tumakuru,548,1075827.4432253283,10527383159.352211,Administrative Boundary,Survey of India (SOI),Karnataka
+294,294,KA,29,Udupi,549,378264.2627821887,3561798509.145212,Administrative Boundary,Survey of India (SOI),Karnataka
+295,295,KA,29,Uttara Kannada,550,786882.5850294145,10148745987.768085,Administrative Boundary,Survey of India (SOI),Karnataka
+296,296,KA,29,Chikkaballapura,630,492671.54284535337,4212917286.625645,Administrative Boundary,Survey of India (SOI),Karnataka
+297,297,KA,29,Ramanagara,631,472948.51323865156,3510459802.785015,Administrative Boundary,Survey of India (SOI),Karnataka
+298,298,KA,29,Yadgir,635,543057.4340657446,5153365153.52488,Administrative Boundary,Survey of India (SOI),Karnataka
+299,299,KL,32,Alappuzha,554,289120.9293814843,1456730406.4868977,Administrative Boundary,Survey of India (SOI),Kerala
+300,300,KL,32,Ernakulam,555,400876.18364086904,3116001468.0509925,Administrative Boundary,Survey of India (SOI),Kerala
+301,301,KL,32,Idukki,556,565294.926325575,4446811231.097502,Administrative Boundary,Survey of India (SOI),Kerala
+302,302,KL,32,Kannur,557,331777.40769035945,2971170500.646728,Administrative Boundary,Survey of India (SOI),Kerala
+303,303,KL,32,Kasaragod,558,343358.00261492626,1990114359.8918426,Administrative Boundary,Survey of India (SOI),Kerala
+304,304,KL,32,Kollam,559,348987.7465642549,2563964234.371418,Administrative Boundary,Survey of India (SOI),Kerala
+305,305,KL,32,Kottayam,560,318899.53825422336,2252606786.318728,Administrative Boundary,Survey of India (SOI),Kerala
+306,306,KL,32,Kozhikode,561,293649.8820567571,2362263807.777572,Administrative Boundary,Survey of India (SOI),Kerala
+307,307,KL,32,Malappuram,562,402049.5464748308,3588291261.9235506,Administrative Boundary,Survey of India (SOI),Kerala
+308,308,KL,32,Palakkad,563,542368.3401726482,4534612164.213174,Administrative Boundary,Survey of India (SOI),Kerala
+309,309,KL,32,Pathanamthitta,564,403787.9911517204,2716225960.658041,Administrative Boundary,Survey of India (SOI),Kerala
+310,310,KL,32,Thiruvananthapuram,565,284929.7623356934,2259142442.322584,Administrative Boundary,Survey of India (SOI),Kerala
+311,311,KL,32,Thrissur,566,392208.79638136044,3077821992.245781,Administrative Boundary,Survey of India (SOI),Kerala
+312,312,KL,32,Wayanad,567,285368.00587594014,2146778564.4461703,Administrative Boundary,Survey of India (SOI),Kerala
+313,313,LD,31,Lakshadweep District,553,400794.345101047,669714162.74373,Administrative Boundary,Survey of India (SOI),Lakshadweep
+314,314,LK,37,Kargil,006,899676.6108963508,14085644511.853868,Administrative Boundary,Survey of India (SOI),Ladakh
+315,315,LK,37,Leh Ladakh,009,3207825.007051045,155377120417.97757,Administrative Boundary,Survey of India (SOI),Ladakh
+316,316,MH,27,Ahmednagar,466,1350331.6594690164,16554765396.970404,Administrative Boundary,Survey of India (SOI),Maharashtra
+317,317,MH,27,Akola,467,599205.4600274935,5236393098.57468,Administrative Boundary,Survey of India (SOI),Maharashtra
+318,318,MH,27,Amravati,468,926764.3754269639,11763573093.84791,Administrative Boundary,Survey of India (SOI),Maharashtra
+319,319,MH,27,Aurangabad,469,802193.2128529861,9831614652.149895,Administrative Boundary,Survey of India (SOI),Maharashtra
+320,320,MH,27,Beed,470,924337.1640271274,10272839950.306345,Administrative Boundary,Survey of India (SOI),Maharashtra
+321,321,MH,27,Bhandara,471,474274.675349308,3945905118.588954,Administrative Boundary,Survey of India (SOI),Maharashtra
+322,322,MH,27,Buldhana,472,744206.117402739,9402443499.56686,Administrative Boundary,Survey of India (SOI),Maharashtra
+323,323,MH,27,Chandrapur,473,681585.7629552287,10967038136.849945,Administrative Boundary,Survey of India (SOI),Maharashtra
+324,324,MH,27,Dhule,474,611671.8143040884,6928917948.512893,Administrative Boundary,Survey of India (SOI),Maharashtra
+325,325,MH,27,Gadchiroli,475,919012.3485574599,14038085282.453901,Administrative Boundary,Survey of India (SOI),Maharashtra
+326,326,MH,27,Gondia,476,510811.489572831,5038118958.275322,Administrative Boundary,Survey of India (SOI),Maharashtra
+327,327,MH,27,Hingoli,477,472657.89273127215,4462037839.230869,Administrative Boundary,Survey of India (SOI),Maharashtra
+328,328,MH,27,Jalgaon,478,781675.5593653788,11341572463.678183,Administrative Boundary,Survey of India (SOI),Maharashtra
+329,329,MH,27,Jalna,479,686332.0399484095,7394044466.949029,Administrative Boundary,Survey of India (SOI),Maharashtra
+330,330,MH,27,Kolhapur,480,940015.2240050526,7515514979.624747,Administrative Boundary,Survey of India (SOI),Maharashtra
+331,331,MH,27,Latur,481,550149.9286850888,6994563808.942672,Administrative Boundary,Survey of India (SOI),Maharashtra
+332,332,MH,27,Mumbai Suburban,483,105740.61840780845,406092903.71552706,Administrative Boundary,Survey of India (SOI),Maharashtra
+333,333,MH,27,Nagpur,484,631551.9973053075,9537169302.261414,Administrative Boundary,Survey of India (SOI),Maharashtra
+334,334,MH,27,Nanded,485,1053675.735644433,10195674498.17823,Administrative Boundary,Survey of India (SOI),Maharashtra
+335,335,MH,27,Nandurbar,486,719266.2789089427,5744064929.656893,Administrative Boundary,Survey of India (SOI),Maharashtra
+336,336,MH,27,Nashik,487,891924.5856221534,14997754273.736126,Administrative Boundary,Survey of India (SOI),Maharashtra
+337,337,MH,27,Osmanabad,488,782633.7326052187,7357716786.837124,Administrative Boundary,Survey of India (SOI),Maharashtra
+338,338,MH,27,Parbhani,489,569581.448641564,6198989060.000709,Administrative Boundary,Survey of India (SOI),Maharashtra
+339,339,MH,27,Pune,490,1009402.4290729358,15181518258.278894,Administrative Boundary,Survey of India (SOI),Maharashtra
+340,340,MH,27,Raigad,491,700244.3248269116,6788401395.843969,Administrative Boundary,Survey of India (SOI),Maharashtra
+341,341,MH,27,Ratnagiri,492,693515.986694565,8091993180.990724,Administrative Boundary,Survey of India (SOI),Maharashtra
+342,342,MH,27,Sangli,493,930013.5820470399,8393173741.288185,Administrative Boundary,Survey of India (SOI),Maharashtra
+343,343,MH,27,Satara,494,694240.4740638281,10194118584.626858,Administrative Boundary,Survey of India (SOI),Maharashtra
+344,344,MH,27,Sindhudurg,495,594563.3524575457,5005051066.085433,Administrative Boundary,Survey of India (SOI),Maharashtra
+345,345,MH,27,Solapur,496,1251617.9801380145,14458461628.082193,Administrative Boundary,Survey of India (SOI),Maharashtra
+346,346,MH,27,Thane,497,439044.94509662676,4120767283.5124645,Administrative Boundary,Survey of India (SOI),Maharashtra
+347,347,MH,27,Wardha,498,496263.4608827383,6083675527.855141,Administrative Boundary,Survey of India (SOI),Maharashtra
+348,348,MH,27,Washim,499,592933.0508372735,4968944282.624692,Administrative Boundary,Survey of India (SOI),Maharashtra
+349,349,MH,27,Yavatmal,500,934143.6134013148,13120796899.802563,Administrative Boundary,Survey of India (SOI),Maharashtra
+350,350,MH,27,Palghar,665,470738.2956916549,5082442072.723721,Administrative Boundary,Survey of India (SOI),Maharashtra
+351,351,ML,17,East Garo Hills,273,236593.4546131125,1789685614.7505965,Administrative Boundary,Survey of India (SOI),Meghalaya
+352,352,ML,17,East Khasi Hills,274,335946.07851552137,2697896002.6709757,Administrative Boundary,Survey of India (SOI),Meghalaya
+353,353,ML,17,West Jaintia Hills,275,299046.8724059289,1730306119.2201202,Administrative Boundary,Survey of India (SOI),Meghalaya
+354,354,ML,17,Ri Bhoi,276,420177.08045060246,2332356762.1282177,Administrative Boundary,Survey of India (SOI),Meghalaya
+355,355,ML,17,South Garo Hills,277,286362.152814352,1807408465.5820935,Administrative Boundary,Survey of India (SOI),Meghalaya
+356,356,ML,17,West Garo Hills,278,344505.9644579375,2668068269.6803913,Administrative Boundary,Survey of India (SOI),Meghalaya
+357,357,ML,17,West Khasi Hills,279,451845.59119657584,3779674784.153306,Administrative Boundary,Survey of India (SOI),Meghalaya
+358,358,ML,17,North Garo Hills,656,270961.26408472063,916061106.0611842,Administrative Boundary,Survey of India (SOI),Meghalaya
+359,359,ML,17,East Jaintia Hills,657,264144.3294058359,1937297681.2345386,Administrative Boundary,Survey of India (SOI),Meghalaya
+360,360,ML,17,South West Khasi Hills,658,287392.8023814905,1235296271.3140078,Administrative Boundary,Survey of India (SOI),Meghalaya
+361,361,ML,17,South West Garo Hills,663,131173.26838405026,673759747.461575,Administrative Boundary,Survey of India (SOI),Meghalaya
+365,365,MN,14,Imphal East,255,626479.0257747209,380114656.2257313,Administrative Boundary,Survey of India (SOI),Manipur
+366,366,MN,14,Imphal West,256,228192.9599750747,457344605.3222463,Administrative Boundary,Survey of India (SOI),Manipur
+436,436,MZ,15,Saiha,267,278538.5018023622,1472813386.1202302,Administrative Boundary,Survey of India (SOI),Mizoram
+437,437,MZ,15,Serchhip,268,291751.30729335843,1349331100.8291152,Administrative Boundary,Survey of India (SOI),Mizoram
+438,438,NL,13,Dimapur,244,226588.45103849808,844895718.2664241,Administrative Boundary,Survey of India (SOI),Nagaland
+439,439,NL,13,Kohima,245,201889.98347464498,1275100852.2992373,Administrative Boundary,Survey of India (SOI),Nagaland
+440,440,NL,13,Mokokchung,246,305195.85801879625,1545213161.5145063,Administrative Boundary,Survey of India (SOI),Nagaland
+441,441,NL,13,Mon,247,296672.5156742993,2097919349.293751,Administrative Boundary,Survey of India (SOI),Nagaland
+442,442,NL,13,Phek,248,289430.8355725983,1801575121.7548485,Administrative Boundary,Survey of India (SOI),Nagaland
+362,362,MN,14,Bishnupur,252,166786.98883078358,445592788.4397536,Administrative Boundary,Survey of India (SOI),Manipur
+363,363,MN,14,Chandel,253,254469.7130191376,2031144676.9155028,Administrative Boundary,Survey of India (SOI),Manipur
+364,364,MN,14,Churachandpur,254,290539.2145605779,2365185483.455339,Administrative Boundary,Survey of India (SOI),Manipur
+367,367,MN,14,Senapati,257,239925.08896424196,1678259548.5716894,Administrative Boundary,Survey of India (SOI),Manipur
+368,368,MN,14,Tamenglong,258,358444.31789839454,2925569457.1504383,Administrative Boundary,Survey of India (SOI),Manipur
+374,374,MN,14,Noney,714,192907.20772394026,1084931247.646947,Administrative Boundary,Survey of India (SOI),Manipur
+375,375,MN,14,Pherzawl,715,318230.40347995766,2176534924.145662,Administrative Boundary,Survey of India (SOI),Manipur
+443,443,NL,13,Tuensang,249,274682.35347844404,2053528846.8678741,Administrative Boundary,Survey of India (SOI),Nagaland
+369,369,MN,14,Thoubal,259,143651.15945176446,359556639.2472397,Administrative Boundary,Survey of India (SOI),Manipur
+370,370,MN,14,Ukhrul,260,269868.29636739276,2067863027.1621308,Administrative Boundary,Survey of India (SOI),Manipur
+410,410,MP,23,Rajgarh,422,459962.3679705607,5930520635.234161,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+411,411,MP,23,Ratlam,423,558804.9967061675,4674657766.619397,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+412,412,MP,23,Rewa,424,648693.8275407802,6053511499.936048,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+413,413,MP,23,Sagar,425,1015860.8213172544,9871936875.733923,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+414,414,MP,23,Satna,426,1008596.9112519079,7245261423.326445,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+415,415,MP,23,Sehore,427,858703.9758808042,6317330542.939734,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+416,416,MP,23,Seoni,428,704405.4932540759,8430756725.2328415,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+417,417,MP,23,Shahdol,429,604547.5739062625,5460958587.602149,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+418,418,MP,23,Shajapur,430,445668.63331947394,3329021200.515245,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+371,371,MN,14,Kakching,711,122176.7868987516,249243440.7578278,Administrative Boundary,Survey of India (SOI),Manipur
+372,372,MN,14,Kangpokpi,712,929366.4484406721,1768694989.0942357,Administrative Boundary,Survey of India (SOI),Manipur
+373,373,MN,14,Jiribam,713,118359.14399806768,167481713.18408385,Administrative Boundary,Survey of India (SOI),Manipur
+419,419,MP,23,Sheopur,431,543932.1438332894,6358648638.237582,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+420,420,MP,23,Shivpuri,432,832767.1320565052,9691317499.280693,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+421,421,MP,23,Sidhi,433,518125.0450503843,4591479076.165631,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+422,422,MP,23,Tikamgarh,434,405670.5029166897,3549051523.79536,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+423,423,MP,23,Ujjain,435,720183.908448472,5867495186.851278,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+424,424,MP,23,Umaria,436,464849.40616803855,4401461041.178622,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+425,425,MP,23,Vidisha,437,668157.0710726238,7028007448.10904,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+426,426,MP,23,Singrauli,638,507516.4500559974,5543304562.765674,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+427,427,MP,23,Alirajpur,639,488022.3211010589,3213488234.2345076,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+428,428,MP,23,Agar Malwa,667,373490.5489756459,2628618401.5049734,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+429,429,MP,23,Niwari,722,464028.854755969,1293341191.363618,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+430,430,MZ,15,Aizawl,261,479362.5237913288,3002061620.780296,Administrative Boundary,Survey of India (SOI),Mizoram
+431,431,MZ,15,Champhai,262,416038.90146979946,3269819352.0963244,Administrative Boundary,Survey of India (SOI),Mizoram
+432,432,MZ,15,Kolasib,263,268346.81466923887,1535550684.1894054,Administrative Boundary,Survey of India (SOI),Mizoram
+433,433,MZ,15,Lawngtlai,264,508398.0467560026,2333874855.9606137,Administrative Boundary,Survey of India (SOI),Mizoram
+434,434,MZ,15,Lunglei,265,481134.0109370448,4363192439.129495,Administrative Boundary,Survey of India (SOI),Mizoram
+435,435,MZ,15,Mamit,266,417790.0832364244,2948734741.5742526,Administrative Boundary,Survey of India (SOI),Mizoram
+376,376,MN,14,Tengnoupal,716,194333.48151410263,1104037229.6609852,Administrative Boundary,Survey of India (SOI),Manipur
+381,381,MP,23,Barwani,393,490332.92164734105,5227669065.969437,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+382,382,MP,23,Betul,394,723623.7809276445,9680344713.815414,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+383,383,MP,23,Bhind,395,586892.3435229912,4301134495.915147,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+384,384,MP,23,Bhopal,396,374880.45906655747,2660914703.6931305,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+385,385,MP,23,Burhanpur,397,330199.1239933309,3113189754.8595343,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+386,386,MP,23,Chhatarpur,398,989185.2992735468,8343984031.8286085,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+387,387,MP,23,Chhindwara,399,811478.6165422156,11369058066.052662,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+388,388,MP,23,Damoh,400,634094.7132218092,7023184007.291669,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+389,389,MP,23,Datia,401,550281.0508846354,2792229391.4375114,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+390,390,MP,23,Dewas,402,847350.3541175313,6745212341.06027,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+391,391,MP,23,Dhar,403,590664.9618353371,7847416077.884666,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+392,392,MP,23,Dindori,404,626633.9478840743,5579986369.3970175,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+393,393,MP,23,East Nimar,405,605900.5975214324,7197931899.133211,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+394,394,MP,23,Guna,406,673370.6844178626,6136556768.893843,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+395,395,MP,23,Gwalior,407,390091.52000146615,4392952819.43082,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+404,404,MP,23,Mandsaur,416,553754.6414781143,5339821875.172633,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+405,405,MP,23,Morena,417,629375.8992062248,4803158538.964583,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+406,406,MP,23,Narsinghpur,418,555498.7979227756,4939362513.613398,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+407,407,MP,23,Neemuch,419,626504.3689561961,4142968356.3357124,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+408,408,MP,23,Panna,420,880406.934167062,6823828351.330082,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+409,409,MP,23,Raisen,421,780342.2807270292,8144431362.670333,Administrative Boundary,Survey of India (SOI),Madhya Pradesh
+444,444,NL,13,Wokha,250,248243.18855161106,1529136102.6449454,Administrative Boundary,Survey of India (SOI),Nagaland
+445,445,NL,13,Zunheboto,251,298497.27011151006,1516332244.0970354,Administrative Boundary,Survey of India (SOI),Nagaland
+446,446,NL,13,Peren,613,245605.58667530885,1656241374.3951435,Administrative Boundary,Survey of India (SOI),Nagaland
+447,447,NL,13,Kiphire,614,190779.81662923965,1087321745.4375947,Administrative Boundary,Survey of India (SOI),Nagaland
+448,448,NL,13,Longleng,615,186055.63571277968,564209683.3896618,Administrative Boundary,Survey of India (SOI),Nagaland
+449,449,OD,21,Anugul,344,601433.5989012675,6152318835.366725,Administrative Boundary,Survey of India (SOI),Odisha
+450,450,OD,21,Balangir,345,564423.0446416487,6303852363.230754,Administrative Boundary,Survey of India (SOI),Odisha
+451,451,OD,21,Baleshwar,346,548150.0114449207,3670146566.7046156,Administrative Boundary,Survey of India (SOI),Odisha
+452,452,OD,21,Bargarh,347,605874.0204370269,5632107251.434029,Administrative Boundary,Survey of India (SOI),Odisha
+453,453,OD,21,Bhadrak,348,375161.0059371282,2389208557.204158,Administrative Boundary,Survey of India (SOI),Odisha
+454,454,OD,21,Boudh,349,405234.40653967427,2994311684.26659,Administrative Boundary,Survey of India (SOI),Odisha
+455,455,OD,21,Cuttack,350,621913.8157236807,3722166834.1812596,Administrative Boundary,Survey of India (SOI),Odisha
+456,456,OD,21,Deogarh,351,409652.8415917424,2834198280.946803,Administrative Boundary,Survey of India (SOI),Odisha
+457,457,OD,21,Dhenkanal,352,405620.7008241495,4298170976.22002,Administrative Boundary,Survey of India (SOI),Odisha
+458,458,OD,21,Gajapati,353,529124.0163745268,3962683261.3352294,Administrative Boundary,Survey of India (SOI),Odisha
+459,459,OD,21,Ganjam,354,696384.397236171,8141003182.821428,Administrative Boundary,Survey of India (SOI),Odisha
+460,460,OD,21,Jagatsinghapur,355,248866.9668697615,1686379955.142827,Administrative Boundary,Survey of India (SOI),Odisha
+461,461,OD,21,Jajapur,356,438630.9035144577,2793051543.1010284,Administrative Boundary,Survey of India (SOI),Odisha
+462,462,OD,21,Jharsuguda,357,361643.1240930988,2069366021.9679503,Administrative Boundary,Survey of India (SOI),Odisha
+463,463,OD,21,Kalahandi,358,635468.7966433769,7635967821.5148115,Administrative Boundary,Survey of India (SOI),Odisha
+464,464,OD,21,Kandhamal,359,640098.6983529544,7745355294.573137,Administrative Boundary,Survey of India (SOI),Odisha
+465,465,OD,21,Kendrapara,360,372917.9373925862,2460490861.136232,Administrative Boundary,Survey of India (SOI),Odisha
+466,466,OD,21,Kendujhar,361,668140.1148453814,8007564183.991176,Administrative Boundary,Survey of India (SOI),Odisha
+467,467,OD,21,Khordha,362,636981.8125049319,2791010119.831572,Administrative Boundary,Survey of India (SOI),Odisha
+468,468,OD,21,Koraput,363,789205.3907531705,8105182988.623239,Administrative Boundary,Survey of India (SOI),Odisha
+469,469,OD,21,Malkangiri,364,493766.7961376883,5585160793.307556,Administrative Boundary,Survey of India (SOI),Odisha
+470,470,OD,21,Mayurbhanj,365,772430.9709979179,10011093038.6741,Administrative Boundary,Survey of India (SOI),Odisha
+471,471,OD,21,Nabarangpur,366,555841.8765496137,5275520036.9872875,Administrative Boundary,Survey of India (SOI),Odisha
+472,472,OD,21,Nayagarh,367,432271.6591005019,3760846022.0794225,Administrative Boundary,Survey of India (SOI),Odisha
+473,473,OD,21,Nuapada,368,420945.8062481118,3718206449.17988,Administrative Boundary,Survey of India (SOI),Odisha
+474,474,OD,21,Puri,369,488372.1079609719,3347605163.904658,Administrative Boundary,Survey of India (SOI),Odisha
+475,475,OD,21,Rayagada,370,787829.6576180543,7105085471.124839,Administrative Boundary,Survey of India (SOI),Odisha
+476,476,OD,21,Sambalpur,371,651832.2249661486,6331026785.01457,Administrative Boundary,Survey of India (SOI),Odisha
+477,477,OD,21,Sonepur,372,339925.914563929,2278989132.843002,Administrative Boundary,Survey of India (SOI),Odisha
+478,478,OD,21,Sundargarh,373,810573.2088001916,9377856581.202906,Administrative Boundary,Survey of India (SOI),Odisha
+479,479,PB,03,Amritsar,027,374488.5252156428,2620704386.854923,Administrative Boundary,Survey of India (SOI),Punjab
+480,480,PB,03,Bathinda,028,419007.0384510076,3291868958.3580265,Administrative Boundary,Survey of India (SOI),Punjab
+481,481,PB,03,Faridkot,029,218865.68668982145,1438682980.8369806,Administrative Boundary,Survey of India (SOI),Punjab
+482,482,PB,03,Fatehgarh Sahib,030,243490.36344831574,1125442037.1702032,Administrative Boundary,Survey of India (SOI),Punjab
+483,483,PB,03,Ferozepur,031,302260.6429231562,1959696892.3285608,Administrative Boundary,Survey of India (SOI),Punjab
+484,484,PB,03,Gurdaspur,032,326550.14954523236,2553272152.9983788,Administrative Boundary,Survey of India (SOI),Punjab
+485,485,PB,03,Hoshiarpur,033,431263.44163156184,3311000173.3248854,Administrative Boundary,Survey of India (SOI),Punjab
+486,486,PB,03,Jalandhar,034,457066.5323561471,2580254706.2614584,Administrative Boundary,Survey of India (SOI),Punjab
+487,487,PB,03,Kapurthala,035,434652.35507903766,1594792027.5964017,Administrative Boundary,Survey of India (SOI),Punjab
+488,488,PB,03,Ludhiana,036,396568.586089706,3600319199.3949375,Administrative Boundary,Survey of India (SOI),Punjab
+489,489,PB,03,Mansa,037,341775.84573303367,2105404888.0499518,Administrative Boundary,Survey of India (SOI),Punjab
+490,490,PB,03,Moga,038,295065.56785598124,2178531055.880183,Administrative Boundary,Survey of India (SOI),Punjab
+491,491,PB,03,Sri Muktsar Sahib,039,353851.0839200666,2571034363.1380444,Administrative Boundary,Survey of India (SOI),Punjab
+492,492,PB,03,Shahid Bhagat Singh Nagar,040,264327.43847899395,1234937264.0516744,Administrative Boundary,Survey of India (SOI),Punjab
+493,493,PB,03,Patiala,041,625235.4070140574,3195898387.130927,Administrative Boundary,Survey of India (SOI),Punjab
+494,494,PB,03,Rupnagar,042,330655.98564590485,1341985618.59195,Administrative Boundary,Survey of India (SOI),Punjab
+495,495,PB,03,Sangrur,043,511354.1145468287,3507412322.389426,Administrative Boundary,Survey of India (SOI),Punjab
+496,496,PB,03,Barnala,605,244303.67828931168,1387156284.2033877,Administrative Boundary,Survey of India (SOI),Punjab
+497,497,PB,03,S.A.S Nagar,608,318086.06013926206,1078758863.231079,Administrative Boundary,Survey of India (SOI),Punjab
+498,498,PB,03,Tarn Taran,609,312867.4424570691,2362464051.845207,Administrative Boundary,Survey of India (SOI),Punjab
+499,499,PB,03,Fazilka,651,416599.44965366053,3153639393.346791,Administrative Boundary,Survey of India (SOI),Punjab
+500,500,PB,03,Pathankot,662,245231.4166272999,934390976.8231102,Administrative Boundary,Survey of India (SOI),Punjab
+501,501,PY,34,Karaikal,598,118432.96099095525,163401673.65190893,Administrative Boundary,Survey of India (SOI),Puducherry
+502,502,PY,34,Mahe,599,24288.025899453623,10307352.796449514,Administrative Boundary,Survey of India (SOI),Puducherry
+505,505,RJ,08,Ajmer,086,814021.6283556425,8164973268.059025,Administrative Boundary,Survey of India (SOI),Rajasthan
+506,506,RJ,08,Alwar,087,903512.6892602574,8106484917.113271,Administrative Boundary,Survey of India (SOI),Rajasthan
+507,507,RJ,08,Banswara,088,430679.59446396376,4307163574.223301,Administrative Boundary,Survey of India (SOI),Rajasthan
+508,508,RJ,08,Baran,089,629394.0373208033,6714406925.395516,Administrative Boundary,Survey of India (SOI),Rajasthan
+509,509,RJ,08,Barmer,090,1048855.287031618,27321530596.238724,Administrative Boundary,Survey of India (SOI),Rajasthan
+510,510,RJ,08,Bharatpur,091,729941.0185820516,4892580479.1122,Administrative Boundary,Survey of India (SOI),Rajasthan
+511,511,RJ,08,Bhilwara,092,726464.477963933,10092860271.44621,Administrative Boundary,Survey of India (SOI),Rajasthan
+512,512,RJ,08,Bikaner,093,1199733.3163950606,29252725140.785637,Administrative Boundary,Survey of India (SOI),Rajasthan
+513,513,RJ,08,Bundi,094,482255.05588085053,5560944987.459359,Administrative Boundary,Survey of India (SOI),Rajasthan
+514,514,RJ,08,Chittorgarh,095,991740.4232118864,7503843709.984804,Administrative Boundary,Survey of India (SOI),Rajasthan
+515,515,RJ,08,Churu,096,1021945.6644184558,13421740849.87513,Administrative Boundary,Survey of India (SOI),Rajasthan
+516,516,RJ,08,Dausa,097,512692.9776199892,3293902247.1667833,Administrative Boundary,Survey of India (SOI),Rajasthan
+517,517,RJ,08,Dholpur,098,396957.15682019596,2922087781.764721,Administrative Boundary,Survey of India (SOI),Rajasthan
+518,518,RJ,08,Dungarpur,099,380153.7371252378,3643793200.2869806,Administrative Boundary,Survey of India (SOI),Rajasthan
+519,519,RJ,08,Ganganagar,100,782496.9284316316,10372196411.669317,Administrative Boundary,Survey of India (SOI),Rajasthan
+520,520,RJ,08,Hanumangarh,101,870497.4180487165,9623514857.897116,Administrative Boundary,Survey of India (SOI),Rajasthan
+533,533,RJ,08,Sikar,114,720178.9849057,7448509289.437846,Administrative Boundary,Survey of India (SOI),Rajasthan
+534,534,RJ,08,Sirohi,115,453461.5064992774,4941016669.031678,Administrative Boundary,Survey of India (SOI),Rajasthan
+535,535,RJ,08,Tonk,116,684815.8025675939,6932395551.466879,Administrative Boundary,Survey of India (SOI),Rajasthan
+536,536,RJ,08,Udaipur,117,877756.3400481428,11256569484.016783,Administrative Boundary,Survey of India (SOI),Rajasthan
+537,537,RJ,08,Pratapgarh,629,482299.4415569141,4260142393.9247746,Administrative Boundary,Survey of India (SOI),Rajasthan
+538,538,SK,11,Gangtok,225,144680.35550214298,909907319.095421,Administrative Boundary,Survey of India (SOI),Sikkim
+539,539,SK,11,Mangan,226,328365.93003034435,4082392339.148472,Administrative Boundary,Survey of India (SOI),Sikkim
+540,540,SK,11,Namchi,227,158720.9925635533,708871535.4058157,Administrative Boundary,Survey of India (SOI),Sikkim
+541,541,SK,11,Gyalshing,228,180059.3113822335,1158611699.9212148,Administrative Boundary,Survey of India (SOI),Sikkim
+556,556,TN,33,Pudukkottai,582,723561.1888860812,4750806933.325329,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+557,557,TN,33,Ramanathapuram,583,736956.5738006597,4272385544.1185164,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+558,558,TN,33,Salem,584,701688.7008410897,5266709175.4510355,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+559,559,TN,33,Sivaganga,585,704187.7010128465,4302586722.134969,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+560,560,TN,33,Thanjavur,586,669079.0081258556,3464308501.7912273,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+561,561,TN,33,The Nilgiris,587,329163.95051759674,2581362422.5020146,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+562,562,TN,33,Theni,588,343728.72869514377,2921917230.156715,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+563,563,TN,33,Thiruvallur,589,667447.1246049656,3397281459.623687,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+564,564,TN,33,Thiruvarur,590,465271.6578699238,2319362339.612644,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+542,542,TN,33,Chennai,568,74830.90714893154,168108043.00313458,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+543,543,TN,33,Coimbatore,569,540285.8259907645,4782748245.666942,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+544,544,TN,33,Cuddalore,570,526635.545530309,3734422511.101331,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+545,545,TN,33,Dharmapuri,571,523973.5707371826,4507545325.15904,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+546,546,TN,33,Dindigul,572,641963.7389153152,6141976426.850322,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+547,547,TN,33,Erode,573,626990.7493468005,5801484230.723343,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+548,548,TN,33,Kanchipuram,574,357252.6211594132,1717066974.3715217,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+549,549,TN,33,Kanniyakumari,575,251350.72947375866,1741953310.5087512,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+550,550,TN,33,Karur,576,461737.0751245065,2937228962.4771824,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+551,551,TN,33,Krishnagiri,577,630917.0443285478,5127190183.127263,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+552,552,TN,33,Madurai,578,553333.6125703148,3780919833.65961,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+553,553,TN,33,Nagapattinam,579,517899.642372811,2620819460.551117,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+554,554,TN,33,Namakkal,580,429232.33361028763,3444991744.8909774,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+555,555,TN,33,Perambalur,581,293141.2218884119,1771137718.6781652,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+565,565,TN,33,Tiruchirappalli,591,819534.6663504126,4549561040.171747,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+566,566,TN,33,Tirunelveli,592,459678.3958893345,4008188735.4426675,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+567,567,TN,33,Tiruvannamalai,593,713718.5843886391,6191479427.605586,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+568,568,TN,33,Tuticorin,594,521460.12158653873,4897709179.685982,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+569,569,TN,33,Vellore,595,428438.4070710159,2132274793.0525372,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+570,570,TN,33,Villupuram,596,555725.1942441267,3407379705.561508,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+571,571,TN,33,Virudhunagar,597,571407.9971414804,4341514879.234571,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+572,572,TN,33,Ariyalur,610,259928.49727816155,1957309655.542329,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+573,573,TN,33,Tiruppur,634,678686.7911406385,5241066643.081378,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+574,574,TN,33,Kallakurichi,729,430193.5234869507,3807771509.2464,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+575,575,TN,33,Chengalpattu,730,327608.5214727299,2741231745.652062,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+576,576,TN,33,Ranipet,731,363309.3456335871,1842415502.897802,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+577,577,TN,33,Tirupathur,732,332781.39526605565,2085180677.7114506,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+578,578,TN,33,Tenkasi,733,362633.62915546,2877743457.477795,Administrative Boundary,Survey of India (SOI),Tamil Nadu
+579,579,TR,16,Dhalai,269,359945.1595042043,2166058358.1766763,Administrative Boundary,Survey of India (SOI),Tripura
+580,580,TR,16,North Tripura,270,313870.9156788592,1293399952.49178,Administrative Boundary,Survey of India (SOI),Tripura
+581,581,TR,16,South Tripura,271,336836.27774896205,1405461366.596125,Administrative Boundary,Survey of India (SOI),Tripura
+582,582,TR,16,West Tripura,272,188858.33164086405,906718625.1610596,Administrative Boundary,Survey of India (SOI),Tripura
+583,583,TR,16,Khowai,652,226888.06383552172,1011186797.1886029,Administrative Boundary,Survey of India (SOI),Tripura
+584,584,TR,16,Sepahijala,653,246909.94616034013,1002811647.379776,Administrative Boundary,Survey of India (SOI),Tripura
+585,585,TR,16,Gomati,654,330104.2045210918,1597284690.8461814,Administrative Boundary,Survey of India (SOI),Tripura
+586,586,TR,16,Unakoti,655,181962.70087447678,662730278.6953458,Administrative Boundary,Survey of India (SOI),Tripura
+587,587,TS,36,Adilabad,501,395373.7846240376,3962787884.393152,Administrative Boundary,Survey of India (SOI),Telangana
+588,588,TS,36,Hyderabad,507,100349.43925353842,205588535.55565196,Administrative Boundary,Survey of India (SOI),Telangana
+589,589,TS,36,Karimnagar,508,263370.36403554684,1918027390.8694367,Administrative Boundary,Survey of India (SOI),Telangana
+590,590,TS,36,Khammam,509,593477.9056278088,4179344904.120868,Administrative Boundary,Survey of India (SOI),Telangana
+591,591,TS,36,Mahabubnagar,512,423040.15222999017,2729367043.3895054,Administrative Boundary,Survey of India (SOI),Telangana
+592,592,TS,36,Medak,513,362037.59807707655,2805277137.2474604,Administrative Boundary,Survey of India (SOI),Telangana
+593,593,TS,36,Nalgonda,514,462799.13796218357,7029490433.133174,Administrative Boundary,Survey of India (SOI),Telangana
+594,594,TS,36,Nizamabad,516,320483.06805174606,4101995224.454837,Administrative Boundary,Survey of India (SOI),Telangana
+595,595,TS,36,Ranga Reddy,518,524999.3801279827,4886302760.119281,Administrative Boundary,Survey of India (SOI),Telangana
+596,596,TS,36,Warangal,522,296136.02371479286,2068922222.8274562,Administrative Boundary,Survey of India (SOI),Telangana
+597,597,TS,36,Nirmal,680,451190.07804894604,3616018097.7085586,Administrative Boundary,Survey of India (SOI),Telangana
+598,598,TS,36,Jagitial,681,263511.4798277354,2789977883.989475,Administrative Boundary,Survey of India (SOI),Telangana
+599,599,TS,36,Peddapalli,682,221402.7302092907,2112741539.2575986,Administrative Boundary,Survey of India (SOI),Telangana
+600,600,TS,36,Rajanna Sircilla,683,206874.50435334162,1752531848.5001764,Administrative Boundary,Survey of India (SOI),Telangana
+601,601,TS,36,Mancherial,684,423395.23048768716,3635796954.5634804,Administrative Boundary,Survey of India (SOI),Telangana
+602,602,TS,36,Kamareddy,685,434666.7194360128,3616412404.4250245,Administrative Boundary,Survey of India (SOI),Telangana
+603,603,TS,36,Hanumakonda,686,184963.64437737834,1133756810.7924085,Administrative Boundary,Survey of India (SOI),Telangana
+604,604,TS,36,Jayashankar Bhupalapally,687,328995.69550703163,2869749465.875323,Administrative Boundary,Survey of India (SOI),Telangana
+605,605,TS,36,Mahabubabad,688,361637.74283183523,3467050531.1109233,Administrative Boundary,Survey of India (SOI),Telangana
+606,606,TS,36,Jangoan,689,280158.1559822876,2171612887.298317,Administrative Boundary,Survey of India (SOI),Telangana
+607,607,TS,36,Bhadradri Kothagudem,690,575248.406039222,6984241973.972966,Administrative Boundary,Survey of India (SOI),Telangana
+608,608,TS,36,Sangareddy,691,577314.6531653284,4206537363.1014953,Administrative Boundary,Survey of India (SOI),Telangana
+609,609,TS,36,Siddipet,692,383117.7530628456,3656482158.143353,Administrative Boundary,Survey of India (SOI),Telangana
+610,610,TS,36,Wanaparthy,693,313077.7810444658,2134690263.8144639,Administrative Boundary,Survey of India (SOI),Telangana
+611,611,TS,36,Nagarkurnool,694,515248.972793908,6072817330.886749,Administrative Boundary,Survey of India (SOI),Telangana
+612,612,TS,36,Jogulamba Gadwal,695,271466.5938424114,2516123198.7720294,Administrative Boundary,Survey of India (SOI),Telangana
+613,613,TS,36,Suryapet,696,336393.1235225527,3503321927.5786633,Administrative Boundary,Survey of India (SOI),Telangana
+614,614,TS,36,Yadadri Bhuvanagiri,697,369996.0394091424,3303444678.597668,Administrative Boundary,Survey of India (SOI),Telangana
+615,615,TS,36,Vikarabad,698,413892.471175773,3609567818.1608315,Administrative Boundary,Survey of India (SOI),Telangana
+616,616,TS,36,Kumuram Bheem Asifabad,699,451861.1007976155,4385915525.641571,Administrative Boundary,Survey of India (SOI),Telangana
+617,617,TS,36,Medchal Malkajgiri,700,196096.92343267053,1006727467.2965342,Administrative Boundary,Survey of India (SOI),Telangana
+618,618,TS,36,Mulugu,720,348865.8366783844,4218073358.4736085,Administrative Boundary,Survey of India (SOI),Telangana
+619,619,TS,36,Narayanpet,721,343482.666356584,2356489384.32641,Administrative Boundary,Survey of India (SOI),Telangana
+620,620,UK,05,Almora,045,388410.7393517917,3056821454.7587085,Administrative Boundary,Survey of India (SOI),Uttarakhand
+621,621,UK,05,Bageshwar,046,315406.7731955871,2173107225.908763,Administrative Boundary,Survey of India (SOI),Uttarakhand
+622,622,UK,05,Chamoli,047,521562.5429406418,7618336799.435648,Administrative Boundary,Survey of India (SOI),Uttarakhand
+623,623,UK,05,Champawat,048,265684.9385686121,1712845625.1553748,Administrative Boundary,Survey of India (SOI),Uttarakhand
+624,624,UK,05,Dehradun,049,502384.9318625169,3019084275.622921,Administrative Boundary,Survey of India (SOI),Uttarakhand
+625,625,UK,05,Haridwar,050,285077.3792038776,2225537228.2181015,Administrative Boundary,Survey of India (SOI),Uttarakhand
+626,626,UK,05,Nainital,051,434074.07175730326,3869865356.0671096,Administrative Boundary,Survey of India (SOI),Uttarakhand
+627,627,UK,05,Pauri Garhwal,052,413951.03447980067,5131550703.741554,Administrative Boundary,Survey of India (SOI),Uttarakhand
+628,628,UK,05,Pithoragarh,053,595740.9729416065,7034296377.933597,Administrative Boundary,Survey of India (SOI),Uttarakhand
+629,629,UK,05,Rudra Prayag,054,249531.56069643932,1936407048.5620008,Administrative Boundary,Survey of India (SOI),Uttarakhand
+630,630,UK,05,Tehri Garhwal,055,545532.324016215,3807051816.41324,Administrative Boundary,Survey of India (SOI),Uttarakhand
+631,631,UK,05,Udam Singh Nagar,056,565339.4334914824,2588015392.888069,Administrative Boundary,Survey of India (SOI),Uttarakhand
+632,632,UK,05,Uttar Kashi,057,678678.0328519477,7794567983.169275,Administrative Boundary,Survey of India (SOI),Uttarakhand
+633,633,UP,09,Agra,118,778637.9801687713,3888499703.21728,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+634,634,UP,09,Aligarh,119,496030.83020855417,3585235930.82933,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+635,635,UP,09,Prayagraj,120,607924.385339209,5252369241.723733,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+636,636,UP,09,Ambedkar Nagar,121,379076.6381386059,2236761830.196828,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+637,637,UP,09,Auraiya,122,278760.9715318184,1944774447.5073683,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+638,638,UP,09,Azamgarh,123,496815.57696739706,4057576389.130526,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+639,639,UP,09,Baghpat,124,217884.26295910616,1282051944.6388538,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+640,640,UP,09,Bahraich,125,582805.8368910302,4760726475.611123,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+641,641,UP,09,Ballia,126,437237.7124038854,2880827739.4418993,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+642,642,UP,09,Balrampur,127,459217.06783036375,3226218329.1572003,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+643,643,UP,09,Banda,128,669512.0928991326,4228426840.91771,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+644,644,UP,09,Barabanki,129,489941.38520981866,3699392938.808577,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+645,645,UP,09,Bareilly,130,509064.0548022971,3987086429.303236,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+646,646,UP,09,Basti,131,374986.4839123508,2676352492.674907,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+647,647,UP,09,Bijnor,132,380388.04069841816,4465317245.691791,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+648,648,UP,09,Budaun,133,445747.39485178475,4101291196.4850144,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+649,649,UP,09,Bulandshahr,134,435067.1983288157,3566680567.898515,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+650,650,UP,09,Chandauli,135,385948.32115291053,2448705430.199229,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+651,651,UP,09,Chitrakoot,136,538132.9014134464,3125895202.5300426,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+652,652,UP,09,Deoria,137,399193.45096601633,2441461594.384291,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+653,653,UP,09,Etah,138,493503.6500551424,2338703336.217434,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+654,654,UP,09,Etawah,139,324773.95527203754,2240072253.006664,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+655,655,UP,09,Ayodhya,140,375863.812763732,2611234789.8418813,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+656,656,UP,09,Farrukhabad,141,342277.74532941653,2104556415.4380362,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+657,657,UP,09,Fatehpur,142,436172.6507073898,4012837063.0220065,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+658,658,UP,09,Firozabad,143,388438.49530659575,2333884502.648895,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+659,659,UP,09,Gautam Buddha Nagar,144,342661.0146117149,1206710194.129155,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+660,660,UP,09,Ghaziabad,145,216103.4846846063,882190236.9332061,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+661,661,UP,09,Ghazipur,146,414147.6218879316,3251874971.6072397,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+662,662,UP,09,Gonda,147,512467.58897197415,3846576452.310838,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+663,663,UP,09,Gorakhpur,148,547353.5685382896,3206468687.196712,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+664,664,UP,09,Hamirpur,149,520494.5970375077,3774629051.6478868,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+665,665,UP,09,Hardoi,150,578478.4322968244,5776839646.410123,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+666,666,UP,09,Jalaun,151,492558.3482390947,4393810606.561041,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+667,667,UP,09,Jaunpur,152,536423.7190414129,3882284801.5702434,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+668,668,UP,09,Jhansi,153,974364.2598555194,4845420303.07871,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+669,669,UP,09,Amroha,154,333939.35653477337,2097094087.6109037,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+670,670,UP,09,Kannauj,155,309258.291765425,2015199125.4188812,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+671,671,UP,09,Kanpur Dehat,156,370327.8521730077,3041316871.8018694,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+672,672,UP,09,Kanpur Nagar,157,457234.5823244076,2876699366.2988954,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+673,673,UP,09,Kaushambi,158,295646.8553343832,1735038398.207037,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+674,674,UP,09,Kheri,159,689221.9172241206,7440812969.51315,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+675,675,UP,09,Kushi Nagar,160,460673.8514666389,2795328770.6125965,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+676,676,UP,09,Lalitpur,161,434173.03580683,4851597729.092682,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+677,677,UP,09,Lucknow,162,367776.0819540517,2438620280.6898766,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+678,678,UP,09,Hathras,163,347560.78476999846,1720341094.6530669,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+679,679,UP,09,Maharajganj,164,403042.2278152935,2840101850.3140182,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+680,680,UP,09,Mahoba,165,563767.2268083764,3118133729.3456154,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+681,681,UP,09,Mainpuri,166,374057.64348550537,2642871210.605553,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+682,682,UP,09,Mathura,167,403362.9145108982,3226126508.7177644,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+683,683,UP,09,Mau,168,294561.1969442645,1648384398.0143554,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+684,684,UP,09,Meerut,169,309073.2310868468,2482302475.742887,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+685,685,UP,09,Mirzapur,170,571509.5241225706,4247244848.852254,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+686,686,UP,09,Moradabad,171,419571.5697126359,2188021823.7611475,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+687,687,UP,09,Muzaffarnagar,172,360953.6799792339,2656206771.3083963,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+688,688,UP,09,Pilibhit,173,598972.9798899918,3634040792.4514775,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+689,689,UP,09,Pratapgarh,174,528803.5967628786,3575615216.6337724,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+690,690,UP,09,Rae Bareli,175,502830.9824439757,3781213826.8635354,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+691,691,UP,09,Rampur,176,401126.88293392956,2291259372.226032,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+692,692,UP,09,Saharanpur,177,371644.4616301071,3615159307.496096,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+693,693,UP,09,Sant Kabeer Nagar,178,394810.55345589615,1565026272.8866525,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+694,694,UP,09,Bhadohi,179,271443.3630691452,976423430.3602332,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+695,695,UP,09,Shahjahanpur,180,700011.9657327264,4175814143.576277,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+696,696,UP,09,Shravasti,181,305355.96994547785,1871617753.7297711,Administrative Boundary,Survey of India (SOI),Uttar Pradesh
+716,716,WB,19,Dinajpur Uttar,311,728161.7643713771,3002888304.229237,Administrative Boundary,Survey of India (SOI),West Bengal
+717,717,WB,19,Hooghly,312,482608.8994691853,3021768340.7034025,Administrative Boundary,Survey of India (SOI),West Bengal
+718,718,WB,19,Howrah,313,254453.71166987307,1343403679.8076673,Administrative Boundary,Survey of India (SOI),West Bengal
+719,719,WB,19,Jalpaiguri,314,442770.8230038043,3272095415.332951,Administrative Boundary,Survey of India (SOI),West Bengal
+720,720,WB,19,Kolkata,315,97689.26818961719,188349335.51345176,Administrative Boundary,Survey of India (SOI),West Bengal
+721,721,WB,19,Maldah,316,469460.50461836933,3536267377.084356,Administrative Boundary,Survey of India (SOI),West Bengal
+722,722,WB,19,Medinipur East,317,561674.7802175742,3927805192.2224464,Administrative Boundary,Survey of India (SOI),West Bengal
+723,723,WB,19,Medinipur West,318,556588.6532563952,6032351583.245164,Administrative Boundary,Survey of India (SOI),West Bengal
+724,724,WB,19,Murshidabad,319,594275.7754292873,5140358426.542107,Administrative Boundary,Survey of India (SOI),West Bengal
+725,725,WB,19,Nadia,320,679364.9261686332,3762573468.2439404,Administrative Boundary,Survey of India (SOI),West Bengal
+726,726,WB,19,Purulia,321,582669.7292350237,6006053816.715049,Administrative Boundary,Survey of India (SOI),West Bengal
+727,727,WB,19,Alipurduar,664,335210.99250751775,2696216641.1781244,Administrative Boundary,Survey of India (SOI),West Bengal
+728,728,WB,19,Kalimpong,702,171973.2709144817,1053967705.0281883,Administrative Boundary,Survey of India (SOI),West Bengal
+729,729,WB,19,Jhargram,703,484138.57721813716,2977826720.1208706,Administrative Boundary,Survey of India (SOI),West Bengal
+730,730,WB,19,Paschim Bardhaman,704,253562.39286996715,1544513602.7990255,Administrative Boundary,Survey of India (SOI),West Bengal
+731,731,JK,01,Mirpur,999,435307.39060881134,3559971080.1472845,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+732,732,JK,01,Muzaffarabad,999,593941.9214730354,4782238670.801928,Administrative Boundary,Survey of India (SOI),Jammu & Kashmir
+733,733,MH,27,Mumbai,482,57256.11534411877,72447273.10721344,Administrative Boundary,Survey of India (SOI),Maharashtra
