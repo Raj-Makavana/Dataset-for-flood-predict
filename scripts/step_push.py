@@ -13,69 +13,16 @@ subprocess.run('git commit -m "Add Seventh Batch processing scripts and report"'
 subprocess.run("git push origin main", shell=True)
 
 # Step 2: Push data/cleaned in chunks
-print("\nStep 2: Pushing data/cleaned/ in chunks...")
-cleaned_files = sorted(glob.glob("data/cleaned/*.*"))
-chunk = []
-chunk_size = 0
-chunk_idx = 1
-
-for f in cleaned_files:
-    sz = os.path.getsize(f)
-    chunk.append(f)
-    chunk_size += sz
-    if chunk_size >= 40 * 1024 * 1024 or len(chunk) >= 50:
-        print(f"\nCommitting cleaned batch {chunk_idx} ({chunk_size/(1024*1024):.2f} MB, {len(chunk)} files)...")
-        # Add files in small sub-batches to prevent Windows command line length overflow
-        for i in range(0, len(chunk), 20):
-            sub_c = chunk[i:i+20]
-            cmd_add = "git add " + " ".join([f'"{c}"' for c in sub_c])
-            subprocess.run(cmd_add, shell=True)
-        subprocess.run(f'git commit -m "Add Seventh Batch cleaned datasets part {chunk_idx}"', shell=True)
-        subprocess.run("git push origin main", shell=True)
-        chunk = []
-        chunk_size = 0
-        chunk_idx += 1
-
-if chunk:
-    print(f"\nCommitting final cleaned batch {chunk_idx} ({chunk_size/(1024*1024):.2f} MB, {len(chunk)} files)...")
-    for i in range(0, len(chunk), 20):
-        sub_c = chunk[i:i+20]
-        cmd_add = "git add " + " ".join([f'"{c}"' for c in sub_c])
-        subprocess.run(cmd_add, shell=True)
-    subprocess.run(f'git commit -m "Add Seventh Batch cleaned datasets part {chunk_idx}"', shell=True)
-    subprocess.run("git push origin main", shell=True)
+print("\nStep 2: Pushing data/cleaned/...")
+subprocess.run("git add data/cleaned/", shell=True)
+subprocess.run('git commit -m "Add Seventh Batch cleaned datasets"', shell=True)
+subprocess.run("git push origin main", shell=True)
 
 # Step 3: Push data/raw in chunks
-print("\nStep 3: Pushing data/raw/ in chunks...")
-raw_files = sorted(glob.glob("data/raw/*.*"))
-chunk = []
-chunk_size = 0
-chunk_idx = 1
-
-for f in raw_files:
-    sz = os.path.getsize(f)
-    chunk.append(f)
-    chunk_size += sz
-    if chunk_size >= 40 * 1024 * 1024 or len(chunk) >= 50:
-        print(f"\nCommitting raw batch {chunk_idx} ({chunk_size/(1024*1024):.2f} MB, {len(chunk)} files)...")
-        for i in range(0, len(chunk), 20):
-            sub_c = chunk[i:i+20]
-            cmd_add = "git add " + " ".join([f'"{c}"' for c in sub_c])
-            subprocess.run(cmd_add, shell=True)
-        subprocess.run(f'git commit -m "Add Seventh Batch raw datasets part {chunk_idx}"', shell=True)
-        subprocess.run("git push origin main", shell=True)
-        chunk = []
-        chunk_size = 0
-        chunk_idx += 1
-
-if chunk:
-    print(f"\nCommitting final raw batch {chunk_idx} ({chunk_size/(1024*1024):.2f} MB, {len(chunk)} files)...")
-    for i in range(0, len(chunk), 20):
-        sub_c = chunk[i:i+20]
-        cmd_add = "git add " + " ".join([f'"{c}"' for c in sub_c])
-        subprocess.run(cmd_add, shell=True)
-    subprocess.run(f'git commit -m "Add Seventh Batch raw datasets part {chunk_idx}"', shell=True)
-    subprocess.run("git push origin main", shell=True)
+print("\nStep 3: Pushing data/raw/...")
+subprocess.run("git add data/raw/", shell=True)
+subprocess.run('git commit -m "Add Seventh Batch raw datasets"', shell=True)
+subprocess.run("git push origin main", shell=True)
 
 print("\n" + "=" * 90)
 print("ALL SEVENTH BATCH DATASETS SUCCESSFULLY PUSHED TO GITHUB REPOSITORY!")
