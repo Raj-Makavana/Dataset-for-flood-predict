@@ -1,6 +1,0 @@
-SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Biochemical Oxygen Demand (mg/L),Chemical Oxygen Demand (mg/L),Fecal Coliform (MPN/100mL),Total Coliform (MPN/100mL)
-1,Chotabekra,CWC,14,Manipur,255,IMPHAL EAST,Jiribam Sub-Division,-,-,Barak,Barak and Others,Barak,Barak,Barak,Barak,24.68027778,93.1025,2019-01-09 08:30:00,,,,
-2,Chotabekra,CWC,14,Manipur,255,IMPHAL EAST,Jiribam Sub-Division,-,-,Barak,Barak and Others,Barak,Barak,Barak,Barak,24.68027778,93.1025,2019-03-10 08:30:00,,,,
-3,Chotabekra,CWC,14,Manipur,255,IMPHAL EAST,Jiribam Sub-Division,-,-,Barak,Barak and Others,Barak,Barak,Barak,Barak,24.68027778,93.1025,2019-01-11 08:30:00,,,,
-4,Chotabekra,CWC,14,Manipur,255,IMPHAL EAST,Jiribam Sub-Division,-,-,Barak,Barak and Others,Barak,Barak,Barak,Barak,24.68027778,93.1025,2019-02-12 08:30:00,,,,
-5,Chotabekra,CWC,14,Manipur,255,IMPHAL EAST,Jiribam Sub-Division,-,-,Barak,Barak and Others,Barak,Barak,Barak,Barak,24.68027778,93.1025,2020-01-10 09:06:00,0.2,,,
