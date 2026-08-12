@@ -1,0 +1,640 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Biochemical Oxygen Demand (mg/L),Chemical Oxygen Demand (mg/L),Fecal Coliform (MPN/100mL),Total Coliform (MPN/100mL)
+1,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-01-2021 08:00,0.6,"",270,2800
+2,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-02-2021 08:00,2.4,"",330,2200
+3,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-03-2021 09:00,1.9,"",270,340
+4,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,05-04-2021 08:00,4.4,"",1300,1700
+5,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-06-2021 09:00,"","",11000,1400
+6,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-07-2021 08:00,2.2,"",220,500
+7,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,12-07-2021 08:30,0.4,"",270,390
+8,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,22-07-2021 08:30,0.5,"",93,170
+9,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,02-08-2021 08:29,1,"",140,170
+10,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,11-08-2021 08:31,0.7,"",140,210
+11,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,23-08-2021 08:30,0.9,"",140,210
+12,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-09-2021 08:00,1.5,"",270,790
+13,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,13-09-2021 08:30,1.1,"",270,1100
+14,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-09-2021 08:00,1,"",790,1400
+15,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-10-2021 10:50,1.9,"",220,330
+16,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,11-10-2021 08:00,1.2,"",1400,1100
+17,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-10-2021 09:00,2.4,"",790,1700
+18,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-11-2021 08:30,1.3,"",1700,3500
+19,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,11-11-2021 08:00,4.4,"",470,1400
+20,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,22-11-2021 09:00,0.9,"",490,790
+21,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-12-2021 09:00,0.7,"","",""
+22,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,10-12-2021 09:00,0,"",1400,2200
+23,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-12-2021 08:00,1,"",1700,2800
+24,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-07-2022 09:00,0.8,"","",""
+25,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,11-07-2022 08:00,0.6,"","",""
+26,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-07-2022 08:30,0.6,"","",""
+27,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,02-08-2022 10:00,0.89,"","",""
+28,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,11-08-2022 09:30,1,"","",""
+29,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,22-08-2022 08:00,2.67,"","",""
+30,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-09-2022 07:00,0.6,"","",""
+31,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,12-09-2022 07:30,2.9,"","",""
+32,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-09-2022 07:30,1.3,"","",""
+33,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,03-10-2022 07:30,0.6,"","",""
+34,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,11-10-2022 08:00,0.6,"","",""
+35,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-10-2022 07:00,0.6,"","",""
+36,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-11-2022 07:15,1.5,"","",""
+37,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,10-11-2022 08:00,1,"","",""
+38,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-11-2022 08:00,0.2,"","",""
+39,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,01-12-2022 08:00,1.6,"","",""
+40,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,12-12-2022 08:00,1.3,"","",""
+41,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-01-2021 08:00,1.8,"","",3000
+42,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-02-2021 08:15,2.8,"",140,1700
+43,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-03-2021 08:10,3.8,"",40,80
+44,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,06-04-2021 08:30,4.2,"",130,500
+45,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-05-2021 08:00,5.8,"",1100,1300
+46,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-06-2021 08:00,4.2,"",300,800
+47,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-06-2021 08:00,4.8,"",170,300
+48,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-06-2021 08:00,2,"",20,1300
+49,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-07-2021 08:00,3.4,"",20,2400
+50,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-07-2021 08:00,3.6,"",40,330
+51,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,23-07-2021 08:00,3.6,"",230,2800
+52,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-08-2021 08:30,2.4,"",70,3000
+53,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-08-2021 08:00,20,"",330,2800
+54,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,23-08-2021 08:00,1.4,"",80,1400
+55,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-09-2021 08:00,3.8,"",2200,2800
+56,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-09-2021 08:00,1,"",340,3000
+57,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-09-2021 08:00,3,"",300,300
+58,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,04-10-2021 08:00,1.6,"",340,16000
+59,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-10-2021 08:00,3.6,"",170,3500
+60,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-10-2021 08:00,1.4,"",2400,3000
+61,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-11-2021 08:00,1.6,"",140,330
+62,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-11-2021 08:00,2,"",270,2400
+63,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-11-2021 08:00,1.8,"",110,500
+64,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-12-2021 08:00,3.4,"",300,700
+65,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-12-2021 08:00,2,"",80,130
+66,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-12-2021 08:00,2.4,"",110,210
+67,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,03-01-2022 08:00,1.6,"",170,300
+68,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-01-2022 08:00,2.6,"",260,900
+69,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-01-2022 08:00,3.2,"",170,500
+70,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-02-2022 08:00,3.8,"",800,2400
+71,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,10-02-2022 08:00,1.6,"",900,1700
+72,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-02-2022 08:00,1.6,"",110,170
+73,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-03-2022 08:00,3,"",500,800
+74,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,14-03-2022 08:00,2.2,"",220,500
+75,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-03-2022 08:00,1.8,"",170,230
+76,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-04-2022 08:00,2,"",500,1700
+77,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-04-2022 08:00,2.2,"",170,800
+78,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-04-2022 08:00,2.6,"",130,230
+79,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-05-2022 08:00,2,"",1300,5000
+80,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-05-2022 08:00,2,"",1300,16000
+81,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,23-05-2022 08:00,2,"",1100,5000
+82,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-06-2022 08:00,1,"",260,1100
+83,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-06-2022 08:00,1,"",5000,16000
+84,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-06-2022 08:00,1,"",170,9000
+85,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-07-2022 08:00,1.6,"",1100,3000
+86,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-07-2022 08:00,2.4,"",2800,9000
+87,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-07-2022 08:00,4.4,"",500,800
+88,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-08-2022 08:00,1,"",3000,5000
+89,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-08-2022 08:00,1.2,"",1300,2400
+90,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-09-2022 08:00,2.6,"",2200,2800
+91,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-09-2022 08:00,1.8,"",1700,3000
+92,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,03-10-2022 08:00,0.8,"",1300,2400
+93,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-10-2022 08:00,1.6,"",1700,5000
+94,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-10-2022 08:00,1.8,"",2200,9000
+95,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-11-2022 08:00,0.8,"",1400,9000
+96,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,14-11-2022 08:00,2,"",1400,9000
+97,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-11-2022 08:00,1.6,"",340,1300
+98,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-12-2022 08:00,2.2,"",140,1100
+99,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-12-2022 08:00,2.8,"",1400,5000
+100,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-12-2022 08:00,0.8,"",270,2400
+101,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-01-2023 08:00,1.6,"",330,1700
+102,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-01-2023 08:00,1.4,"",1700,5000
+103,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,23-01-2023 08:00,1.6,"",1300,2400
+104,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-02-2023 08:00,3.2,"",330,340
+105,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-02-2023 08:00,1.2,"",1300,5000
+106,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-02-2023 08:00,2,"",3500,9000
+107,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-03-2023 08:00,2.2,"",800,1300
+108,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-03-2023 08:00,1.6,"",900,1700
+109,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-03-2023 08:00,1.8,"",270,1300
+110,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,03-04-2023 08:00,1,"",1300,2400
+111,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-04-2023 08:00,1.8,"",270,2400
+112,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-04-2023 08:00,2,"",3000,9000
+113,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-05-2023 08:00,1.2,"",270,300
+114,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-05-2023 08:00,1.4,"",300,800
+115,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-05-2023 08:00,3,"",220,500
+116,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-06-2023 08:00,1,"",1700,3000
+117,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-06-2023 08:00,1.6,"",3000,5000
+118,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-06-2023 08:00,1.4,"",220,500
+119,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,03-07-2023 08:00,1.8,"",2200,5000
+120,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-07-2023 08:00,2.2,"",3500,16000
+121,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-07-2023 08:00,2.6,"",1400,2800
+122,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-08-2023 08:00,1.4,"",2400,3000
+123,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-08-2023 08:00,2,"",500,800
+124,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-08-2023 08:00,1.6,"",270,800
+125,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-09-2023 08:00,1,"",340,1300
+126,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-09-2023 08:00,1.6,"",170,260
+127,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-09-2023 08:00,1.6,"",1700,9000
+128,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-10-2023 08:00,2.4,"",700,1700
+129,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-10-2023 08:00,1,"",230,800
+130,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,23-10-2023 08:00,1.8,"",800,1300
+131,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-11-2023 08:00,2,"",1300,2400
+132,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-11-2023 08:00,1.8,"",500,1300
+133,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-11-2023 08:00,1.8,"",1400,5000
+134,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-12-2023 08:00,1.2,"",340,1300
+135,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-12-2023 08:00,1,"",1300,2400
+136,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-12-2023 08:00,1.6,"",1700,5000
+137,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-01-2024 08:00,2.2,"",340,1300
+138,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,15-01-2024 08:00,2.8,"",20,230
+139,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-01-2024 08:00,2.4,"",270,1100
+140,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-02-2024 08:00,2,"",2200,2800
+141,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-02-2024 08:00,1,"",340,1300
+142,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-02-2024 08:00,2.6,"",500,2400
+143,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-03-2024 08:00,1.4,"",1700,2800
+144,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-03-2024 08:00,1.2,"",1400,5000
+145,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,20-03-2024 08:00,3.2,"",340,3500
+146,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-04-2024 08:00,2.6,"",230,2400
+147,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,15-04-2024 08:00,1.6,"",250,1300
+148,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-04-2024 08:00,2.4,"",340,5000
+149,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-05-2024 08:00,2.2,"",140,800
+150,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-05-2024 08:00,3.8,"",340,1300
+151,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-05-2024 08:00,2.6,"",130,500
+152,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-06-2024 08:00,2,"",1700,2200
+153,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-06-2024 08:00,3,"",2400,16000
+154,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-07-2024 08:30,1.4,"",2400,9000
+155,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,15-07-2024 08:30,1.6,"",1300,2400
+156,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,23-07-2024 08:30,1.2,"",800,1300
+157,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-08-2024 08:30,3.2,"",1700,2400
+158,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,12-08-2024 08:30,2.4,"",2400,9000
+159,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-08-2024 08:30,1.8,"",3000,16000
+160,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-09-2024 08:20,3.4,"",700,3000
+161,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,03-10-2024 08:30,1,"",3000,16000
+162,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,14-10-2024 08:30,1,"",1700,5100
+163,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,22-10-2024 08:30,1,"",2800,9000
+164,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,04-11-2024 08:30,2.2,"",3500,16000
+165,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-11-2024 08:30,1.4,"",3500,16000
+166,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-11-2024 08:30,2,"",170,500
+167,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,02-12-2024 08:30,1.8,"",110,2400
+168,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-12-2024 08:30,1.2,"",2400,3000
+169,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,23-12-2024 08:30,1.6,"",220,330
+170,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-01-2025 08:30,1.6,"",9000,16000
+171,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,13-01-2025 08:30,2.4,"",110,140
+172,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-01-2025 08:30,2.4,"",230,500
+173,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,03-02-2025 08:00,1.4,"",500,2800
+174,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-02-2025 08:00,2.2,"",1100,2800
+175,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-02-2025 08:00,2.2,"",500,900
+176,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,03-03-2025 08:00,1.2,"",230,2400
+177,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,11-03-2025 08:00,1,"",2400,5000
+178,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-03-2025 08:00,1.8,"",220,800
+179,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,01-04-2025 08:00,3,"",2400,3000
+180,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,15-04-2025 08:00,1.8,"",800,2400
+181,Bhatpalli,CWC,36,Telangana,699,KUMURAM BHEEM,-,-,-,Godavari,Godavari,Pranhita,Peddavagu,-,Peddavagu,19.32972222,79.50416667,21-04-2025 08:00,2,"","",""
+182,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-01-2021 08:45,1.2,"",1400,16000
+183,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-02-2021 09:00,2.7,"",270,1100
+184,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-03-2021 08:00,0.5,"",500,1100
+185,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,05-04-2021 12:07,5.3,"",2800,3500
+186,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,03-05-2021 08:45,3.7,"",1100,1400
+187,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-07-2021 08:30,5.1,"",1100,1700
+188,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,12-07-2021 08:30,2.1,"",170,330
+189,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,22-07-2021 08:30,1.5,"",240,390
+190,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,02-08-2021 08:30,5.7,"",940,2800
+191,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,11-08-2021 08:30,3.5,"",140,220
+192,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,23-08-2021 08:45,1.8,"",1100,3500
+193,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-09-2021 08:30,1.6,"",390,1400
+194,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,13-09-2021 08:30,3.2,"",140,170
+195,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-09-2021 08:30,0.6,"",490,490
+196,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-10-2021 09:30,2.7,"",490,940
+197,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,11-10-2021 09:15,4.2,"",330,390
+198,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-10-2021 09:30,3.6,"",490,490
+199,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-11-2021 09:30,2.2,"",1100,2200
+200,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,11-11-2021 09:10,4.3,"",790,1400
+201,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,22-11-2021 09:40,1.1,"",490,790
+202,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-12-2021 08:25,1.9,"",700,790
+203,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,10-12-2021 08:25,0.5,"",1400,2200
+204,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-12-2021 08:30,0.7,"",490,790
+205,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-07-2022 09:40,2,"","",""
+206,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,11-07-2022 08:45,3.3,"","",""
+207,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-07-2022 09:40,3.2,"","",""
+208,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-08-2022 09:30,1,"","",""
+209,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,11-08-2022 09:40,0.4,"","",""
+210,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,22-08-2022 08:40,1.5,"","",""
+211,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-09-2022 09:10,3.8,"","",""
+212,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,12-09-2022 09:35,2.2,"","",""
+213,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-09-2022 09:20,2.7,"","",""
+214,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,03-10-2022 09:40,2,"","",""
+215,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,11-10-2022 09:35,1.1,"","",""
+216,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-10-2022 09:35,0.5,"","",""
+217,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,10-11-2022 09:30,1.4,"","",""
+218,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-11-2022 09:10,2.5,"","",""
+219,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,01-12-2022 08:40,2.6,"","",""
+220,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,12-12-2022 08:50,1.4,"","",""
+221,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,21-12-2022 08:20,0.9,"","",""
+222,Dameracherla,CWC,36,Telangana,514,NALGONDA,DAMARCHERLA,-,-,Krishna,Krishna,Musi,-,-,Musi,16.73916667,79.66972222,11-01-2023 08:20,0.2,"","",""
+223,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-01-2021 08:05,1.7,"",260,330
+224,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-02-2021 08:08,1.7,"",330,3500
+225,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-03-2021 08:15,2.5,"",170,1100
+226,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,06-04-2021 08:05,2.7,"",330,1100
+227,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,03-05-2021 08:13,5.9,"",2200,2800
+228,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-06-2021 08:30,2.4,"",140,340
+229,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-06-2021 08:00,0.4,"",210,700
+230,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-06-2021 08:30,"","",140,270
+231,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-07-2021 08:30,9.9,"",2800,3000
+232,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-07-2021 08:30,2.3,"",1400,2200
+233,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,22-07-2021 08:30,1.5,"",140,140
+234,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,02-08-2021 08:30,2.4,"",270,800
+235,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-08-2021 08:30,2.9,"",170,390
+236,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,23-08-2021 08:30,1.5,"",170,390
+237,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-09-2021 08:30,2.3,"",240,390
+238,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,13-09-2021 08:30,0.3,"",140,240
+239,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-09-2021 08:30,1,"",330,390
+240,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-10-2021 08:00,0.8,"",490,940
+241,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-10-2021 08:30,1.1,"",1100,1400
+242,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-10-2021 08:30,3,"",790,1100
+243,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-11-2021 08:30,0.4,"",1100,1700
+244,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-11-2021 08:30,4.8,"",1700,2800
+245,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,22-11-2021 08:00,0.8,"",790,1400
+246,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-12-2021 08:30,0.7,"","",""
+247,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,10-12-2021 08:30,1,"",1400,1400
+248,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-12-2021 08:00,1.6,"",790,2200
+249,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,03-01-2022 09:00,1.4,"",2200,5400
+250,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-01-2022 08:00,0.9,"","",""
+251,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-07-2022 08:30,1.3,"","",""
+252,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-07-2022 08:30,1.3,"","",""
+253,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-08-2022 08:00,1,"","",""
+254,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-08-2022 08:00,1.78,"","",""
+255,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,22-08-2022 09:00,2.5,"","",""
+256,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-09-2022 09:00,2,"","",""
+257,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,12-09-2022 09:00,2.1,"","",""
+258,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-09-2022 08:00,1.8,"","",""
+259,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,03-10-2022 08:00,1.6,"","",""
+260,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,11-10-2022 08:30,1.1,"","",""
+261,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-10-2022 08:00,1.3,"","",""
+262,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-11-2022 08:00,1.3,"","",""
+263,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,10-11-2022 08:00,1.3,"","",""
+264,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-11-2022 08:30,1.9,"","",""
+265,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,01-12-2022 08:00,1.5,"","",""
+266,Gandlapet,CWC,36,Telangana,516,NIZAMABAD,MORTHAD,-,-,Godavari,Godavari,Peddavagu,-,-,Peddavagu,18.82111111,78.43805556,21-12-2022 08:00,2.1,"","",""
+267,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-01-2021 08:00,1.9,"",3000,16000
+268,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-02-2021 08:00,1.7,"",140,340
+269,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-03-2021 08:00,8,"",1400,5000
+270,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,05-04-2021 08:30,2.4,"",270,330
+271,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,03-05-2021 08:00,2.9,"",270,330
+272,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-07-2021 08:30,1.7,"",140,140
+273,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,12-07-2021 08:30,1.5,"",200,390
+274,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,22-07-2021 08:30,1.5,"",140,200
+275,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,02-08-2021 08:31,3.2,"",790,1400
+276,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,11-08-2021 08:30,1.9,"",1100,3500
+277,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,23-08-2021 08:30,1.3,"",170,320
+278,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-09-2021 08:30,1.5,"",170,240
+279,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,13-09-2021 08:00,1.3,"",93,140
+280,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-09-2021 08:00,2.6,"",700,1100
+281,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-10-2021 08:30,2.2,"",470,1400
+282,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,11-10-2021 09:30,1.8,"",330,1100
+283,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-10-2021 08:30,"","",390,2200
+284,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-11-2021 08:30,1.1,"",490,1100
+285,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,11-11-2021 08:30,4.5,"",240,390
+286,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,22-11-2021 09:00,1.8,"",1400,1700
+287,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-12-2021 08:45,"","",790,1400
+288,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,10-12-2021 09:30,0.3,"",1100,1700
+289,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-12-2021 09:00,0.1,"",490,940
+290,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-06-2022 08:45,0.9,"","",""
+291,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-07-2022 08:00,5,"","",""
+292,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,11-07-2022 08:00,0.3,"","",""
+293,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-07-2022 12:21,0.3,"","",""
+294,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-08-2022 08:45,2.3,"","",""
+295,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,11-08-2022 08:45,0.4,"","",""
+296,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,22-08-2022 08:45,0.6,"","",""
+297,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-09-2022 08:45,2,"","",""
+298,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,12-09-2022 09:00,0.9,"","",""
+299,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-09-2022 08:45,1.6,"","",""
+300,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,03-10-2022 09:00,1.6,"","",""
+301,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,11-10-2022 09:00,0.7,"","",""
+302,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-10-2022 08:45,0.7,"","",""
+303,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,10-11-2022 08:45,0.9,"","",""
+304,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-11-2022 08:45,0.6,"","",""
+305,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,01-12-2022 08:45,1.6,"","",""
+306,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,12-12-2022 08:45,1,"","",""
+307,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,21-12-2022 08:45,0.8,"","",""
+308,Halia,CWC,36,Telangana,514,NALGONDA,NALGONDA,-,-,Krishna,Krishna,Halia,-,-,Halia,16.78816111,79.33959167,11-01-2023 08:45,0.9,"","",""
+309,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-01-2021 12:16,1.7,"",5000,16000
+310,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-02-2021 08:45,2.9,"",270,1700
+311,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-03-2021 08:15,2,"",220,300
+312,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,05-04-2021 08:10,9.9,"",170,330
+313,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,03-05-2021 08:40,7.9,"",5000,9000
+314,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-07-2021 08:30,2.1,"",110,270
+315,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,12-07-2021 08:30,0.8,"",210,330
+316,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,22-07-2021 08:30,1.7,"",270,1400
+317,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,02-08-2021 08:30,1.5,"",140,240
+318,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,11-08-2021 08:30,1.7,"",170,270
+319,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,23-08-2021 08:55,1.6,"",140,170
+320,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-09-2021 08:30,2.4,"",170,270
+321,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,13-09-2021 08:29,1.1,"",140,170
+322,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-09-2021 08:35,1,"",390,470
+323,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-10-2021 08:45,2.3,"",330,490
+324,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,11-10-2021 08:35,1.6,"",140,200
+325,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-10-2021 08:40,2.8,"",940,1700
+326,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-11-2021 09:10,3,"",1400,1700
+327,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,11-11-2021 08:45,4.9,"",2200,5400
+328,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,22-11-2021 08:40,1.2,"",270,330
+329,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-12-2021 08:40,1.2,"",1400,1700
+330,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,10-12-2021 08:55,0.6,"",490,940
+331,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-12-2021 08:00,1.9,"",1700,2800
+332,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-07-2022 08:30,2,"","",""
+333,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,11-07-2022 08:00,3.1,"","",""
+334,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-07-2022 08:40,3.4,"","",""
+335,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-08-2022 08:45,1.5,"","",""
+336,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,11-08-2022 08:50,0,"","",""
+337,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,22-08-2022 08:30,3.9,"","",""
+338,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-09-2022 08:40,3.2,"","",""
+339,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,12-09-2022 09:40,3.6,"","",""
+340,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-09-2022 09:30,2.7,"","",""
+341,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,03-10-2022 08:45,1.8,"","",""
+342,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,11-10-2022 08:45,0.8,"","",""
+343,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-10-2022 08:45,1.1,"","",""
+344,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,10-11-2022 08:48,0.7,"","",""
+345,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-11-2022 08:50,1.1,"","",""
+346,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-12-2022 08:50,1.1,"","",""
+347,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,12-12-2022 08:45,1.2,"","",""
+348,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,21-12-2022 08:40,1,"","",""
+349,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,11-01-2023 08:48,0.9,"","",""
+350,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-01-2021 08:10,1.3,"",340,2800
+351,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-02-2021 08:06,0.7,"",170,2800
+352,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-03-2021 08:31,0.3,"",140,170
+353,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,06-04-2021 08:05,2.6,"",700,1100
+354,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,03-05-2021 08:10,8.9,"",35500,16000
+355,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-06-2021 08:30,0.3,"",130,260
+356,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-06-2021 08:30,8.9,"",1400,5000
+357,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-06-2021 08:30,"","",2800,9000
+358,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-07-2021 08:30,0.9,"",140,170
+359,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,12-07-2021 08:30,1.9,"",390,2200
+360,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,22-07-2021 08:30,2,"",140,320
+361,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,02-08-2021 08:30,0.8,"",93,170
+362,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-08-2021 08:31,1,"",170,240
+363,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,23-08-2021 08:30,0.6,"",170,240
+364,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-09-2021 08:30,1.2,"",390,1400
+365,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,13-09-2021 08:30,1.2,"",1100,1700
+366,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-09-2021 08:00,1.4,"",270,790
+367,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-10-2021 08:30,2.7,"",1400,1700
+368,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-10-2021 08:30,1.2,"",790,1100
+369,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-10-2021 08:30,0.2,"",470,1400
+370,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-11-2021 09:00,0.1,"",330,470
+371,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-11-2021 08:30,5.2,"",1400,2200
+372,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,22-11-2021 08:30,1.9,"",790,1100
+373,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-12-2021 08:30,2,"","",""
+374,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,10-12-2021 08:00,2.1,"",940,1400
+375,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-12-2021 08:00,2.3,"",490,790
+376,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,03-01-2022 08:30,1.9,"",790,1400
+377,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-01-2022 08:00,1.8,"","",""
+378,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-01-2022 08:30,2.1,"","",""
+379,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-07-2022 08:00,1.6,"","",""
+380,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-07-2022 08:30,0.4,"","",""
+381,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-07-2022 08:30,0.4,"","",""
+382,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-08-2022 08:00,0.7,"","",""
+383,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-08-2022 08:00,0.99,"","",""
+384,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,22-08-2022 08:30,2.5,"","",""
+385,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-09-2022 08:00,1.1,"","",""
+386,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,12-09-2022 08:30,2.1,"","",""
+387,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-09-2022 08:00,0.6,"","",""
+388,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,03-10-2022 08:30,2.4,"","",""
+389,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,11-10-2022 08:30,0.9,"","",""
+390,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-10-2022 09:00,1.9,"","",""
+391,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-11-2022 09:00,2.7,"","",""
+392,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,10-11-2022 08:00,1.5,"","",""
+393,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-11-2022 08:30,3.1,"","",""
+394,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,01-12-2022 08:00,2.1,"","",""
+395,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,12-12-2022 08:00,3.7,"","",""
+396,Mancherial,CWC,36,Telangana,501,ADILABAD,MANCHERIAL,-,-,Godavari,Godavari,-,-,-,Godavari,18.85027778,79.44444444,21-12-2022 08:30,2.7,"","",""
+397,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-01-2021 08:01,1.2,"",330,2800
+398,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-02-2021 08:12,0.9,"",170,2800
+399,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,05-04-2021 08:14,0.2,"",110,140
+400,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,03-05-2021 08:16,2.1,"",330,1400
+401,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-06-2021 08:30,0.6,"",170,170
+402,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-06-2021 08:00,0.7,"",260,330
+403,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-06-2021 08:00,"","",330,270
+404,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-07-2021 08:30,1.4,"","",""
+405,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,12-07-2021 08:30,1.7,"",490,700
+406,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,22-07-2021 08:30,1,"",140,390
+407,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,02-08-2021 08:31,1.5,"",200,270
+408,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-08-2021 08:30,0.8,"",940,1400
+409,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,23-08-2021 08:30,2.6,"",940,1400
+410,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-09-2021 08:30,1.8,"",270,1700
+411,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,13-09-2021 08:30,1.4,"",330,1400
+412,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-09-2021 08:30,1.2,"",790,790
+413,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-10-2021 08:00,1.4,"",460,490
+414,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-10-2021 08:30,1.9,"",320,940
+415,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-10-2021 08:30,2.3,"",1400,1700
+416,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-11-2021 08:30,1.2,"",790,790
+417,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-11-2021 08:30,5.3,"",790,1100
+418,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,22-11-2021 08:00,0.9,"",220,490
+419,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-12-2021 08:30,0.9,"","",""
+420,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,10-12-2021 08:30,1.2,"",270,790
+421,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-12-2021 08:00,1,"",940,1700
+422,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,03-01-2022 08:00,1.3,"",340,1700
+423,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-01-2022 08:00,1.4,"","",""
+424,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-07-2022 08:00,1.2,"","",""
+425,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-07-2022 08:30,1.8,"","",""
+426,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-07-2022 08:00,1.8,"","",""
+427,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-08-2022 08:00,0.9,"","",""
+428,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-08-2022 08:00,2.87,"","",""
+429,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,22-08-2022 08:00,1,"","",""
+430,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-09-2022 09:00,2.1,"","",""
+431,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,12-09-2022 08:00,1.3,"","",""
+432,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-09-2022 08:00,1.7,"","",""
+433,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,03-10-2022 08:00,1.6,"","",""
+434,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,11-10-2022 08:00,1.4,"","",""
+435,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-10-2022 08:30,0.9,"","",""
+436,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-11-2022 08:00,0.5,"","",""
+437,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,10-11-2022 08:00,0.2,"","",""
+438,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-11-2022 08:00,1.7,"","",""
+439,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,01-12-2022 08:00,1,"","",""
+440,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,12-12-2022 08:00,1.4,"","",""
+441,Perur,CWC,36,Telangana,720,MULUGU,MULUGU,-,-,Godavari,Godavari,-,-,-,Godavari,18.53666667,80.37666667,21-12-2022 08:30,1.1,"","",""
+442,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-01-2021 08:20,1.2,"",260,1400
+443,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-02-2021 09:30,3.2,"",330,2200
+444,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-03-2021 08:06,9,"",1400,5000
+445,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,05-04-2021 08:25,1.1,"",170,220
+446,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,03-05-2021 08:06,2,"",220,340
+447,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-06-2021 08:30,1.6,"",300,900
+448,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-06-2021 08:30,3.6,"",340,1400
+449,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-06-2021 08:00,"","",110,140
+450,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-07-2021 08:30,1.3,"",140,270
+451,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-07-2021 08:30,1.9,"",200,320
+452,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,22-07-2021 08:30,1.6,"",240,390
+453,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,02-08-2021 08:30,1.8,"",170,240
+454,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-08-2021 08:30,1.3,"",490,790
+455,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,23-08-2021 08:30,3.5,"",490,790
+456,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-09-2021 08:30,2.1,"",170,340
+457,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,13-09-2021 08:00,2.6,"",1400,1700
+458,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-09-2021 08:00,2.2,"",1400,1700
+459,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-10-2021 08:30,1.9,"",1400,2800
+460,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-10-2021 09:00,2,"",790,1400
+461,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-10-2021 08:30,2.7,"",2200,2800
+462,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-11-2021 08:30,1.9,"",790,1700
+463,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-11-2021 08:30,5.8,"",1100,1400
+464,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,22-11-2021 08:30,0.6,"",490,2200
+465,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-12-2021 08:30,0.7,"","",""
+466,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,10-12-2021 08:00,1.1,"",1100,1400
+467,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-12-2021 08:00,0.5,"",1400,2200
+468,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,03-01-2022 08:30,0.4,"",2200,5400
+469,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-01-2022 08:30,0.7,"","",""
+470,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-01-2022 08:30,0,"","",""
+471,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-07-2022 08:30,1.6,"","",""
+472,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-07-2022 08:30,1,"","",""
+473,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-08-2022 08:00,2,"","",""
+474,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-08-2022 08:00,3.07,"","",""
+475,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,22-08-2022 08:00,0.8,"","",""
+476,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-09-2022 08:00,1.6,"","",""
+477,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,12-09-2022 09:00,1.7,"","",""
+478,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-09-2022 08:00,1.1,"","",""
+479,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,03-10-2022 08:00,0.7,"","",""
+480,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,11-10-2022 08:30,2,"","",""
+481,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-10-2022 08:30,0.6,"","",""
+482,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-11-2022 09:00,3.3,"","",""
+483,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-11-2022 08:00,1.5,"","",""
+484,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,01-12-2022 08:00,0.9,"","",""
+485,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,12-12-2022 08:00,0.6,"","",""
+486,Saloora,CWC,36,Telangana,516,NIZAMABAD,NIZAMABAD,-,-,Godavari,Godavari,Manjira,-,-,Manjira,18.70333333,77.79583333,21-12-2022 08:30,2,"","",""
+487,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-01-2021 08:00,1.1,"",260,3500
+488,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-02-2021 08:00,0.9,"",330,1700
+489,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-03-2021 08:00,0.2,"",300,500
+490,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,05-04-2021 08:00,4.4,"",1300,1700
+491,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-06-2021 08:30,"","",170,340
+492,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-07-2021 08:30,0.3,"",140,170
+493,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,12-07-2021 08:30,0.3,"",170,330
+494,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,22-07-2021 08:30,1.8,"",110,140
+495,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,02-08-2021 08:30,1,"",93,140
+496,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,11-08-2021 08:25,0.3,"",1400,9200
+497,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,23-08-2021 08:30,6.2,"",1400,9200
+498,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-09-2021 08:30,1.5,"",790,1400
+499,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,13-09-2021 09:30,0.5,"",200,390
+500,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-09-2021 08:30,1.5,"",390,1100
+501,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-10-2021 08:30,1.4,"",490,790
+502,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,11-10-2021 08:30,0.6,"",270,790
+503,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-10-2021 08:30,1.8,"",490,940
+504,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-11-2021 08:30,0.8,"",1400,1700
+505,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,11-11-2021 08:30,6.1,"",240,470
+506,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,22-11-2021 08:00,0.3,"",460,460
+507,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-12-2021 08:30,0.1,"","",""
+508,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,10-12-2021 08:00,0.2,"",1300,1700
+509,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-12-2021 08:00,1.5,"",1300,2200
+510,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-07-2022 08:00,1.6,"","",""
+511,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,11-07-2022 08:00,0.3,"","",""
+512,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-07-2022 08:00,0.3,"","",""
+513,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-08-2022 08:00,0.3,"","",""
+514,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,11-08-2022 08:00,0.5,"","",""
+515,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,22-08-2022 08:00,0.49,"","",""
+516,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-09-2022 08:00,0.8,"","",""
+517,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,12-09-2022 08:30,0.5,"","",""
+518,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-09-2022 08:00,0.2,"","",""
+519,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,03-10-2022 08:00,2,"","",""
+520,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,11-10-2022 08:00,0.3,"","",""
+521,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-10-2022 08:00,0.6,"","",""
+522,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-11-2022 08:00,1.4,"","",""
+523,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,10-11-2022 08:00,0.5,"","",""
+524,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,21-11-2022 08:00,1.6,"","",""
+525,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,01-12-2022 08:00,0.7,"","",""
+526,Sangam (Kinnerasani),CWC,36,Telangana,509,KHAMMAM,PALVANCHA,-,-,Godavari,Godavari,Kinnerasani,-,-,Kinnerasani,17.59972222,80.81638889,12-12-2022 08:00,2.4,"","",""
+527,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,02-08-2021 08:30,1.3,"",93,120
+528,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,11-08-2021 08:30,4.8,"",140,200
+529,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,23-08-2021 08:00,1.8,"",140,220
+530,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,01-09-2021 08:00,1.97,"",200,330
+531,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,13-09-2021 11:30,3.4,"",270,790
+532,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-09-2021 12:30,4,"",490,1700
+533,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,04-10-2021 07:00,1.5,"",700,940
+534,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,11-10-2021 13:00,0.8,"",790,1400
+535,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-10-2021 12:00,1.7,"",1400,1700
+536,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,01-11-2021 12:30,6,"",490,490
+537,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,11-11-2021 13:00,3,"",790,1400
+538,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,22-11-2021 11:30,1.8,"",1400,2200
+539,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,01-12-2021 08:45,2.1,"",490,790
+540,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,10-12-2021 12:00,0.9,"",790,1700
+541,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-12-2021 12:00,2,"",490,790
+542,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,01-07-2022 08:30,2.5,"","",""
+543,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,11-07-2022 08:30,1.9,"","",""
+544,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-07-2022 08:20,1.9,"","",""
+545,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,01-08-2022 08:30,1,"","",""
+546,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,11-08-2022 08:30,1.58,"","",""
+547,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,01-09-2022 08:30,2.4,"","",""
+548,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,12-09-2022 08:30,2.8,"","",""
+549,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-09-2022 08:30,2.6,"","",""
+550,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,03-10-2022 08:20,3,"","",""
+551,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,11-10-2022 08:30,1.4,"","",""
+552,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-10-2022 08:30,1.7,"","",""
+553,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,10-11-2022 08:30,0.8,"","",""
+554,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-11-2022 08:30,1.4,"","",""
+555,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,01-12-2022 08:30,1.6,"","",""
+556,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,12-12-2022 08:30,1.1,"","",""
+557,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,21-12-2022 08:30,1.6,"","",""
+558,Suddakal,CWC,36,Telangana,694,NAGARKURNOOL,NAGARKURNOOL,-,-,Krishna,Krishna,Dindi,-,-,Dindi,16.57277778,78.42333333,11-01-2023 08:30,1.2,"","",""
+559,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-01-2021 12:27,3,"",3500,16000
+560,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-02-2021 08:45,1.2,"",140,230
+561,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-03-2021 08:45,10,"",2800,9000
+562,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,05-04-2021 08:45,1.4,"",220,270
+563,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,03-05-2021 08:45,6.9,"",1700,3000
+564,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-07-2021 08:30,5.9,"",1400,5000
+565,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,12-07-2021 08:30,2.2,"",790,1400
+566,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,22-07-2021 08:30,1.2,"",120,140
+567,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,02-08-2021 08:30,8.9,"",1400,3500
+568,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,11-08-2021 08:30,4.3,"",120,170
+569,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,23-08-2021 08:45,5.9,"",1700,2800
+570,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-09-2021 08:30,4.9,"",170,270
+571,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,13-09-2021 09:00,6.9,"",270,390
+572,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-09-2021 09:00,5.1,"",330,1100
+573,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-10-2021 09:00,3.6,"",940,1400
+574,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,11-10-2021 09:00,4.6,"",270,1100
+575,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-10-2021 09:00,5.4,"",1100,1300
+576,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-11-2021 09:00,0.4,"",1400,1700
+577,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,11-11-2021 09:00,8,"",490,790
+578,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,22-11-2021 09:00,5,"",790,1400
+579,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-12-2021 09:00,6,"",490,790
+580,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,10-12-2021 09:00,6,"",390,1400
+581,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-12-2021 09:00,6,"",790,1400
+582,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-06-2022 09:00,3.5,"","",""
+583,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-07-2022 08:45,3.2,"","",""
+584,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,11-07-2022 09:00,3.8,"","",""
+585,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-07-2022 09:00,1.3,"","",""
+586,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-08-2022 09:00,12.8,"","",""
+587,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,11-08-2022 09:00,18.79,"","",""
+588,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-09-2022 09:00,9,"","",""
+589,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,12-09-2022 09:00,10.9,"","",""
+590,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-09-2022 09:00,10.4,"","",""
+591,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,03-10-2022 09:00,12.5,"","",""
+592,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,11-10-2022 09:00,16.5,"","",""
+593,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-10-2022 09:00,2.1,"","",""
+594,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-11-2022 09:00,13,"","",""
+595,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,10-11-2022 09:00,13,"","",""
+596,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-11-2022 09:00,11.5,"","",""
+597,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,01-12-2022 08:45,15.9,"","",""
+598,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,12-12-2022 08:00,22.3,"","",""
+599,VALIGONDA,CWC,36,Telangana,514,NALGONDA,VALIGONDA,-,-,Krishna,Krishna,Musi,-,-,Musi,17.36555556,79.03222222,21-12-2022 08:45,2,"","",""
+600,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-01-2021 09:00,1.3,"",16000,9000
+601,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-02-2021 09:00,2.5,"",340,2200
+602,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,05-04-2021 09:00,0.7,"",130,500
+603,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,03-05-2021 08:30,4.3,"",1400,1700
+604,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-07-2021 08:30,0.1,"",170,260
+605,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,12-07-2021 09:00,1.4,"",330,940
+606,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,22-07-2021 09:00,0.9,"",110,220
+607,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,02-08-2021 08:29,2.5,"",270,790
+608,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,11-08-2021 08:30,2.3,"",270,340
+609,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,23-08-2021 09:00,2.3,"",210,240
+610,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-09-2021 08:00,0.5,"",200,390
+611,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,13-09-2021 09:00,1.9,"",220,700
+612,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-09-2021 09:00,2.9,"",940,1400
+613,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-10-2021 09:00,0.8,"",390,790
+614,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,11-10-2021 09:00,3.4,"",170,330
+615,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-10-2021 09:00,1.2,"",790,2200
+616,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-11-2021 09:00,0.2,"",1400,2800
+617,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,11-11-2021 08:45,3.9,"",1400,1700
+618,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,22-11-2021 08:30,2.7,"",1400,2200
+619,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-12-2021 08:30,2,"",790,1100
+620,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,10-12-2021 08:45,0.8,"",790,1300
+621,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-12-2021 08:45,0.8,"",490,790
+622,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-07-2022 08:30,1.3,"","",""
+623,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,11-07-2022 08:45,1,"","",""
+624,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-07-2022 08:30,1,"","",""
+625,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-08-2022 09:00,1.3,"","",""
+626,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,11-08-2022 08:00,1.38,"","",""
+627,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,22-08-2022 08:00,0.2,"","",""
+628,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-09-2022 08:00,0.9,"","",""
+629,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,12-09-2022 08:00,1.6,"","",""
+630,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-09-2022 08:00,0.9,"","",""
+631,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,03-10-2022 08:00,2.2,"","",""
+632,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,11-10-2022 08:00,0.6,"","",""
+633,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-10-2022 08:00,0.8,"","",""
+634,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,10-11-2022 09:00,1.4,"","",""
+635,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-11-2022 09:00,1.3,"","",""
+636,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,01-12-2022 09:00,0.4,"","",""
+637,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,12-12-2022 09:00,0,"","",""
+638,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,21-12-2022 09:00,6.8,"","",""
+639,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,11-01-2023 09:45,0.8,"","",""
