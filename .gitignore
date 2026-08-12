@@ -19,6 +19,8 @@ __pycache__/
 .idea/
 # Incomplete downloads & large uncompressed shapefiles (>100MB)
 *.crdownload
+*.crdownload.part*
+scripts/fix_push.ps1
 data/raw/Reservoir.shp
 data/raw/Reservoir.dbf
 
