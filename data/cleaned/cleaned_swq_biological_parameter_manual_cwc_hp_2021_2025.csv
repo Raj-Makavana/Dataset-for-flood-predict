@@ -1,0 +1,571 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Biochemical Oxygen Demand (mg/L),Chemical Oxygen Demand (mg/L),Fecal Coliform (MPN/100mL),Total Coliform (MPN/100mL)
+1,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-01-02 08:30:00,0.32,,,
+2,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-01-03 08:30:00,0.36,,200.0,7900.0
+3,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-05-04 08:30:00,2.7,,200.0,7900.0
+4,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-03-05 08:30:00,2.81,,200.0,3300.0
+5,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-05-21 08:30:00,0.78,,200.0,4900.0
+6,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-01-06 08:30:00,2.94,,200.0,13000.0
+7,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-06-14 08:30:00,2.78,,200.0,7900.0
+8,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-06-21 08:30:00,2.88,,200.0,7900.0
+9,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-01-07 08:30:00,1.6,,200.0,1700.0
+10,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-12-07 08:30:00,1.05,,200.0,3300.0
+11,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-07-22 08:30:00,0.41,,200.0,2300.0
+12,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-02-08 08:30:00,1.02,,200.0,3300.0
+13,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-11-08 08:30:00,0.0,,,
+14,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-08-23 08:30:00,0.57,,450.0,3300.0
+15,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-01-09 08:30:00,,,450.0,4900.0
+16,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-09-13 08:30:00,2.75,,450.0,3300.0
+17,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-09-21 08:30:00,0.92,,200.0,1700.0
+18,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-04-10 08:30:00,1.34,,450.0,4900.0
+19,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-11-10 08:30:00,1.56,,400.0,3300.0
+20,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-10-21 08:30:00,1.49,,200.0,2300.0
+21,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-01-11 08:30:00,1.14,,4000.0,17000.0
+22,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-11-11 08:30:00,1.37,,4000.0,13000.0
+23,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-11-22 08:30:00,0.98,,200.0,1100.0
+24,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-01-12 08:30:00,0.95,,680.0,14000.0
+25,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-12-13 08:30:00,0.4,,450.0,7900.0
+26,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2021-12-21 08:30:00,0.86,,400.0,11000.0
+27,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-03-01 08:30:00,0.92,,400.0,3300.0
+28,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-01 08:30:00,0.9,,200.0,2300.0
+29,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-21 08:30:00,0.97,,200.0,1700.0
+30,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-02 08:30:00,0.76,,610.0,2300.0
+31,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-02 08:30:00,0.71,,400.0,2200.0
+32,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-02-21 08:30:00,0.66,,200.0,1300.0
+33,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-02-03 08:30:00,0.33,,400.0,2200.0
+34,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-03 08:30:00,1.5,,400.0,1700.0
+35,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-03-21 08:30:00,1.41,,200.0,1300.0
+36,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-04 08:30:00,1.94,,200.0,1100.0
+37,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-04 08:30:00,1.56,,200.0,7800.0
+38,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-04-21 08:30:00,7.92,,200.0,680.0
+39,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-05 08:30:00,1.64,,200.0,7800.0
+40,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-05 08:30:00,1.57,,200.0,1200.0
+41,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-05-21 08:30:00,17.06,,200.0,680.0
+42,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-06 08:30:00,2.0,,4500.0,49000.0
+43,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-06-13 08:30:00,1.73,,6800.0,49000.0
+44,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-06-21 08:30:00,1.93,,4500.0,23000.0
+45,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-07 08:30:00,1.67,,6800.0,79000.0
+46,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-07 08:30:00,1.95,,4500.0,49000.0
+47,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-07-21 08:30:00,2.61,,4000.0,33000.0
+48,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-08 08:30:00,12.35,,6800.0,17000.0
+49,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-08 08:30:00,36.83,,4000.0,13000.0
+50,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-08-22 08:30:00,2.53,,2000.0,7800.0
+51,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-09 08:30:00,17.17,,4000.0,14000.0
+52,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-12-09 08:30:00,1.92,,4000.0,11000.0
+53,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-09-21 08:30:00,3.43,,2000.0,7800.0
+54,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-03-10 08:30:00,2.88,,4000.0,78000.0
+55,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-10 08:30:00,2.97,,4000.0,11000.0
+56,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-10-21 08:30:00,1.84,,2000.0,7800.0
+57,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-11 08:30:00,22.68,,4500.0,11000.0
+58,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-10-11 08:30:00,2.71,,4000.0,7800.0
+59,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-11-21 08:30:00,1.8,,2000.0,7800.0
+60,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-01-12 08:30:00,2.29,,4000.0,7800.0
+61,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-12-12 08:30:00,1.62,,4000.0,6800.0
+62,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2022-12-21 08:30:00,2.39,,2000.0,45000.0
+63,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-02-01 08:30:00,2.17,,4000.0,11000.0
+64,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-01 08:30:00,2.4,,2000.0,9300.0
+65,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-21 08:30:00,2.68,,200.0,6800.0
+66,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-02 08:30:00,1.29,,4500.0,7800.0
+67,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-02-13 08:30:00,2.96,,4000.0,9200.0
+68,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-02-21 08:30:00,2.53,,2000.0,4500.0
+69,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-03 08:30:00,2.01,,4500.0,9200.0
+70,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-03-13 08:30:00,2.19,,11000.0,14000.0
+71,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-03-21 08:30:00,1.86,,9300.0,14000.0
+72,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-04 08:30:00,1.54,,4000.0,12000.0
+73,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-04 08:30:00,1.84,,2000.0,9300.0
+74,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-04-20 08:30:00,3.38,,2000.0,9200.0
+75,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-05 15:04:00,,,9300.0,14000.0
+76,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-05 15:12:00,1.37,,6800.0,14000.0
+77,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-05-22 15:23:00,1.6,,9300.0,14000.0
+78,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-06 12:08:00,17.52,,6800.0,70000.0
+79,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-12-06 10:14:00,1.6,,7800.0,110000.0
+80,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-06-21 14:53:00,,,6800.0,33000.0
+81,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-03-07 10:56:00,2.91,,7800.0,23000.0
+82,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-07 11:20:00,2.36,,4500.0,23000.0
+83,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-07-21 12:03:00,4.16,,2000.0,33000.0
+84,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-08 15:12:00,20.54,,6800.0,47000.0
+85,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-10-08 11:13:00,7.52,,6800.0,27000.0
+86,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-08-21 12:14:00,0.5,,6800.0,21000.0
+87,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-09 14:43:00,1.02,,6800.0,14000.0
+88,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-09 14:48:00,14.06,,6800.0,11000.0
+89,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-09-21 14:51:00,1.17,,6800.0,11000.0
+90,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-03-10 12:04:00,26.57,,6800.0,14000.0
+91,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-10 16:34:00,0.51,,9200.0,17000.0
+92,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-10-21 10:24:00,2.2,,6800.0,11000.0
+93,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-11 17:04:00,2.1,,6800.0,22000.0
+94,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-09-11 11:05:00,5.2,,4000.0,11000.0
+95,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-21 12:21:00,0.83,,4500.0,14000.0
+96,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-01-12 13:13:00,1.1,,6800.0,17000.0
+97,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-11-12 10:37:00,0.9,,9300.0,22000.0
+98,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2023-12-21 14:52:00,0.4,,4000.0,11000.0
+99,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-01 10:52:00,1.3,,6800.0,17000.0
+100,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-11-01 13:31:00,0.9,,9300.0,21000.0
+101,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-12-01 08:00:00,5.4,,6800.0,24000.0
+102,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-22 15:22:00,1.4,,4500.0,22000.0
+103,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-02 08:05:00,6.9,,9300.0,17000.0
+104,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-03 08:00:00,1.5,,4000.0,17000.0
+105,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-03-21 08:00:00,0.5,,4500.0,14000.0
+106,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-04 08:25:00,0.9,,4500.0,13000.0
+107,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-09-04 08:48:00,1.3,,9300.0,22000.0
+108,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-04-21 08:54:00,3.1,,6800.0,17000.0
+109,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-05 09:43:00,0.2,,6800.0,14000.0
+110,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-05-13 09:49:00,1.4,,7800.0,17000.0
+111,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-05-21 09:27:00,1.2,,7800.0,22000.0
+112,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-03-06 08:00:00,1.5,,7800.0,26000.0
+113,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-11-06 08:00:00,1.2,,11000.0,14000.0
+114,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-06-21 08:00:00,0.74,,14000.0,27000.0
+115,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-07 08:00:00,2.0,,14000.0,26000.0
+116,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-11-07 08:00:00,0.8,,6800.0,22000.0
+117,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-07-22 08:00:00,4.8,,4500.0,17000.0
+118,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-01-08 08:00:00,2.9,,4500.0,22000.0
+119,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-12-08 08:00:00,1.3,,7800.0,21000.0
+120,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-08-21 08:00:00,0.6,,4000.0,17000.0
+121,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-02-09 08:00:00,0.8,,6800.0,39000.0
+122,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-11-09 08:00:00,0.6,,11000.0,49000.0
+123,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-09-23 08:00:00,0.5,,7800.0,46000.0
+124,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-03-10 08:00:00,0.7,,6800.0,27000.0
+125,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-10-14 08:00:00,1.4,,68004496.0,26000.0
+126,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-10-21 08:00:00,1.9,,11000.0,39000.0
+127,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-04-11 08:00:00,1.3,,11000.0,26000.0
+128,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-11-11 08:00:00,1.1,,7800.0,27000.0
+129,Dadahu/Renuka,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.60444444,77.44111111,2024-11-21 08:00:00,1.0,,11000.0,33000.0
+130,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-01-02 08:30:00,0.26,,,
+131,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-01-03 08:31:00,1.14,,2000.0,13000.0
+132,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-05-04 08:30:00,2.38,,200.0,2300.0
+133,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-03-05 08:30:00,3.6,,4900.0,680.0
+134,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-05-21 08:30:00,0.98,,200.0,3300.0
+135,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-01-06 08:30:00,5.6,,200.0,2300.0
+136,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-06-14 08:30:00,5.64,,2000.0,1300.0
+137,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-06-21 08:30:00,5.32,,200.0,1700.0
+138,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-01-07 08:30:00,4.37,,200.0,2100.0
+139,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-12-07 15:47:00,4.29,,200.0,1300.0
+140,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-07-22 08:30:00,1.17,,450.0,1100.0
+141,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-02-08 08:30:00,5.2,,400.0,1700.0
+142,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-11-08 08:30:00,7.21,,610.0,2200.0
+143,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-08-23 08:30:00,1.55,,200.0,2800.0
+144,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-01-09 08:30:00,2.73,,200.0,2200.0
+145,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-09-13 08:30:00,0.54,,400.0,1700.0
+146,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-09-21 08:30:00,8.61,,400.0,1300.0
+147,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-04-10 08:30:00,1.23,,680.0,2200.0
+148,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-11-10 08:30:00,1.34,,450.0,1700.0
+149,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-10-21 08:30:00,1.32,,400.0,1300.0
+150,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-01-11 08:30:00,0.97,,4500.0,13000.0
+151,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-11-11 08:30:00,9.65,,4000.0,11000.0
+152,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-11-22 08:30:00,0.79,,200.0,780.0
+153,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-01-12 08:30:00,,,450.0,3300.0
+154,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-12-13 08:30:00,0.46,,450.0,2300.0
+155,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2021-12-21 08:30:00,0.66,,450.0,1700.0
+156,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-03-01 08:30:00,1.04,,200.0,2300.0
+157,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-01 08:30:00,1.54,,200.0,2200.0
+158,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-21 08:30:00,1.02,,200.0,1300.0
+159,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-02 08:30:00,1.08,,450.0,3300.0
+160,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-02 08:30:00,1.44,,400.0,2300.0
+161,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-02-21 08:30:00,1.37,,200.0,2200.0
+162,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-03-03 08:30:00,0.51,,450.0,2300.0
+163,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-03 08:30:00,8.27,,400.0,1700.0
+164,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-03-21 08:30:00,0.55,,400.0,1300.0
+165,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-04 08:30:00,1.17,,200.0,1300.0
+166,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-04 08:30:00,0.97,,200.0,1100.0
+167,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-04-21 08:30:00,1.51,,200.0,780.0
+168,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-05 08:30:00,1.79,,200.0,1400.0
+169,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-05-21 08:30:00,1.68,,200.0,780.0
+170,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-06 08:30:00,1.79,,7800.0,70000.0
+171,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-06-13 08:30:00,1.55,,6800.0,49000.0
+172,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-06-21 08:30:00,1.73,,6800.0,33000.0
+173,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-07 08:30:00,1.81,,9300.0,49000.0
+174,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-07 08:30:00,1.92,,,
+175,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-07-21 08:30:00,1.01,,4500.0,23000.0
+176,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-08 08:30:00,15.57,,4500.0,33000.0
+177,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-08 08:30:00,1.78,,4000.0,17000.0
+178,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-08-22 08:30:00,2.23,,2000.0,13000.0
+179,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-09 08:30:00,19.57,,4500.0,22000.0
+180,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-12-09 08:30:00,2.78,,4500.0,17000.0
+181,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-09-21 08:30:00,2.46,,4000.0,14000.0
+182,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-03-10 08:30:00,2.51,,4000.0,13000.0
+183,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-10 08:30:00,15.54,,4000.0,17000.0
+184,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-10-21 08:30:00,1.84,,2000.0,14000.0
+185,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-11 08:30:00,1.67,,4500.0,17000.0
+186,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-10-11 08:30:00,2.9,,4000.0,13000.0
+187,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-11-21 08:30:00,2.03,,2000.0,14000.0
+188,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-01-12 08:30:00,2.17,,4500.0,17000.0
+189,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-12-12 08:30:00,1.46,,4000.0,14000.0
+190,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2022-12-21 08:30:00,2.19,,2000.0,11000.0
+191,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-02-01 08:30:00,2.17,,4000.0,14000.0
+192,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-01 08:30:00,2.07,,2000.0,11000.0
+193,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-21 08:30:00,2.63,,200.0,7800.0
+194,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-02 08:30:00,1.83,,4500.0,7800.0
+195,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-02-13 08:30:00,3.15,,4000.0,9300.0
+196,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-02-21 08:30:00,2.17,,2000.0,6800.0
+197,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-03 08:30:00,1.45,,4500.0,11000.0
+198,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-03-13 08:30:00,1.52,,4000.0,9300.0
+199,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-03-21 08:30:00,1.94,,17000.0,24000.0
+200,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-04 08:30:00,17.88,,21000.0,47000.0
+201,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-04 08:30:00,1.54,,7800.0,33000.0
+202,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-04-20 08:30:00,1.33,,6800.0,28000.0
+203,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-05 14:34:00,1.82,,6800.0,21000.0
+204,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-05 14:43:00,1.24,,9300.0,14000.0
+205,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-05-22 14:52:00,1.29,,4500.0,7800.0
+206,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-06 11:59:00,26.63,,7800.0,49000.0
+207,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-12-06 10:04:00,32.39,,4500.0,33000.0
+208,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-06-21 14:46:00,14.56,,4500.0,94000.0
+209,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-03-07 10:51:00,2.76,,11000.0,46000.0
+210,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-07 11:14:00,2.68,,6800.0,33000.0
+211,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-07-21 11:55:00,3.79,,4000.0,39000.0
+212,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-08 15:07:00,0.31,,6800.0,33000.0
+213,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-10-08 11:06:00,1.53,,4500.0,23000.0
+214,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-08-21 12:08:00,1.05,,4500.0,33000.0
+215,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-09 14:30:00,0.96,,6800.0,22000.0
+216,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-09 14:34:00,19.8,,4500.0,17000.0
+217,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-09-21 14:38:00,0.39,,4500.0,13000.0
+218,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-03-10 12:00:00,1.14,,7800.0,23000.0
+219,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-10 16:31:00,0.89,,4500.0,47000.0
+220,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-10-21 10:21:00,0.63,,6100.0,26000.0
+221,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-11 17:00:00,1.26,,4500.0,13000.0
+222,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-09-11 11:01:00,3.89,,6100.0,21000.0
+223,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-21 12:15:00,1.3,,14000.0,49000.0
+224,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-01-12 13:09:00,1.3,,4500.0,17000.0
+225,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-11-12 10:32:00,0.9,,4000.0,21000.0
+226,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2023-12-21 14:49:00,1.5,,21000.0,26000.0
+227,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-01 10:47:00,5.7,,4500.0,22000.0
+228,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-01 13:26:00,0.5,,6800.0,27000.0
+229,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-22 15:16:00,1.1,,2000.0,26000.0
+230,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-02 08:30:00,2.9,,4500.0,27000.0
+231,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-12-02 08:11:00,2.5,,4500.0,17000.0
+232,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-03 08:30:00,0.6,,14000.0,39000.0
+233,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-03 08:30:00,2.9,,6800.0,46000.0
+234,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-03-21 08:20:00,3.0,,7800.0,22000.0
+235,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-04 08:21:00,3.0,,13000.0,23000.0
+236,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-04 08:30:00,0.4,,17000.0,39000.0
+237,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-04-21 08:30:00,3.3,,17000.0,33000.0
+238,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-05 08:00:00,1.1,,11000.0,27000.0
+239,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-05-13 09:04:00,1.4,,17000.0,33000.0
+240,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-05-21 09:09:00,1.2,,17000.0,33000.0
+241,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-03-06 08:45:00,1.4,,11000.0,26000.0
+242,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-06 08:10:00,1.3,,14000.0,49000.0
+243,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-06-21 09:30:00,0.5,,17000.0,70000.0
+244,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-07 08:00:00,2.0,,14000.0,26000.0
+245,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-07 08:20:00,0.8,,17000.0,46000.0
+246,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-07 08:00:00,0.8,,6800.0,22000.0
+247,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-07 08:10:00,0.6,,11000.0,33000.0
+248,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-07-22 08:00:00,3.5,,7800.0,27000.0
+249,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-01-08 09:10:00,2.8,,7800.0,26000.0
+250,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-12-08 08:10:00,0.5,,6800.0,39000.0
+251,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-08-21 08:30:00,2.3,,4500.0,21000.0
+252,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-02-09 08:20:00,1.8,,7800.0,33000.0
+253,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-09 08:25:00,5.3,,6800.0,27000.0
+254,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-09-23 08:30:00,0.8,,4500.0,26000.0
+255,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-03-10 08:20:00,0.8,,11000.0,33000.0
+256,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-10-14 08:40:00,0.6,,7800.0,39000.0
+257,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-10-21 08:20:00,0.7,,6800.0,33000.0
+258,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-04-11 08:10:00,7.9,,7800.0,39000.0
+259,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-11 08:00:00,0.9,,6800.0,33000.0
+260,Ganguwala,CWC,2,Himachal Pradesh,24,SIRMAUR,RAJGARH(T),-,-,Ganga,Ganga,Yamuna,Bata,-,Bata,30.43694444,77.57861111,2024-11-21 08:15:00,1.4,,6800.0,27000.0
+261,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-08-01 08:30:00,3.08,,2000.0,13000.0
+262,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-01-02 08:30:00,3.35,,7800.0,33000.0
+263,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-01-03 08:31:00,6.24,,2000.0,79000.0
+264,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-05-04 08:30:00,2.1,,450.0,13000.0
+265,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-03-05 08:30:00,2.08,,2300.0,450.0
+266,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-05-21 08:30:00,1.53,,400.0,2300.0
+267,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-01-06 08:30:00,3.41,,200.0,3300.0
+268,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-06-14 08:30:00,3.16,,200.0,2300.0
+269,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-06-21 08:30:00,3.22,,200.0,1300.0
+270,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-01-07 08:30:00,2.83,,200.0,2300.0
+271,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-12-07 08:30:00,1.67,,200.0,1700.0
+272,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-07-22 08:31:00,0.48,,400.0,2100.0
+273,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-02-08 08:30:00,6.28,,450.0,2300.0
+274,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-11-08 08:30:00,1.04,,450.0,4900.0
+275,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-08-23 08:30:00,0.73,,450.0,1300.0
+276,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-01-09 08:30:00,1.41,,450.0,3300.0
+277,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-09-13 08:30:00,0.95,,680.0,4900.0
+278,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-09-21 08:30:00,1.9,,200.0,2300.0
+279,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-04-10 08:30:00,1.89,,930.0,3300.0
+280,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-11-10 08:30:00,1.91,,400.0,23000.0
+281,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-10-21 08:30:00,,,200.0,2100.0
+282,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-01-11 08:30:00,1.73,,7800.0,110000.0
+283,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-11-11 08:30:00,0.44,,6800.0,21000.0
+284,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-11-22 08:30:00,1.0,,4500.0,17000.0
+285,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-01-12 08:30:00,0.84,,1700.0,35000.0
+286,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-12-13 08:30:00,0.64,,1300.0,24000.0
+287,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2021-12-21 08:30:00,0.64,,1400.0,35000.0
+288,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-03-01 08:30:00,2.22,,4500.0,49000.0
+289,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-01 08:30:00,1.82,,4000.0,33000.0
+290,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-21 08:30:00,1.82,,2000.0,17000.0
+291,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-02 08:30:00,1.74,,4500.0,23000.0
+292,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-02 08:30:00,1.09,,22000.0,4000.0
+293,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-02-21 08:30:00,1.19,,2000.0,17000.0
+294,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-02-03 08:30:00,0.91,,4500.0,33000.0
+295,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-03 08:30:00,1.7,,4000.0,23000.0
+296,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-03-21 08:30:00,1.61,,2000.0,21000.0
+297,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-04 08:30:00,1.84,,4500.0,33000.0
+298,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-04 08:30:00,1.8,,4000.0,33000.0
+299,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-04-21 08:30:00,1.81,,2000.0,23000.0
+300,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-05 08:30:00,1.81,,400.0,23000.0
+301,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-05 08:30:00,,,200.0,23000.0
+302,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-05-21 08:30:00,1.7,,2000.0,13000.0
+303,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-06 08:30:00,16.45,,4500.0,170000.0
+304,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-06-13 08:30:00,1.69,,4500.0,130000.0
+305,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-06-21 08:30:00,1.81,,4500.0,110000.0
+306,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-07 08:30:00,2.2,,6800.0,79000.0
+307,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-07 08:30:00,1.8,,4500.0,49000.0
+308,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-07-21 08:30:00,1.51,,4000.0,33000.0
+309,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-08 08:30:00,6.49,,4500.0,70000.0
+310,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-08 08:30:00,37.26,,4500.0,33000.0
+311,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-08-22 08:30:00,2.15,,4500.0,23000.0
+312,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-09 08:30:00,19.36,,4000.0,23000.0
+313,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-12-09 08:30:00,2.18,,4000.0,22000.0
+314,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-09-21 08:30:00,2.76,,4000.0,17000.0
+315,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-03-10 08:30:00,2.14,,4500.0,17000.0
+316,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-10 08:30:00,3.24,,4000.0,13000.0
+317,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-10-21 08:30:00,2.55,,2000.0,14000.0
+318,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-11 08:30:00,1.92,,4500.0,13000.0
+319,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-10-11 08:30:00,1.79,,4500.0,17000.0
+320,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-11-21 08:30:00,2.01,,4000.0,14000.0
+321,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-01-12 08:30:00,2.31,,4500.0,13000.0
+322,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-12-12 08:30:00,1.28,,4500.0,17000.0
+323,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2022-12-21 08:30:00,2.21,,4000.0,14000.0
+324,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-02-01 08:30:00,2.09,,4500.0,17000.0
+325,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-01 08:30:00,2.74,,200.0,7800.0
+326,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-02 08:30:00,1.69,,4500.0,21000.0
+327,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-02-13 08:30:00,2.13,,4500.0,17000.0
+328,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-02-21 08:30:00,2.39,,4000.0,13000.0
+329,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-03 08:29:00,1.53,,17000.0,33000.0
+330,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-03-13 08:30:00,1.58,,280000.0,1600000.0
+331,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-03-21 08:30:00,1.66,,20000.0,350000.0
+332,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-04 08:30:00,1.81,,24000.0,2800000.0
+333,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-04 08:30:00,1.74,,4500.0,130000.0
+334,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-04-20 08:30:00,0.71,,4000.0,33000.0
+335,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-05 16:20:00,1.41,,21000.0,540000.0
+336,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-05 16:33:00,1.1,,7800.0,23000.0
+337,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-05-22 16:40:00,1.7,,17000.0,70000.0
+338,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-06 16:46:00,14.72,,14000.0,220000.0
+339,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-12-06 16:53:00,19.7,,17000.0,920000.0
+340,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-06-21 09:38:00,12.79,,13000.0,23000.0
+341,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-03-07 10:20:00,2.34,,12000.0,110000.0
+342,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-07 10:40:00,2.39,,6800.0,94000.0
+343,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-07-21 11:29:00,8.58,,4500.0,23000.0
+344,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-08 14:43:00,0.15,,7800.0,240000.0
+345,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-10-08 10:44:00,0.52,,7800.0,170000.0
+346,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-08-21 11:47:00,0.24,,9300.0,79000.0
+347,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-09 12:10:00,0.99,,7800.0,23000.0
+348,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-09 12:14:00,16.82,,7800.0,17000.0
+349,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-09-21 12:19:00,0.54,,12000.0,17000.0
+350,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-03-10 11:45:00,1.74,,11000.0,130000.0
+351,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-10 16:13:00,0.29,,7800.0,13000.0
+352,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-10-21 10:05:00,1.11,,9300.0,20000.0
+353,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-11 16:42:00,0.28,,7800.0,17000.0
+354,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-09-11 10:32:00,0.95,,6800.0,17000.0
+355,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-21 11:35:00,0.65,,9200.0,21000.0
+356,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-01-12 12:50:00,2.1,,4500.0,21000.0
+357,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-11-12 10:12:00,1.3,,4000.0,33000.0
+358,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2023-12-21 14:09:00,1.16,,6300.0,39000.0
+359,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-01 10:28:00,2.7,,4500.0,40000.0
+360,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-01 10:18:00,0.7,,4000.0,39000.0
+361,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-22 14:43:00,3.0,,4500.0,34000.0
+362,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-02 08:46:00,4.7,,4500.0,33000.0
+363,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-12-02 08:40:00,1.5,,6800.0,27000.0
+364,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-03 08:15:00,7.3,,7800.0,26000.0
+365,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-03 08:40:00,1.4,,6800.0,22000.0
+366,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-03-21 09:10:00,0.9,,11000.0,27000.0
+367,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-04 14:59:00,0.7,,4500.0,26000.0
+368,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-04 08:30:00,1.1,,4500.0,17000.0
+369,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-04-21 08:33:00,1.8,,9300.0,27000.0
+370,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-05 08:00:00,1.2,,7800.0,22000.0
+371,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-05-13 08:19:00,1.3,,6800.0,17000.0
+372,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-05-21 08:03:00,1.8,,11000.0,26000.0
+373,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-03-06 09:36:00,1.4,,6800.0,26000.0
+374,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-06 08:40:00,0.9,,14000.0,33000.0
+375,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-06-21 08:50:00,0.8,,11000.0,33000.0
+376,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-07 09:20:00,1.5,,13000.0,33000.0
+377,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-07 09:00:00,1.1,,11000.0,22000.0
+378,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-07-22 09:40:00,1.7,,7800.0,22000.0
+379,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-01-08 09:30:00,2.7,,11000.0,49000.0
+380,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-12-08 09:30:00,0.7,,7800.0,33000.0
+381,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-08-21 09:00:00,2.8,,6800.0,27000.0
+382,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-02-09 09:45:00,2.6,,7800.0,49000.0
+383,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-09 09:30:00,0.8,,11000.0,70000.0
+384,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-09-21 09:30:00,0.6,,11000.0,79000.0
+385,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-03-10 09:30:00,1.4,,7800.0,33000.0
+386,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-10-14 09:10:00,1.0,,11000.0,49000.0
+387,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-10-21 09:20:00,1.6,,11000.0,46000.0
+388,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-04-11 09:00:00,1.0,,14000.0,70000.0
+389,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-11 09:30:00,1.2,,17000.0,46000.0
+390,Paonta,CWC,2,Himachal Pradesh,24,SIRMAUR,DADAHU(S.T),-,-,Ganga,Ganga,Yamuna,-,-,Yamuna,30.41770556,77.62275833,2024-11-21 08:30:00,1.0,,7800.0,39000.0
+391,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-01-08 08:30:00,1.63,,,
+392,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-11-08 08:30:00,3.42,,,
+393,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-08-21 12:54:00,1.21,,,
+394,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-01-09 08:58:00,0.78,,,
+395,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-11-09 09:00:00,1.01,,,
+396,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-09-21 09:01:00,1.23,,,
+397,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-09-30 09:00:00,1.0,,,
+398,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-11-10 09:00:00,1.01,,,
+399,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-01-11 09:00:00,1.21,,,
+400,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-11-13 09:03:00,1.01,,,
+401,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2021-11-23 09:07:00,1.4,,,
+402,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2022-01-01 08:00:00,1.1,,,
+403,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2022-03-21 08:00:00,0.7,,,
+404,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-11-03 08:00:00,1.3,,,
+405,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-03-21 08:00:00,1.3,,,
+406,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-01-04 08:00:00,1.2,,,
+407,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-11-04 08:00:00,0.8,,,
+408,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-04-21 08:00:00,1.4,,,
+409,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-01-05 08:01:00,1.8,,,
+410,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-11-05 08:00:00,1.5,,,
+411,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-05-22 08:00:00,1.4,,,
+412,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-02-06 08:00:00,1.2,,,
+413,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-12-06 08:01:00,1.2,,,
+414,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-06-21 08:00:00,1.3,,,
+415,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-01-07 08:38:00,1.4,,,
+416,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-01-08 08:51:00,0.9,,,
+417,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-11-09 08:33:00,1.2,,,
+418,TANDI,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Bhaga,-,-,Bhaga,32.55027778,76.97972222,2023-09-21 08:30:00,1.1,,,
+419,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-01-08 08:30:00,1.02,,,
+420,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-11-08 08:30:00,1.41,,,
+421,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-08-21 09:00:00,0.81,,,
+422,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-01-09 09:00:00,0.39,,,
+423,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-11-09 09:00:00,0.8,,,
+424,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-09-21 09:00:00,1.64,,,
+425,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-09-30 09:03:00,2.59,,,
+426,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-11-10 08:46:00,1.01,,,
+427,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-10-23 09:14:00,1.81,,,
+428,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-01-11 08:32:00,1.62,,,
+429,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-11-13 08:30:00,1.01,,,
+430,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2021-11-23 08:30:00,1.6,,,
+431,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-11-03 08:00:00,0.7,,,
+432,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-03-21 08:00:00,0.9,,,
+433,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-01-04 08:00:00,1.2,,,
+434,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-11-04 08:00:00,1.5,,,
+435,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-04-21 08:00:00,0.9,,,
+436,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-01-05 08:00:00,1.3,,,
+437,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-11-05 08:00:00,1.3,,,
+438,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-05-22 08:00:00,1.4,,,
+439,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-01-06 08:00:00,1.2,,,
+440,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-11-06 08:00:00,1.0,,,
+441,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-06-21 08:00:00,1.1,,,
+442,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-01-07 08:30:00,1.0,,,
+443,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-01-08 08:24:00,1.2,,,
+444,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-11-09 08:30:00,0.7,,,
+445,UDAIPUR,CWC,2,Himachal Pradesh,21,LAHUL and SPITI,UDAIPUR(S.T),-,-,Chenab,Indus,Chander Bhaga,-,-,Chander Bhaga,32.69972222,76.64972222,2023-09-21 08:30:00,1.3,,,
+446,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-03-03 08:30:00,2.37,,13000.0,33000.0
+447,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-05-21 08:30:00,7.94,,2000.0,23000.0
+448,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-01-06 08:30:00,4.7,,400.0,7900.0
+449,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-11-06 08:30:00,4.77,,200.0,1300.0
+450,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-06-21 08:30:00,,,400.0,4600.0
+451,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-01-07 08:30:00,4.99,,400.0,4600.0
+452,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-12-07 08:30:00,5.2,,200.0,3300.0
+453,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-07-22 08:30:00,1.32,,400.0,2300.0
+454,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-02-08 08:30:00,1.57,,400.0,1700.0
+455,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-11-08 08:30:00,1.4,,680.0,1300.0
+456,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-08-23 08:30:00,1.37,,450.0,1700.0
+457,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-01-09 08:30:00,1.08,,680.0,2200.0
+458,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-09-13 08:30:00,0.59,,450.0,2600.0
+459,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-09-21 08:30:00,10.36,,400.0,1300.0
+460,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-04-10 08:30:00,1.58,,450.0,2300.0
+461,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-11-10 08:30:00,1.5,,400.0,2100.0
+462,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-10-21 08:30:00,1.52,,400.0,1300.0
+463,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-01-11 08:30:00,1.49,,450.0,3300.0
+464,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-11-11 08:30:00,9.02,,400.0,2300.0
+465,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-11-22 08:30:00,1.62,,450.0,2100.0
+466,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-01-12 08:30:00,4.1,,680.0,4900.0
+467,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-12-13 08:30:00,1.46,,450.0,3300.0
+468,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2021-12-21 08:30:00,1.12,,400.0,2300.0
+469,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-01 08:30:00,1.78,,450.0,3300.0
+470,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-01 08:30:00,1.91,,400.0,1700.0
+471,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-24 08:30:00,1.83,,200.0,1100.0
+472,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-02 08:30:00,1.12,,4000.0,17000.0
+473,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-02 08:30:00,1.37,,2000.0,13000.0
+474,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-02-21 08:30:00,1.53,,2000.0,14000.0
+475,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-02-03 08:30:00,3.45,,4000.0,22000.0
+476,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-10-03 08:30:00,3.17,,4000.0,17000.0
+477,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-03-21 08:30:00,3.26,,2000.0,13000.0
+478,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-04 08:30:00,3.13,,4000.0,13000.0
+479,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-04 08:30:00,3.12,,2000.0,14000.0
+480,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-04-21 08:30:00,3.37,,2000.0,11000.0
+481,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-04-05 08:30:00,21.05,,4500.0,17000.0
+482,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-05 08:30:00,18.76,,4000.0,13000.0
+483,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-05-21 08:30:00,1.9,,2000.0,14000.0
+484,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-06 08:30:00,2.14,,4500.0,34000.0
+485,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-06-13 08:30:00,1.83,,4500.0,27000.0
+486,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-06-21 08:30:00,1.87,,4500.0,22000.0
+487,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-07 08:30:00,2.93,,7800.0,130000.0
+488,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-07 08:30:00,1.8,,9300.0,49000.0
+489,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-07-21 08:30:00,1.88,,4500.0,33000.0
+490,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-08 08:30:00,1.7,,14000.0,49000.0
+491,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-08 08:30:00,41.25,,7800.0,33000.0
+492,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-08-22 08:30:00,19.74,,9300.0,23000.0
+493,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-09 08:30:00,14.31,,4000.0,13000.0
+494,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-12-09 08:30:00,3.26,,4000.0,17000.0
+495,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-09-21 08:30:00,16.2,,2000.0,14000.0
+496,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-03-10 08:30:00,12.89,,4500.0,13000.0
+497,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-10 08:30:00,3.15,,4000.0,14000.0
+498,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-10-21 08:30:00,12.52,,2000.0,11000.0
+499,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-11 08:30:00,2.45,,7800.0,49000.0
+500,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-10-11 08:30:00,1.85,,4500.0,13000.0
+501,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-11-21 08:30:00,1.88,,4000.0,17000.0
+502,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-01-12 08:30:00,22.13,,4500.0,14000.0
+503,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-12-12 08:30:00,2.04,,4000.0,11000.0
+504,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2022-12-21 08:30:00,37.36,,4000.0,7800.0
+505,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-02-01 08:30:00,1.75,,4000.0,11000.0
+506,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-11-01 08:30:00,2.52,,2000.0,7800.0
+507,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-20 08:30:00,18.29,,200.0,9300.0
+508,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-02 08:30:00,11.15,,2000.0,7800.0
+509,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-02-13 08:30:00,2.33,,4000.0,12000.0
+510,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-02-21 08:30:00,2.67,,2000.0,9300.0
+511,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-03 08:30:00,1.67,,6800.0,13000.0
+512,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-03-13 08:30:00,1.71,,2000.0,14000.0
+513,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-03-21 08:30:00,1.84,,14000.0,17000.0
+514,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-04 08:30:00,17.48,,12000.0,21000.0
+515,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-11-04 08:30:00,1.88,,14000.0,27000.0
+516,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-04-20 08:30:00,0.85,,2000.0,14000.0
+517,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-05 11:13:00,24.16,,7800.0,11000.0
+518,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-11-05 11:21:00,1.77,,6800.0,9300.0
+519,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-05-22 11:31:00,16.17,,4500.0,11000.0
+520,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-06 11:14:00,2.99,,4500.0,22000.0
+521,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-12-06 10:49:00,15.41,,7800.0,33000.0
+522,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-06-21 15:33:00,29.88,,11000.0,33000.0
+523,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-03-07 16:47:00,12.65,,11000.0,33000.0
+524,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-07-21 11:22:00,5.61,,7800.0,27000.0
+525,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-08 15:35:00,0.66,,14000.0,49000.0
+526,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-10-08 12:17:00,0.21,,11000.0,70000.0
+527,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-08-21 13:43:00,0.24,,7800.0,46000.0
+528,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-09 15:12:00,0.52,,34000.0,350000.0
+529,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-11-09 15:17:00,13.42,,17000.0,34000.0
+530,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-09-21 15:23:00,1.45,,17000.0,33000.0
+531,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-03-10 12:37:00,0.91,,7800.0,13000.0
+532,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-11-10 16:10:00,34.18,,7800.0,11000.0
+533,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-10-21 10:57:00,20.27,,7800.0,13000.0
+534,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-11 10:00:00,2.92,,9300.0,22000.0
+535,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-09-11 11:18:00,18.37,,4500.0,13000.0
+536,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-11-21 16:42:00,5.79,,7800.0,17000.0
+537,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-01-12 13:25:00,11.9,,7800.0,22000.0
+538,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-11-12 11:06:00,2.6,,6800.0,17000.0
+539,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2023-12-21 10:37:00,0.7,,13000.0,26000.0
+540,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-01 10:23:00,2.0,,2000.0,11000.0
+541,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-11-01 14:36:00,1.0,,4000.0,12000.0
+542,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-22 14:10:00,2.2,,6800.0,17000.0
+543,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-02 08:00:00,4.0,,79000.0,11000.0
+544,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-12-02 08:00:00,2.0,,14000.0,49000.0
+545,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-03 08:16:00,20.0,,11000.0,89000.0
+546,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-11-03 08:00:00,1.7,,17000.0,33000.0
+547,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-04 08:06:00,1.3,,11000.0,26000.0
+548,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-09-04 09:12:00,0.9,,17000.0,33000.0
+549,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-04-21 09:18:00,3.5,,7800.0,22000.0
+550,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-05 08:58:00,4.2,,14000.0,27000.0
+551,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-05-13 09:03:00,3.0,,11000.0,26000.0
+552,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-05-21 09:08:00,3.2,,17000.0,33000.0
+553,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-03-06 08:00:00,1.6,,11000.0,32000.0
+554,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-11-06 08:00:00,1.2,,14000.0,33000.0
+555,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-06-21 08:00:00,2.6,,11000.0,33000.0
+556,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-07 08:00:00,1.8,,7800.0,27000.0
+557,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-11-07 08:00:00,2.0,,6800.0,26000.0
+558,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-07-22 08:05:00,2.1,,4500.0,21000.0
+559,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-01-08 08:00:00,2.2,,4800.0,33000.0
+560,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-12-08 08:00:00,1.0,,6800.0,27000.0
+561,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-08-21 08:00:00,2.3,,4500.0,22000.0
+562,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-02-09 08:00:00,1.5,,14000.0,47000.0
+563,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-11-09 08:00:00,2.7,,11000.0,40000.0
+564,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-09-23 08:00:00,2.7,,11000.0,49000.0
+565,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-03-10 08:00:00,1.3,,11000.0,49000.0
+566,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-10-14 08:00:00,2.1,,17000.0,70000.0
+567,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-10-21 08:00:00,2.9,,13000.0,46000.0
+568,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-04-11 08:00:00,1.1,,13000.0,46000.0
+569,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-11-11 08:00:00,1.1,,7800.0,33000.0
+570,Yashwant Nagar,CWC,2,Himachal Pradesh,24,SIRMAUR,PACHHAD(T),-,-,Ganga,Ganga,Yamuna,Giri,-,Giri,30.88222222,77.20944444,2024-11-21 08:00:00,1.3,,6800.0,27000.0

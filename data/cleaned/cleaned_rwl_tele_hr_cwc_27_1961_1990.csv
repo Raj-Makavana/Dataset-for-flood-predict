@@ -1,0 +1,8 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
+1,Pennalur Causeway,CWC,33,Tamil Nadu,589,Tiruvallur,-,-,-,-,East flowing rivers between Pennar and Kanyakumari,-,-,-,-,12.9675,79.97666667,No,0.0,0,1970-04-04 15:00:00,322.0
+2,Pennalur Causeway,CWC,33,Tamil Nadu,589,Tiruvallur,-,-,-,-,East flowing rivers between Pennar and Kanyakumari,-,-,-,-,12.9675,79.97666667,No,0.0,0,1970-03-12 02:00:00,767.0
+3,Pennalur Causeway,CWC,33,Tamil Nadu,589,Tiruvallur,-,-,-,-,East flowing rivers between Pennar and Kanyakumari,-,-,-,-,12.9675,79.97666667,No,0.0,0,1975-08-16 06:00:00,976.0
+4,Vaigai Reservoir,CWC,33,Tamil Nadu,588,Theni,ANDIPATTI,-,-,Duplicate-Vaigai,East flowing rivers between Pennar and Kanyakumari,-,-,-,Vaigai,10.05333333,77.58916667,Yes,257.556,0,1970-12-11 00:00:00,476.599
+5,Venganur,CWC,33,Tamil Nadu,570,Cuddalore,Virudhachalam,-,-,Vellar,East flowing rivers between Pennar and Kanyakumari,Periyaodai,-,-,Periyaodai,11.44305556,79.02444444,Yes,75.5,0,1970-01-29 00:12:00,333.378
+6,Venganur,CWC,33,Tamil Nadu,570,Cuddalore,Virudhachalam,-,-,Vellar,East flowing rivers between Pennar and Kanyakumari,Periyaodai,-,-,Periyaodai,11.44305556,79.02444444,Yes,75.5,0,1970-03-23 19:00:00,333.378
+7,Wellington Reservoir,CWC,33,Tamil Nadu,570,Cuddalore,Thittakudi,-,-,Duplicate-Vellar,East flowing rivers between Pennar and Kanyakumari,-,-,-,Vellar,11.4,79.09,No,63.48,0,1970-04-08 15:30:00,63.324
