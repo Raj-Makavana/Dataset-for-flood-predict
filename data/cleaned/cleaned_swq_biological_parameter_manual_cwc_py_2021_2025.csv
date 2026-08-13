@@ -1,0 +1,96 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Biochemical Oxygen Demand (mg/L),Chemical Oxygen Demand (mg/L),Fecal Coliform (MPN/100mL),Total Coliform (MPN/100mL)
+1,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-12-01 08:05:00,1.57,,,
+2,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-12-07 08:00:00,1.39,,,
+3,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-08-16 08:00:00,0.2,,,
+4,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-06-09 08:00:00,1.4,,,
+5,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-10-18 08:00:00,2.81,,,
+6,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-01-11 08:00:00,1.99,,,
+7,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-12-11 08:00:00,1.19,,,
+8,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-11-22 08:00:00,1.39,,,
+9,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-01-12 08:00:00,1.18,,,
+10,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2021-12-14 08:00:00,1.18,,,
+11,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-03-01 08:00:00,1.59,,,
+12,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-01-28 08:00:00,1.99,,,
+13,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-06-25 08:00:00,3.6,,,
+14,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-07-22 08:00:00,2.4,,,
+15,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-01-08 08:00:00,2.6,,,
+16,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-11-08 08:00:00,1.6,,,
+17,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-08-22 08:00:00,1.8,,,
+18,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-05-09 08:00:00,3.0,,,
+19,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-09-21 08:00:00,2.6,,,
+20,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-11-10 08:00:00,1.6,,,
+21,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-10-21 08:00:00,1.2,,,
+22,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-01-11 08:00:00,2.6,,,
+23,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-11-11 08:00:00,1.4,,,
+24,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-11-23 08:00:00,3.0,,,
+25,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2022-01-12 08:00:00,3.6,,,
+26,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2024-08-16 08:00:00,2.1,,170.0,390.0
+27,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2024-08-10 08:00:00,2.3,,170.0,330.0
+28,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2024-10-10 08:00:00,2.9,,170.0,390.0
+29,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2024-09-11 08:00:00,1.6,,170.0,330.0
+30,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2024-11-11 08:00:00,1.0,,140.0,270.0
+31,Annavasal,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nattar,10.975,79.75388889,2024-12-13 08:00:00,1.4,,170.0,390.0
+32,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2021-02-01 08:00:00,2.36,,,
+33,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2021-03-11 08:00:00,1.39,,,
+34,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2021-12-11 08:00:00,1.19,,,
+35,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2021-11-22 08:00:00,2.38,,,
+36,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2021-01-12 08:00:00,1.38,,,
+37,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2021-11-12 08:00:00,1.18,,,
+38,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2021-12-21 08:00:00,1.18,,,
+39,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2022-01-01 08:00:00,3.78,,,
+40,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2022-11-01 08:00:00,1.79,,,
+41,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2022-01-21 08:00:00,1.59,,,
+42,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2022-01-02 08:00:00,2.0,,,
+43,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2022-11-02 08:00:00,1.4,,,
+44,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2022-11-14 08:00:00,1.4,,,
+45,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2022-11-21 08:00:00,1.2,,,
+46,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2023-06-12 08:00:00,1.0,,210.0,1400.0
+47,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2023-11-12 08:00:00,0.8,,110.0,210.0
+48,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2024-08-01 08:00:00,1.6,,320.0,470.0
+49,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2024-11-01 08:00:00,2.0,,170.0,1100.0
+50,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2024-03-12 08:00:00,1.8,,170.0,1100.0
+51,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2024-11-12 08:00:00,2.0,,110.0,470.0
+52,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2024-12-20 08:00:00,2.0,,110.0,1100.0
+53,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2025-01-01 08:00:00,1.4,,260.0,2800.0
+54,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2025-10-01 08:00:00,0.8,,170.0,1100.0
+55,Kumarapalayam,CWC,34,Puducherry,600,Puducherry,Puducherry,-,-,Varahanadhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Varahanadhi,11.98305556,79.68055556,2025-01-21 08:00:00,1.0,,140.0,1700.0
+56,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2021-06-01 08:02:00,2.95,,,
+57,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2021-08-21 08:00:00,3.04,,,
+58,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2021-08-10 08:00:00,5.02,,,
+59,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2021-12-10 08:00:00,2.01,,,
+60,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2021-10-26 08:00:00,2.01,,,
+61,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2021-01-12 08:00:00,1.97,,,
+62,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2021-11-12 08:00:00,1.18,,,
+63,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-01-01 08:00:00,2.98,,,
+64,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-01-21 08:00:00,1.99,,,
+65,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-06-17 08:00:00,4.1,,,
+66,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-06-21 08:00:00,4.1,,,
+67,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-07-25 08:00:00,3.4,,,
+68,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-01-08 08:00:00,3.0,,,
+69,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-08-16 08:00:00,2.8,,,
+70,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-08-23 08:00:00,2.6,,,
+71,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-01-09 08:00:00,2.8,,,
+72,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-09-23 08:00:00,2.8,,,
+73,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-01-10 08:00:00,1.8,,,
+74,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-11-10 08:00:00,1.8,,,
+75,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-10-21 08:00:00,1.8,,,
+76,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-01-11 08:00:00,2.2,,,
+77,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-11-11 08:00:00,2.8,,,
+78,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-11-21 08:00:00,3.0,,,
+79,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2022-05-12 08:00:00,3.0,,,
+80,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2023-01-23 08:00:00,2.4,,,
+81,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2023-03-02 08:00:00,3.0,,,
+82,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2023-09-11 08:00:00,1.6,,140.0,330.0
+83,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2023-11-14 08:00:00,1.2,,170.0,2800.0
+84,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2023-11-21 08:00:00,1.8,,170.0,470.0
+85,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2023-01-12 08:00:00,2.4,,110.0,1700.0
+86,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2023-12-18 08:00:00,2.8,,140.0,400.0
+87,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-08-01 08:00:00,2.4,,200.0,320.0
+88,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-11-01 08:00:00,2.6,,170.0,1700.0
+89,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-08-19 08:00:00,0.8,,140.0,330.0
+90,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-10-10 08:00:00,1.1,,140.0,330.0
+91,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-09-11 08:03:00,2.0,,170.0,330.0
+92,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-11-13 08:00:00,1.2,,140.0,330.0
+93,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-11-21 08:00:00,1.2,,170.0,390.0
+94,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-02-12 08:00:00,2.4,,140.0,1100.0
+95,Nallathur,CWC,34,Puducherry,598,Karaikal,Karaikal,-,-,Cauvery,Cauvery,-,-,-,Nandalar,11.00222222,79.75138889,2024-12-13 08:00:00,2.0,,170.0,1700.0

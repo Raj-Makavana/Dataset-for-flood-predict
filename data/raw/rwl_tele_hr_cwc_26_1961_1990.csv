@@ -1,7 +1,0 @@
-SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
-1,Gudari,CWC,21,Odisha,370,RAYAGADA,RAYAGADA,-,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,-,-,-,Vamsadhara,19.38333333,83.79222222,No,113.6400,113.65,31-12-1969 19:00,114.79
-2,Gudari,CWC,21,Odisha,370,RAYAGADA,RAYAGADA,-,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,-,-,-,Vamsadhara,19.38333333,83.79222222,No,113.6400,113.65,18-10-1970 04:30,112.8
-3,Kashinagar,CWC,21,Odisha,353,GAJAPATI,PARLAKHEMUNDI,-,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,-,-,-,Vamsadhara,18.84833333,83.87305556,Yes,51.0000,51.00,07-11-1970 14:00,53.5
-4,Kutragada,CWC,21,Odisha,370,RAYAGADA,RAYAGADA,-,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,-,-,-,Vamsadhara,19.61472222,83.55027778,No,257.3000,257.30,01-09-1972 02:30,257.37
-5,Mahendragarh,CWC,21,Odisha,353,GAJAPATI,R.UDAYGIRI,-,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,Badajhor,-,-,Badajhor,19.22333333,84.26250000,No,560.0000,560.00,09-03-1970 06:30,560.67
-6,Paradi Rd Bridge,CWC,28,Andhra Pradesh,521,VIZIANAGARAM,BOBBILI,-,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,Vegavati,-,-,Vegavati,23.11722222,85.61944444,No,0,0,04-11-1970 21:00,132.44

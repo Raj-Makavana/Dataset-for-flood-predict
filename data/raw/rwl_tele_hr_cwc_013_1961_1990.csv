@@ -1,4 +1,0 @@
-SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
-1,Dharoi Dam,CWC,24,Gujarat,451,Mahesana,MAHESANA,-,-,Sabarmati,Sabarmati,-,-,-,Sabarmati,24.00444444,72.85388889,No,178.9200,158.50,01-01-1970 05:00,180.4
-2,Raska Weir,CWC,24,Gujarat,450,Kheda,MEHMEDABAD,-,-,Sabarmati,Sabarmati,Meshwa,-,-,Meshwa,22.90000000,72.75000000,No,0.0000,35.51,02-01-1970 04:00,32.12
-3,Watrak Dam,CWC,24,Gujarat,458,Sabarkantha,MALPUR,-,-,Sabarmati,Sabarmati,Watrak,-,-,Watrak,23.31833333,73.40611111,No,128.0000,0,08-06-1970 20:00,126.08

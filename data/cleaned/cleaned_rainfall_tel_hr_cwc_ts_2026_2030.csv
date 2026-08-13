@@ -1,0 +1,141 @@
+Station,State,District,Tehsil,Block,River,Basin,Latitude,Longitude,Acquisition_Time,Hourly_Rainfall_mm
+Bhadrachalam,Telangana,BHADRADRI,BHADRADRI,Bhadrachalam,Godavari,Godavari,17.669444,80.873889,2026-02-23 19:00:00,1.0
+Bhadrachalam,Telangana,BHADRADRI,BHADRADRI,Bhadrachalam,Godavari,Godavari,17.669444,80.873889,2026-03-19 15:00:00,5.0
+Bhadrachalam,Telangana,BHADRADRI,BHADRADRI,Bhadrachalam,Godavari,Godavari,17.669444,80.873889,2026-03-19 23:00:00,5.0
+Bhadrachalam,Telangana,BHADRADRI,BHADRADRI,Bhadrachalam,Godavari,Godavari,17.669444,80.873889,2026-03-20 23:00:00,1.0
+Bhadrachalam,Telangana,BHADRADRI,BHADRADRI,Bhadrachalam,Godavari,Godavari,17.669444,80.873889,2026-03-21 02:00:00,1.0
+Bhadrachalam,Telangana,BHADRADRI,BHADRADRI,Bhadrachalam,Godavari,Godavari,17.669444,80.873889,2026-04-30 12:00:00,0.5
+Bhadrachalam,Telangana,BHADRADRI,BHADRADRI,Bhadrachalam,Godavari,Godavari,17.669444,80.873889,2026-04-30 13:00:00,0.5
+Madhira,Telangana,KHAMMAM,MADHIRA,-,Krishna,Krishna,16.918056,80.358889,2026-02-01 08:00:00,275.0
+Madhira,Telangana,KHAMMAM,MADHIRA,-,Krishna,Krishna,16.918056,80.358889,2026-02-01 09:00:00,275.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-01-30 22:00:00,0.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-17 23:00:00,0.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-18 16:00:00,4.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-18 17:00:00,4.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-19 23:00:00,1.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 00:00:00,2.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 05:00:00,6.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 06:00:00,2.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 07:00:00,2.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 09:00:00,3.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 10:00:00,0.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 11:00:00,2.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-26 04:00:00,1.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 14:00:00,1.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 15:00:00,1.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 16:00:00,0.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 22:00:00,2.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 23:00:00,2.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-04-19 19:00:00,1.0
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-04-19 21:00:00,0.5
+Nellore,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-04-20 02:00:00,0.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-01-06 16:00:00,0.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-01-14 18:00:00,39.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-01-15 23:00:00,130.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-01-31 01:00:00,257.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-02-13 15:00:00,156.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-02-15 02:00:00,262.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-02-17 23:00:00,4.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-03-26 19:00:00,144.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-02 08:00:00,260.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-03 12:00:00,147.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-07 12:30:00,5.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-12 02:00:00,376.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-12 03:00:00,187.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-16 16:00:00,144.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-20 17:00:00,0.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 09:00:00,1.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 10:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 11:00:00,5.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 12:00:00,3.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 14:00:00,3.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 16:00:00,3.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 17:00:00,3.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 19:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 20:00:00,6.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 21:00:00,3.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-04-21 22:00:00,6.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-13 02:00:00,10.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-13 10:30:00,400.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-13 11:30:00,151.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-16 19:00:00,1.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-16 20:00:00,1.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-16 21:00:00,1.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-16 22:00:00,1.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-16 23:00:00,1.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-23 19:00:00,16.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-23 20:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 04:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 05:00:00,3.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 07:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 08:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 09:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 11:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 12:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 14:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 15:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 16:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 17:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 18:00:00,2.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 19:00:00,6.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 20:00:00,6.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 21:00:00,6.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-24 23:00:00,6.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 04:00:00,19.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 05:00:00,23.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 06:00:00,24.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 07:00:00,24.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 08:00:00,0.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 11:00:00,24.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 14:00:00,24.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-05-27 18:00:00,24.0
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 16:00:00,2.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 17:00:00,2.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 18:00:00,2.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 19:00:00,2.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 20:00:00,2.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 21:00:00,2.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 22:00:00,2.5
+P.D. Jurala,Telangana,MAHBUBNAGAR,GADWAL,-,Krishna,Krishna,16.33,77.7,2026-06-03 23:00:00,2.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-04-08 04:00:00,18.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-04-15 04:00:00,24.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-04-20 23:00:00,3.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-04-21 19:00:00,2.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-04-27 00:00:00,384.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-04-29 20:00:00,134.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-02 20:00:00,65.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-03 02:30:00,0.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-12 03:00:00,3.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-13 22:00:00,6.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-16 04:00:00,192.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-16 17:00:00,240.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-18 05:00:00,240.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-24 03:00:00,1.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-26 20:00:00,259.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-29 03:00:00,42.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-29 12:00:00,256.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-30 17:00:00,6.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-30 21:00:00,11.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-05-31 03:30:00,96.5
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-06-01 15:00:00,400.0
+Sriram Sagar Reservoir,Telangana,NIZAMABAD,BALAKONDA,BALAKONDA,Godavari,Godavari,18.97,78.34,2026-06-01 21:30:00,400.0
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-02 01:00:00,0.5
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-02 07:00:00,1.0
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-02 08:00:00,1.0
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-02 09:00:00,4.5
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-03 02:00:00,1.0
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-17 17:00:00,1.0
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-17 18:00:00,1.0
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-18 20:00:00,1.0
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 10:00:00,0.5
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-02-20 11:00:00,0.5
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 14:00:00,0.5
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 22:00:00,5.5
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-19 23:00:00,5.5
+Udi,Telangana,ADILABAD,ADILABAD,-,-,-,16.33,77.7,2026-03-22 12:00:00,257.0
+Wadenepally,Telangana,NALGONDA,MEDLACHERUVU,-,Krishna,Krishna,16.794167,80.073056,2026-02-23 20:00:00,16.5
+Wadenepally,Telangana,NALGONDA,MEDLACHERUVU,-,Krishna,Krishna,16.794167,80.073056,2026-02-23 21:00:00,0.5
+Wadenepally,Telangana,NALGONDA,MEDLACHERUVU,-,Krishna,Krishna,16.794167,80.073056,2026-02-23 22:00:00,0.5
+Wadenepally,Telangana,NALGONDA,MEDLACHERUVU,-,Krishna,Krishna,16.794167,80.073056,2026-04-23 16:00:00,64.0
+Wadenepally,Telangana,NALGONDA,MEDLACHERUVU,-,Krishna,Krishna,16.794167,80.073056,2026-04-25 13:00:00,1.0
+Wadenepally,Telangana,NALGONDA,MEDLACHERUVU,-,Krishna,Krishna,16.794167,80.073056,2026-04-30 13:00:00,1.5

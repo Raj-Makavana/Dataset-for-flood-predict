@@ -1,0 +1,141 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Telemetry Hourly Rainfall (mm)
+1,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,23-02-2026 19:00,1
+2,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,19-03-2026 15:00,5
+3,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,19-03-2026 23:00,5
+4,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,20-03-2026 23:00,1
+5,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,21-03-2026 02:00,1
+6,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,30-04-2026 12:00,0.5
+7,Bhadrachalam,CWC,36,Telangana,690,BHADRADRI,BHADRADRI,Bhadrachalam,Bhadrachalam,Godavari,Godavari,-,-,-,Godavari,17.66944444,80.87388889,30-04-2026 13:00,0.5
+8,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-02-2026 08:00,275
+9,Madhira,CWC,36,Telangana,509,KHAMMAM,MADHIRA,-,-,Krishna,Krishna,Wyra,-,-,Wyra,16.91805556,80.35888889,01-02-2026 09:00,275
+10,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,30-01-2026 22:00,0.5
+11,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,17-02-2026 23:00,0.5
+12,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,18-02-2026 16:00,4
+13,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,18-02-2026 17:00,4
+14,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-02-2026 23:00,1
+15,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 00:00,2.5
+16,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 05:00,6.5
+17,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 06:00,2.5
+18,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 07:00,2.5
+19,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 09:00,3.5
+20,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 10:00,0.5
+21,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 11:00,2.5
+22,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,26-02-2026 04:00,1
+23,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 14:00,1.5
+24,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 15:00,1.5
+25,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 16:00,0.5
+26,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 22:00,2
+27,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 23:00,2
+28,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-04-2026 19:00,1
+29,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-04-2026 21:00,0.5
+30,Nellore,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-04-2026 02:00,0.5
+31,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,06-01-2026 16:00,0.5
+32,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,14-01-2026 18:00,39.5
+33,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,15-01-2026 23:00,130
+34,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,31-01-2026 01:00,257
+35,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,13-02-2026 15:00,156
+36,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,15-02-2026 02:00,262
+37,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,17-02-2026 23:00,4
+38,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,26-03-2026 19:00,144
+39,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,02-04-2026 08:00,260
+40,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-04-2026 12:00,147
+41,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,07-04-2026 12:30,5
+42,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,12-04-2026 02:00,376.5
+43,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,12-04-2026 03:00,187.5
+44,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,16-04-2026 16:00,144
+45,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,20-04-2026 17:00,0.5
+46,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 09:00,1
+47,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 10:00,2
+48,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 11:00,5
+49,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 12:00,3.5
+50,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 14:00,3.5
+51,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 16:00,3.5
+52,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 17:00,3.5
+53,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 19:00,2
+54,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 20:00,6.5
+55,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 21:00,3.5
+56,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,21-04-2026 22:00,6.5
+57,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,13-05-2026 02:00,10
+58,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,13-05-2026 10:30,465.5
+59,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,13-05-2026 11:30,151.5
+60,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,16-05-2026 19:00,1.5
+61,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,16-05-2026 20:00,1.5
+62,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,16-05-2026 21:00,1.5
+63,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,16-05-2026 22:00,1.5
+64,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,16-05-2026 23:00,1.5
+65,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,23-05-2026 19:00,16
+66,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,23-05-2026 20:00,2
+67,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 04:00,2
+68,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 05:00,3.5
+69,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 07:00,2
+70,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 08:00,2
+71,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 09:00,2
+72,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 11:00,2
+73,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 12:00,2
+74,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 14:00,2
+75,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 15:00,2
+76,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 16:00,2
+77,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 17:00,2
+78,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 18:00,2
+79,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 19:00,6.5
+80,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 20:00,6.5
+81,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 21:00,6.5
+82,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,24-05-2026 23:00,6.5
+83,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 04:00,19.5
+84,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 05:00,23.5
+85,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 06:00,24
+86,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 07:00,24
+87,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 08:00,0.5
+88,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 11:00,24
+89,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 14:00,24
+90,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,27-05-2026 18:00,24
+91,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 16:00,2.5
+92,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 17:00,2.5
+93,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 18:00,2.5
+94,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 19:00,2.5
+95,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 20:00,2.5
+96,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 21:00,2.5
+97,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 22:00,2.5
+98,P.D. Jurala,CWC,36,Telangana,512,MAHBUBNAGAR,GADWAL,-,-,Krishna,Krishna,-,-,-,Krishna,16.33000000,77.70000000,03-06-2026 23:00,2.5
+99,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,08-04-2026 04:00,18.5
+100,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,15-04-2026 04:00,24
+101,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,20-04-2026 23:00,3.5
+102,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,21-04-2026 19:00,2.5
+103,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,27-04-2026 00:00,384
+104,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,29-04-2026 20:00,134
+105,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,02-05-2026 20:00,65
+106,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,03-05-2026 02:30,0.5
+107,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,12-05-2026 03:00,3.5
+108,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,13-05-2026 22:00,6
+109,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,16-05-2026 04:00,192
+110,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,16-05-2026 17:00,240
+111,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,18-05-2026 05:00,240.5
+112,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,24-05-2026 03:00,1.5
+113,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,26-05-2026 20:00,259
+114,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,29-05-2026 03:00,42.5
+115,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,29-05-2026 12:00,256.5
+116,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,30-05-2026 17:00,6
+117,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,30-05-2026 21:00,11.5
+118,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,31-05-2026 03:30,96.5
+119,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,01-06-2026 15:00,495.5
+120,Sriram Sagar Reservoir,CWC,36,Telangana,516,NIZAMABAD,BALAKONDA,BALAKONDA,Balkonda,Godavari,Godavari,-,-,-,Godavari,18.97000000,78.34000000,01-06-2026 21:30,443
+121,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,02-02-2026 01:00,0.5
+122,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,02-02-2026 07:00,1
+123,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,02-02-2026 08:00,1
+124,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,02-02-2026 09:00,4.5
+125,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,03-02-2026 02:00,1
+126,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,17-02-2026 17:00,1
+127,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,17-02-2026 18:00,1
+128,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,18-02-2026 20:00,1
+129,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 10:00,0.5
+130,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,20-02-2026 11:00,0.5
+131,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 14:00,0.5
+132,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 22:00,5.5
+133,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,19-03-2026 23:00,5.5
+134,Udi,CWC,36,Telangana,501,ADILABAD,ADILABAD,-,-,-,-,-,-,-,-,,,22-03-2026 12:00,257
+135,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,23-02-2026 20:00,16.5
+136,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,23-02-2026 21:00,0.5
+137,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,23-02-2026 22:00,0.5
+138,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,23-04-2026 16:00,64
+139,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,25-04-2026 13:00,1
+140,Wadenepally,CWC,36,Telangana,514,NALGONDA,MEDLACHERUVU,-,-,Krishna,Krishna,-,-,-,Krishna,16.79416667,80.07305556,30-04-2026 13:00,1.5

@@ -1,0 +1,799 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Manual Daily Reservoir water level (m)
+1,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,01-01-2026 06:00,128.119631
+2,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,02-01-2026 06:00,128.119631
+3,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,03-01-2026 06:00,128.119631
+4,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,04-01-2026 06:00,128.119631
+5,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,05-01-2026 06:00,128.119631
+6,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,06-01-2026 06:00,128.119631
+7,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,07-01-2026 06:00,128.119631
+8,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,08-01-2026 06:00,128.119631
+9,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,09-01-2026 06:00,128.119631
+10,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,10-01-2026 06:00,128.119631
+11,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,11-01-2026 06:00,128.119631
+12,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,12-01-2026 06:00,128.119631
+13,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,14-01-2026 06:00,128.119631
+14,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,15-01-2026 06:00,128.119631
+15,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,16-01-2026 06:00,128.119631
+16,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,17-01-2026 06:00,128.119631
+17,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,18-01-2026 06:00,128.119631
+18,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,19-01-2026 06:00,128.119631
+19,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,20-01-2026 06:00,128.119631
+20,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,21-01-2026 06:00,128.119631
+21,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,22-01-2026 06:00,128.119631
+22,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,23-01-2026 06:00,128.119631
+23,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,24-01-2026 06:00,128.119631
+24,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,25-01-2026 06:00,128.119631
+25,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,26-01-2026 06:00,128.119631
+26,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,27-01-2026 06:00,128.119631
+27,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,28-01-2026 06:00,128.119631
+28,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,30-01-2026 06:00,128.119631
+29,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,31-01-2026 06:00,128.119631
+30,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,01-02-2026 06:00,128.119631
+31,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,02-02-2026 06:00,128.119631
+32,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,03-02-2026 06:00,128.119631
+33,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,04-02-2026 06:00,128.119631
+34,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,05-02-2026 06:00,128.119631
+35,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,06-02-2026 06:00,128.119631
+36,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,07-02-2026 06:00,128.119631
+37,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,08-02-2026 06:00,128.119631
+38,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,09-02-2026 06:00,128.119631
+39,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,10-02-2026 06:00,128.119631
+40,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,11-02-2026 06:00,128.119631
+41,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,12-02-2026 06:00,128.119631
+42,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,14-02-2026 06:00,128.119631
+43,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,15-02-2026 06:00,128.119631
+44,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,16-02-2026 06:00,128.119631
+45,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,17-02-2026 06:00,128.119631
+46,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,18-02-2026 06:00,128.119631
+47,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,19-02-2026 06:00,128.119631
+48,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,20-02-2026 06:00,128.058676
+49,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,21-02-2026 06:00,128.058676
+50,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,22-02-2026 06:00,128.058676
+51,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,23-02-2026 06:00,128.058676
+52,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,24-02-2026 06:00,128.028195
+53,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,25-02-2026 06:00,128.028195
+54,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,26-02-2026 06:00,128.028195
+55,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,27-02-2026 06:00,128.028195
+56,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,28-02-2026 06:00,128.028195
+57,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,08-04-2026 06:00,127.997713
+58,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,09-04-2026 06:00,127.997713
+59,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,10-04-2026 06:00,127.997713
+60,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,11-04-2026 06:00,127.997713
+61,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,12-04-2026 06:00,127.997713
+62,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,13-04-2026 06:00,127.997713
+63,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,14-04-2026 06:00,127.997713
+64,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,15-04-2026 06:00,127.997713
+65,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,16-04-2026 06:00,127.997713
+66,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,17-04-2026 06:00,127.997713
+67,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,18-04-2026 06:00,127.997713
+68,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,19-04-2026 06:00,127.997713
+69,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,20-04-2026 06:00,127.997713
+70,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,21-04-2026 06:00,127.997713
+71,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,22-04-2026 06:00,127.997713
+72,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,23-04-2026 06:00,127.997713
+73,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,24-04-2026 06:00,127.997713
+74,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,25-04-2026 06:00,127.997713
+75,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,26-04-2026 06:00,127.997713
+76,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,27-04-2026 06:00,127.997713
+77,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,28-04-2026 06:00,127.997713
+78,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,29-04-2026 06:00,127.997713
+79,ADINIMMAYA PALLI,Andhra Pradesh SW,28,Andhra Pradesh,504,CUDDAPAH,VALLUR,-,-,Pennar,Pennar,-,-,-,Pennar,14.60138889,78.73500000,30-04-2026 06:00,127.997713
+80,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,01-01-2026 08:00,614.111055
+81,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,02-01-2026 08:00,614.111055
+82,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,03-01-2026 08:00,614.111055
+83,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,04-01-2026 08:00,614.111055
+84,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,05-01-2026 08:00,614.111055
+85,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,06-01-2026 08:00,614.111055
+86,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,07-01-2026 08:00,614.111055
+87,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,08-01-2026 08:00,614.111055
+88,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,09-01-2026 08:00,614.111055
+89,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,10-01-2026 08:00,614.111055
+90,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,11-01-2026 08:00,614.111055
+91,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,12-01-2026 08:00,614.111055
+92,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,13-01-2026 08:00,614.111055
+93,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,14-01-2026 08:00,614.111055
+94,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,15-01-2026 08:00,614.111055
+95,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,16-01-2026 08:00,614.111055
+96,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,17-01-2026 08:00,614.111055
+97,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,18-01-2026 08:00,614.111055
+98,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,19-01-2026 08:00,614.111055
+99,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,20-01-2026 08:00,614.111055
+100,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,21-01-2026 08:00,614.111055
+101,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,22-01-2026 08:00,614.111055
+102,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,23-01-2026 08:00,614.111055
+103,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,24-01-2026 08:00,614.111055
+104,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,25-01-2026 08:00,614.111055
+105,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,26-01-2026 08:00,614.111055
+106,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,27-01-2026 08:00,614.172000
+107,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,28-01-2026 08:00,614.172000
+108,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,29-01-2026 08:00,614.172000
+109,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,30-01-2026 08:00,614.172000
+110,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,31-01-2026 08:00,614.111055
+111,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,01-02-2026 08:00,614.111055
+112,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,02-02-2026 08:00,614.111055
+113,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,03-02-2026 08:00,614.111055
+114,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,04-02-2026 08:00,614.111055
+115,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,05-02-2026 08:00,614.111055
+116,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,06-02-2026 08:00,614.111055
+117,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,07-02-2026 08:00,614.111055
+118,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,08-02-2026 08:00,614.111055
+119,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,09-02-2026 08:00,614.111055
+120,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,10-02-2026 08:00,614.111055
+121,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,11-02-2026 08:00,614.111055
+122,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,12-02-2026 08:00,614.111055
+123,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,13-02-2026 08:00,614.111055
+124,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,14-02-2026 08:00,614.111055
+125,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,15-02-2026 08:00,614.111055
+126,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,16-02-2026 08:00,614.111055
+127,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,17-02-2026 08:00,614.111055
+128,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,18-02-2026 08:00,614.111055
+129,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,19-02-2026 08:00,614.111055
+130,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,20-02-2026 08:00,614.111055
+131,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,21-02-2026 08:00,614.111055
+132,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,22-02-2026 08:00,614.111055
+133,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,23-02-2026 08:00,614.111055
+134,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,24-02-2026 08:00,614.111055
+135,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,25-02-2026 08:00,614.111055
+136,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,26-02-2026 08:00,614.111055
+137,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,27-02-2026 08:00,614.080545
+138,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,28-02-2026 08:00,614.080545
+139,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,08-04-2026 08:00,612.434655
+140,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,09-04-2026 08:00,612.373673
+141,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,10-04-2026 08:00,612.312727
+142,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,11-04-2026 08:00,612.251745
+143,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,12-04-2026 08:00,612.190800
+144,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,13-04-2026 08:00,612.129855
+145,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,14-04-2026 08:00,612.068873
+146,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,15-04-2026 08:00,612.007927
+147,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,16-04-2026 08:00,611.946945
+148,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,17-04-2026 08:00,611.886000
+149,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,18-04-2026 08:00,611.825055
+150,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,19-04-2026 08:00,611.764073
+151,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,20-04-2026 08:00,611.703127
+152,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,21-04-2026 08:00,611.642145
+153,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,22-04-2026 08:00,611.581200
+154,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,23-04-2026 08:00,611.520255
+155,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,24-04-2026 08:00,611.459273
+156,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,25-04-2026 08:00,611.398327
+157,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,26-04-2026 08:00,611.337345
+158,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,27-04-2026 08:00,611.276400
+159,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,28-04-2026 08:00,611.215455
+160,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,29-04-2026 08:00,611.154473
+161,BAHUDA,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,NIMMANAPALLE,-,-,Pennar,Pennar,Cheyyeru,-,-,Bahuda,13.56388889,78.62777778,30-04-2026 08:00,611.093527
+162,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,08-04-2026 08:00,501.243600
+163,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,09-04-2026 08:00,501.213127
+164,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,10-04-2026 08:00,501.182655
+165,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,11-04-2026 08:00,501.182655
+166,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,12-04-2026 08:00,501.182655
+167,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,13-04-2026 08:00,501.182655
+168,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,14-04-2026 08:00,501.060727
+169,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,15-04-2026 08:00,500.999745
+170,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,16-04-2026 08:00,500.999745
+171,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,17-04-2026 08:00,500.938800
+172,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,18-04-2026 08:00,500.877855
+173,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,19-04-2026 08:00,500.755927
+174,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,20-04-2026 08:00,500.755927
+175,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,21-04-2026 08:00,500.755927
+176,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,22-04-2026 08:00,500.664473
+177,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,23-04-2026 08:00,500.634000
+178,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,24-04-2026 08:00,500.603527
+179,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,25-04-2026 08:00,500.573055
+180,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,26-04-2026 08:00,500.573055
+181,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,27-04-2026 08:00,500.512073
+182,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,28-04-2026 08:00,500.451127
+183,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,29-04-2026 08:00,500.390145
+184,BHAIRAVANITIPPA PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,GUMMAGATTA,-,-,Krishna,Krishna,Hundri,-,-,Hundri,14.53305556,76.88305556,30-04-2026 08:00,500.329200
+185,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,01-01-2026 08:00,270.586200
+186,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,02-01-2026 08:00,270.586200
+187,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,03-01-2026 08:00,270.586200
+188,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,04-01-2026 08:00,270.586200
+189,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,05-01-2026 08:00,270.586200
+190,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,06-01-2026 08:00,270.616673
+191,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,07-01-2026 08:00,270.616673
+192,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,08-01-2026 08:00,270.616673
+193,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,09-01-2026 08:00,270.616673
+194,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,10-01-2026 08:00,270.586200
+195,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,11-01-2026 08:00,270.570964
+196,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,12-01-2026 08:00,270.540473
+197,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,13-01-2026 08:00,270.510000
+198,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,14-01-2026 08:00,270.510000
+199,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,15-01-2026 08:00,270.510000
+200,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,16-01-2026 08:00,270.494764
+201,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,17-01-2026 08:00,270.494764
+202,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,18-01-2026 08:00,270.464273
+203,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,19-01-2026 08:00,270.464273
+204,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,20-01-2026 08:00,270.433800
+205,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,21-01-2026 08:00,270.418564
+206,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,22-01-2026 08:00,270.418564
+207,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,23-01-2026 08:00,270.083273
+208,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,24-01-2026 08:00,270.357600
+209,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,25-01-2026 08:00,270.342364
+210,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,26-01-2026 08:00,270.311873
+211,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,27-01-2026 08:00,270.311873
+212,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,28-01-2026 08:00,270.281400
+213,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,29-01-2026 08:00,270.266164
+214,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,30-01-2026 08:00,270.235673
+215,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,31-01-2026 08:00,270.205200
+216,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,01-02-2026 08:00,270.205200
+217,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,02-02-2026 08:00,270.189964
+218,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,03-02-2026 08:00,270.159473
+219,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,04-02-2026 08:00,270.129000
+220,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,05-02-2026 08:00,270.113764
+221,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,06-02-2026 08:00,270.083273
+222,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,07-02-2026 08:00,270.052800
+223,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,08-02-2026 08:00,270.037564
+224,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,09-02-2026 08:00,270.007073
+225,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,10-02-2026 08:00,270.007073
+226,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,11-02-2026 08:00,269.976600
+227,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,12-02-2026 08:00,269.976600
+228,KALYANI DAM,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,CHANDRAGIRI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.64833333,79.27000000,13-02-2026 08:00,269.961364
+229,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,01-01-2026 08:00,110.733836
+230,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,02-01-2026 08:00,110.703364
+231,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,03-01-2026 08:00,110.672882
+232,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,04-01-2026 08:00,110.642400
+233,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,05-01-2026 08:00,110.611918
+234,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,06-01-2026 08:00,110.581436
+235,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,07-01-2026 08:00,110.550964
+236,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,08-01-2026 08:00,110.520482
+237,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,09-01-2026 08:00,110.520482
+238,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,10-01-2026 08:00,110.459518
+239,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,11-01-2026 08:00,110.398564
+240,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,12-01-2026 08:00,110.337600
+241,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,13-01-2026 08:00,110.307118
+242,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,14-01-2026 08:00,110.276636
+243,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,15-01-2026 08:00,110.246164
+244,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,16-01-2026 08:00,110.215682
+245,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,17-01-2026 08:00,110.154718
+246,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,18-01-2026 08:00,110.124236
+247,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,19-01-2026 08:00,110.093764
+248,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,20-01-2026 08:00,110.063282
+249,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,21-01-2026 08:00,110.032800
+250,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,22-01-2026 08:00,110.002318
+251,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,23-01-2026 08:00,109.971836
+252,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,24-01-2026 08:00,109.941364
+253,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,25-01-2026 08:00,109.910882
+254,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,26-01-2026 08:00,109.880400
+255,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,27-01-2026 08:00,109.849918
+256,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,28-01-2026 08:00,109.819436
+257,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,29-01-2026 08:00,109.788964
+258,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,30-01-2026 08:00,109.758482
+259,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,31-01-2026 08:00,109.728000
+260,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,01-02-2026 08:00,109.697518
+261,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,02-02-2026 08:00,109.667036
+262,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,03-02-2026 08:00,109.636564
+263,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,04-02-2026 08:00,109.606082
+264,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,05-02-2026 08:00,109.575600
+265,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,06-02-2026 08:00,109.545118
+266,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,07-02-2026 08:00,109.514636
+267,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,08-02-2026 08:00,109.484164
+268,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,10-02-2026 08:00,109.423200
+269,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,11-02-2026 08:00,109.392718
+270,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,12-02-2026 08:00,109.362236
+271,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,14-02-2026 08:00,109.301282
+272,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,15-02-2026 08:00,109.270800
+273,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,16-02-2026 08:00,109.209836
+274,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,17-02-2026 08:00,109.179364
+275,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,18-02-2026 08:00,109.118400
+276,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,19-02-2026 08:00,109.057436
+277,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,20-02-2026 08:00,108.996482
+278,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,22-02-2026 08:00,108.874564
+279,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,23-02-2026 08:00,108.813600
+280,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,24-02-2026 08:00,108.752636
+281,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,25-02-2026 08:00,108.691682
+282,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,26-02-2026 08:00,108.630718
+283,MALLI MADUGU.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,RENIGUNTA,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.67666667,79.52166667,28-02-2026 08:00,108.508800
+284,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,01-01-2026 08:00,481.500000
+285,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,02-01-2026 08:00,481.500000
+286,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,03-01-2026 08:00,481.500000
+287,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,04-01-2026 08:00,481.500000
+288,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,05-01-2026 08:00,481.500000
+289,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,06-01-2026 08:00,481.500000
+290,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,07-01-2026 08:00,481.500000
+291,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,08-01-2026 08:00,481.500000
+292,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,09-01-2026 08:00,481.500000
+293,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,10-01-2026 08:00,481.500000
+294,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,11-01-2026 08:00,481.500000
+295,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,12-01-2026 08:00,481.500000
+296,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,13-01-2026 08:00,481.500000
+297,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,14-01-2026 08:00,481.500000
+298,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,15-01-2026 08:00,481.500000
+299,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,16-01-2026 08:00,481.500000
+300,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,17-01-2026 08:00,481.500000
+301,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,18-01-2026 08:00,481.500000
+302,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,19-01-2026 08:00,481.500000
+303,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,20-01-2026 08:00,481.500000
+304,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,21-01-2026 08:00,481.500000
+305,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,22-01-2026 08:00,481.500000
+306,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,23-01-2026 08:00,481.500000
+307,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,24-01-2026 08:00,481.500000
+308,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,25-01-2026 08:00,481.500000
+309,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,26-01-2026 08:00,481.500000
+310,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,27-01-2026 08:00,481.500000
+311,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,28-01-2026 08:00,481.500000
+312,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,29-01-2026 08:00,481.500000
+313,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,30-01-2026 08:00,481.500000
+314,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,31-01-2026 08:00,481.500000
+315,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,01-02-2026 08:00,481.500000
+316,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,02-02-2026 08:00,481.500000
+317,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,03-02-2026 08:00,481.500000
+318,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,04-02-2026 08:00,481.500000
+319,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,05-02-2026 08:00,481.500000
+320,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,06-02-2026 08:00,461.500000
+321,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,07-02-2026 08:00,481.489990
+322,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,08-02-2026 08:00,481.489990
+323,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,09-02-2026 08:00,481.489990
+324,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,10-02-2026 08:00,481.480011
+325,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,11-02-2026 08:00,481.480011
+326,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,12-02-2026 08:00,481.470001
+327,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,13-02-2026 08:00,481.470001
+328,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,14-02-2026 08:00,481.459991
+329,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,15-02-2026 08:00,481.459991
+330,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,16-02-2026 08:00,481.450012
+331,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,17-02-2026 08:00,481.450012
+332,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,18-02-2026 08:00,481.429993
+333,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,19-02-2026 08:00,481.410004
+334,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,20-02-2026 08:00,481.390015
+335,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,21-02-2026 08:00,481.369995
+336,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,22-02-2026 08:00,481.350006
+337,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,23-02-2026 08:00,481.329987
+338,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,24-02-2026 08:00,481.309998
+339,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,25-02-2026 08:00,481.290009
+340,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,26-02-2026 08:00,481.269989
+341,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,27-02-2026 08:00,481.250000
+342,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,08-04-2026 08:00,480.459991
+343,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,09-04-2026 08:00,480.429993
+344,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,10-04-2026 08:00,480.399994
+345,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,11-04-2026 08:00,480.369995
+346,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,12-04-2026 08:00,480.339996
+347,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,13-04-2026 08:00,480.309998
+348,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,14-04-2026 08:00,480.279999
+349,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,16-04-2026 08:00,480.220001
+350,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,17-04-2026 08:00,480.190002
+351,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,18-04-2026 08:00,480.149994
+352,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,19-04-2026 08:00,480.109985
+353,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,20-04-2026 08:00,480.070007
+354,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,21-04-2026 08:00,480.029999
+355,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,22-04-2026 08:00,479.989990
+356,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,23-04-2026 08:00,479.950012
+357,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,24-04-2026 08:00,479.910004
+358,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,25-04-2026 08:00,479.869995
+359,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,26-04-2026 08:00,479.839996
+360,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,27-04-2026 08:00,479.809998
+361,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,28-04-2026 08:00,479.779999
+362,PEDDERU,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,THAMBALAPALLE,-,-,Pennar,Pennar,-,-,-,Pennar,13.89027778,78.37583333,29-04-2026 08:00,479.750000
+363,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,01-01-2026 08:00,0.000000
+364,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,02-01-2026 08:00,0.000000
+365,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,03-01-2026 08:00,0.000000
+366,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,04-01-2026 08:00,0.000000
+367,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,05-01-2026 08:00,0.000000
+368,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,06-01-2026 08:00,0.000000
+369,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,07-01-2026 08:00,0.000000
+370,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,08-01-2026 08:00,0.000000
+371,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,09-01-2026 08:00,0.000000
+372,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,10-01-2026 08:00,0.000000
+373,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,11-01-2026 08:00,0.000000
+374,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,12-01-2026 08:00,0.000000
+375,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,13-01-2026 08:00,0.000000
+376,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,14-01-2026 08:00,0.000000
+377,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,15-01-2026 08:00,0.000000
+378,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,16-01-2026 08:00,0.000000
+379,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,17-01-2026 08:00,0.000000
+380,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,18-01-2026 08:00,0.000000
+381,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,19-01-2026 08:00,0.000000
+382,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,20-01-2026 08:00,0.000000
+383,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,21-01-2026 08:00,0.000000
+384,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,22-01-2026 08:00,0.000000
+385,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,23-01-2026 08:00,0.000000
+386,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,24-01-2026 08:00,0.000000
+387,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,25-01-2026 08:00,0.000000
+388,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,26-01-2026 08:00,0.000000
+389,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,27-01-2026 08:00,0.000000
+390,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,28-01-2026 08:00,0.000000
+391,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,29-01-2026 08:00,0.000000
+392,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,30-01-2026 08:00,0.000000
+393,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,31-01-2026 08:00,0.000000
+394,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,01-02-2026 08:00,0.000000
+395,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,02-02-2026 08:00,0.000000
+396,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,03-02-2026 08:00,0.000000
+397,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,04-02-2026 08:00,0.000000
+398,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,05-02-2026 08:00,0.000000
+399,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,06-02-2026 08:00,0.000000
+400,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,07-02-2026 08:00,0.000000
+401,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,08-02-2026 08:00,0.000000
+402,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,09-02-2026 08:00,0.000000
+403,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,10-02-2026 08:00,0.000000
+404,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,11-02-2026 08:00,0.000000
+405,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,12-02-2026 08:00,0.000000
+406,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,13-02-2026 08:00,0.000000
+407,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,14-02-2026 08:00,0.000000
+408,PENNAR KUMUDVATHY,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,HINDUPUR,-,-,Pennar,Pennar,-,-,-,Pennar,13.95000000,77.41666667,15-02-2026 08:00,0.000000
+409,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,01-01-2026 08:00,268.224000
+410,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,02-01-2026 08:00,268.163036
+411,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,03-01-2026 08:00,268.102073
+412,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,04-01-2026 08:00,268.010636
+413,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,05-01-2026 08:00,268.010636
+414,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,06-01-2026 08:00,267.949673
+415,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,07-01-2026 08:00,267.888727
+416,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,08-01-2026 08:00,267.797273
+417,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,09-01-2026 08:00,267.736327
+418,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,10-01-2026 08:00,267.644873
+419,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,11-01-2026 08:00,267.553436
+420,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,12-01-2026 08:00,267.522964
+421,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,13-01-2026 08:00,267.462000
+422,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,14-01-2026 08:00,267.401036
+423,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,15-01-2026 08:00,267.340073
+424,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,16-01-2026 08:00,267.340073
+425,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,17-01-2026 08:00,267.309600
+426,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,18-01-2026 08:00,267.248636
+427,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,19-01-2026 08:00,267.218164
+428,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,20-01-2026 08:00,267.187673
+429,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,21-01-2026 08:00,267.096236
+430,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,22-01-2026 08:00,267.035273
+431,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,23-01-2026 08:00,266.974327
+432,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,24-01-2026 08:00,266.943836
+433,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,25-01-2026 08:00,266.913364
+434,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,26-01-2026 08:00,266.852400
+435,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,27-01-2026 08:00,266.821927
+436,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,28-01-2026 08:00,266.760964
+437,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,29-01-2026 08:00,266.730473
+438,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,30-01-2026 08:00,266.669527
+439,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,31-01-2026 08:00,266.639036
+440,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,01-02-2026 08:00,266.547600
+441,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,02-02-2026 08:00,266.486636
+442,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,03-02-2026 08:00,266.395200
+443,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,04-02-2026 08:00,266.303764
+444,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,05-02-2026 08:00,266.242800
+445,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,06-02-2026 08:00,266.212327
+446,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,07-02-2026 08:00,266.151364
+447,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,08-02-2026 08:00,266.059927
+448,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,09-02-2026 08:00,266.029436
+449,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,10-02-2026 08:00,265.907527
+450,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,11-02-2026 08:00,265.846564
+451,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,12-02-2026 08:00,265.755127
+452,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,13-02-2026 08:00,265.663673
+453,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,14-02-2026 08:00,265.450327
+454,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,15-02-2026 08:00,265.176000
+455,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,16-02-2026 08:00,264.901673
+456,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,17-02-2026 08:00,264.627364
+457,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,18-02-2026 08:00,264.292073
+458,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,19-02-2026 08:00,263.956800
+459,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,20-02-2026 08:00,263.621527
+460,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,21-02-2026 08:00,263.347200
+461,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,22-02-2026 08:00,263.194800
+462,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,23-02-2026 08:00,263.133836
+463,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,24-02-2026 08:00,263.042400
+464,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,25-02-2026 08:00,262.890000
+465,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,26-02-2026 08:00,262.707127
+466,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,27-02-2026 08:00,262.341364
+467,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,28-02-2026 08:00,261.914636
+468,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,01-04-2026 08:00,251.063764
+469,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,02-04-2026 08:00,251.002800
+470,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,03-04-2026 08:00,250.972327
+471,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,04-04-2026 08:00,250.911364
+472,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,05-04-2026 08:00,250.819927
+473,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,06-04-2026 08:00,250.789436
+474,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,07-04-2026 08:00,250.728473
+475,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,08-04-2026 08:00,250.637036
+476,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,09-04-2026 08:00,250.576073
+477,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,10-04-2026 08:00,250.515127
+478,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,11-04-2026 08:00,250.454164
+479,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,12-04-2026 08:00,250.362727
+480,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,13-04-2026 08:00,250.301764
+481,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,14-04-2026 08:00,250.210327
+482,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,15-04-2026 08:00,250.179836
+483,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,16-04-2026 08:00,250.118873
+484,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,17-04-2026 08:00,250.088400
+485,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,18-04-2026 08:00,250.027436
+486,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,19-04-2026 08:00,249.936000
+487,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,20-04-2026 08:00,249.905527
+488,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,21-04-2026 08:00,249.844564
+489,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,22-04-2026 08:00,249.783600
+490,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,23-04-2026 08:00,249.783600
+491,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,24-04-2026 08:00,249.722636
+492,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,25-04-2026 08:00,249.631200
+493,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,26-04-2026 08:00,249.539764
+494,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,27-04-2026 08:00,249.509273
+495,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,28-04-2026 08:00,249.478800
+496,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,29-04-2026 08:00,249.417836
+497,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,30-04-2026 08:00,249.387364
+498,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,01-05-2026 08:00,249.356873
+499,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,02-05-2026 08:00,249.326400
+500,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,03-05-2026 08:00,249.295927
+501,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,04-05-2026 08:00,249.295927
+502,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,05-05-2026 08:00,249.265436
+503,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,06-05-2026 08:00,249.265436
+504,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,07-05-2026 08:00,249.265436
+505,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,08-05-2026 08:00,249.265436
+506,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,09-05-2026 08:00,249.265436
+507,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,10-05-2026 08:00,249.265436
+508,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,11-05-2026 08:00,249.234964
+509,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,12-05-2026 08:00,249.234964
+510,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,13-05-2026 08:00,249.234964
+511,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,14-05-2026 08:00,249.234964
+512,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,15-05-2026 08:00,249.234964
+513,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,16-05-2026 08:00,249.234964
+514,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,17-05-2026 08:00,249.234964
+515,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,18-05-2026 08:00,249.234964
+516,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,19-05-2026 08:00,249.234964
+517,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,20-05-2026 08:00,249.234964
+518,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,21-05-2026 08:00,249.234964
+519,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,22-05-2026 08:00,249.234964
+520,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,23-05-2026 08:00,249.234964
+521,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,24-05-2026 08:00,249.204473
+522,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,25-05-2026 08:00,249.204473
+523,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,26-05-2026 08:00,249.204473
+524,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,27-05-2026 08:00,249.204473
+525,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,28-05-2026 08:00,249.234964
+526,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,29-05-2026 08:00,249.234964
+527,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,30-05-2026 08:00,249.234964
+528,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,31-05-2026 08:00,249.234964
+529,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,01-06-2026 08:00,249.265436
+530,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,02-06-2026 08:00,249.326400
+531,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,03-06-2026 08:00,249.387364
+532,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,04-06-2026 08:00,249.448327
+533,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,05-06-2026 08:00,249.509273
+534,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,06-06-2026 08:00,249.539764
+535,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,07-06-2026 08:00,249.539764
+536,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,08-06-2026 08:00,249.631200
+537,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,09-06-2026 08:00,249.692164
+538,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,10-06-2026 08:00,249.753127
+539,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,11-06-2026 08:00,249.814073
+540,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,12-06-2026 08:00,249.875036
+541,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,13-06-2026 08:00,249.936000
+542,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,14-06-2026 08:00,250.027436
+543,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,15-06-2026 08:00,250.057927
+544,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,16-06-2026 08:00,250.210327
+545,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,17-06-2026 08:00,250.301764
+546,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,18-06-2026 08:00,250.454164
+547,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,19-06-2026 08:00,250.515127
+548,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,20-06-2026 08:00,250.515127
+549,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,21-06-2026 08:00,250.484636
+550,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,22-06-2026 08:00,250.484636
+551,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,23-06-2026 08:00,250.515127
+552,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,24-06-2026 08:00,250.545600
+553,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,25-06-2026 08:00,250.545600
+554,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,26-06-2026 08:00,250.545600
+555,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,27-06-2026 08:00,250.515127
+556,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,28-06-2026 08:00,250.515127
+557,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,29-06-2026 08:00,250.484636
+558,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,30-06-2026 08:00,250.484636
+559,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,01-07-2026 08:00,250.484636
+560,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,02-07-2026 08:00,250.484636
+561,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,03-07-2026 08:00,250.484636
+562,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,04-07-2026 08:00,250.515127
+563,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,05-07-2026 08:00,250.515127
+564,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,06-07-2026 08:00,250.515127
+565,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,07-07-2026 08:00,250.515127
+566,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,08-07-2026 08:00,250.454164
+567,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,09-07-2026 08:00,250.423673
+568,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,10-07-2026 08:00,250.423673
+569,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,11-07-2026 08:00,250.423673
+570,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,12-07-2026 08:00,250.393200
+571,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,13-07-2026 08:00,250.362727
+572,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,14-07-2026 08:00,250.362727
+573,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,15-07-2026 08:00,250.362727
+574,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,16-07-2026 08:00,250.301764
+575,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,17-07-2026 08:00,250.240800
+576,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,18-07-2026 08:00,250.210327
+577,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,19-07-2026 08:00,250.210327
+578,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,20-07-2026 08:00,250.210327
+579,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,21-07-2026 08:00,250.210327
+580,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,22-07-2026 08:00,250.210327
+581,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,23-07-2026 08:00,250.210327
+582,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,24-07-2026 08:00,250.240800
+583,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,25-07-2026 08:00,250.240800
+584,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,26-07-2026 08:00,250.210327
+585,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,27-07-2026 08:00,250.179836
+586,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,28-07-2026 08:00,250.118873
+587,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,29-07-2026 08:00,250.484636
+588,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,30-07-2026 08:00,251.399036
+589,SRI SAILAM PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,511,KURNOOL,SRISAILAM,-,-,Krishna,Krishna,Lower Krishna,-,-,Lower Krishna,16.08305556,78.89972222,31-07-2026 08:00,253.197364
+590,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,01-01-2026 08:00,0.000000
+591,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,02-01-2026 08:00,0.000000
+592,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,03-01-2026 08:00,0.000000
+593,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,04-01-2026 08:00,0.000000
+594,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,05-01-2026 08:00,0.000000
+595,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,06-01-2026 08:00,0.000000
+596,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,07-01-2026 08:00,0.000000
+597,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,08-01-2026 08:00,0.000000
+598,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,09-01-2026 08:00,0.000000
+599,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,10-01-2026 08:00,0.000000
+600,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,11-01-2026 08:00,0.000000
+601,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,12-01-2026 08:00,0.000000
+602,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,13-01-2026 08:00,0.000000
+603,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,14-01-2026 08:00,0.000000
+604,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,15-01-2026 08:00,0.000000
+605,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,16-01-2026 08:00,0.000000
+606,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,17-01-2026 08:00,0.000000
+607,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,18-01-2026 08:00,0.000000
+608,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,19-01-2026 08:00,0.000000
+609,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,20-01-2026 08:00,0.000000
+610,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,21-01-2026 08:00,0.000000
+611,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,22-01-2026 08:00,0.000000
+612,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,23-01-2026 08:00,0.000000
+613,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,24-01-2026 08:00,0.000000
+614,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,25-01-2026 08:00,0.000000
+615,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,26-01-2026 08:00,0.000000
+616,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,27-01-2026 08:00,0.000000
+617,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,28-01-2026 08:00,0.000000
+618,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,29-01-2026 08:00,0.000000
+619,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,30-01-2026 08:00,0.000000
+620,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,31-01-2026 08:00,0.000000
+621,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,01-02-2026 08:00,0.000000
+622,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,02-02-2026 08:00,0.000000
+623,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,03-02-2026 08:00,0.000000
+624,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,04-02-2026 08:00,0.000000
+625,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,05-02-2026 08:00,0.000000
+626,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,06-02-2026 08:00,0.000000
+627,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,07-02-2026 08:00,0.000000
+628,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,08-02-2026 08:00,0.000000
+629,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,09-02-2026 08:00,0.000000
+630,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,10-02-2026 08:00,0.000000
+631,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,11-02-2026 08:00,0.000000
+632,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,12-02-2026 08:00,0.000000
+633,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,13-02-2026 08:00,0.000000
+634,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,15-02-2026 08:00,0.000000
+635,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,16-02-2026 08:00,0.000000
+636,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,17-02-2026 08:00,0.000000
+637,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,18-02-2026 08:00,0.000000
+638,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,19-02-2026 08:00,0.000000
+639,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,20-02-2026 08:00,0.000000
+640,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,21-02-2026 08:00,0.000000
+641,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,22-02-2026 08:00,0.000000
+642,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,23-02-2026 08:00,0.000000
+643,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,24-02-2026 08:00,0.000000
+644,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,25-02-2026 08:00,0.000000
+645,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,26-02-2026 08:00,0.000000
+646,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,27-02-2026 08:00,0.000000
+647,SWARNAMUKHI.,Andhra Pradesh SW,28,Andhra Pradesh,503,CHITTOOR,SRIKALAHASTHI,-,-,Duplicate-Swarnamukhi,East flowing rivers between Pennar and Kanyakumari,-,-,-,Swarnamukhi,13.75722222,79.70111111,28-02-2026 08:00,0.000000
+648,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,01-01-2026 08:00,382.819647
+649,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,02-01-2026 08:00,382.801378
+650,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,03-01-2026 08:00,382.740396
+651,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,04-01-2026 08:00,382.740396
+652,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,05-01-2026 08:00,382.740396
+653,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,06-01-2026 08:00,382.740396
+654,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,07-01-2026 08:00,382.740396
+655,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,08-01-2026 08:00,382.770906
+656,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,09-01-2026 08:00,382.740396
+657,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,10-01-2026 08:00,382.740396
+658,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,11-01-2026 08:00,382.740396
+659,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,12-01-2026 08:00,382.709924
+660,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,13-01-2026 08:00,382.679451
+661,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,14-01-2026 08:00,382.679451
+662,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,15-01-2026 08:00,382.679451
+663,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,16-01-2026 08:00,382.679451
+664,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,17-01-2026 08:00,382.587996
+665,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,18-01-2026 08:00,382.587996
+666,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,19-01-2026 08:00,382.517898
+667,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,20-01-2026 08:00,382.487425
+668,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,21-01-2026 08:00,382.460004
+669,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,22-01-2026 08:00,382.429494
+670,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,23-01-2026 08:00,382.697720
+671,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,24-01-2026 08:00,382.749549
+672,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,25-01-2026 08:00,382.749549
+673,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,26-01-2026 08:00,382.749549
+674,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,27-01-2026 08:00,382.819647
+675,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,28-01-2026 08:00,382.819647
+676,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,29-01-2026 08:00,382.850120
+677,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,30-01-2026 08:00,382.850120
+678,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,31-01-2026 08:00,382.819647
+679,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,01-02-2026 08:00,382.819647
+680,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,02-02-2026 08:00,382.801378
+681,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,03-02-2026 08:00,382.801378
+682,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,04-02-2026 08:00,382.770906
+683,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,05-02-2026 08:00,382.770906
+684,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,06-02-2026 08:00,382.770906
+685,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,07-02-2026 08:00,382.770906
+686,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,08-02-2026 08:00,382.740396
+687,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,09-02-2026 08:00,382.740396
+688,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,10-02-2026 08:00,382.740396
+689,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,11-02-2026 08:00,382.679451
+690,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,12-02-2026 08:00,382.645927
+691,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,13-02-2026 08:00,382.560575
+692,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,14-02-2026 08:00,382.560575
+693,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,15-02-2026 08:00,382.560575
+694,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,16-02-2026 08:00,382.460004
+695,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,17-02-2026 08:00,382.371600
+696,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,18-02-2026 08:00,382.399022
+697,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,19-02-2026 08:00,382.368549
+698,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,20-02-2026 08:00,382.328924
+699,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,21-02-2026 08:00,382.328924
+700,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,22-02-2026 08:00,382.328924
+701,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,23-02-2026 08:00,382.243571
+702,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,24-02-2026 08:00,382.243571
+703,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,25-02-2026 08:00,382.188727
+704,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,26-02-2026 08:00,382.158255
+705,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,27-02-2026 08:00,382.158255
+706,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,28-02-2026 08:00,382.088120
+707,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,01-03-2026 08:00,382.030225
+708,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,02-03-2026 08:00,382.030225
+709,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,03-03-2026 08:00,382.030225
+710,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,04-03-2026 08:00,381.969280
+711,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,05-03-2026 08:00,381.938771
+712,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,06-03-2026 08:00,381.899145
+713,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,07-03-2026 08:00,381.868673
+714,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,08-03-2026 08:00,381.868673
+715,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,09-03-2026 08:00,381.810778
+716,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,10-03-2026 08:00,381.780306
+717,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,11-03-2026 08:00,381.728476
+718,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,12-03-2026 08:00,381.679698
+719,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,13-03-2026 08:00,381.630920
+720,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,14-03-2026 08:00,381.630920
+721,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,15-03-2026 08:00,381.521196
+722,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,16-03-2026 08:00,381.469404
+723,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,17-03-2026 08:00,381.408422
+724,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,18-03-2026 08:00,381.548655
+725,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,19-03-2026 08:00,381.548655
+726,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,20-03-2026 08:00,381.237753
+727,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,21-03-2026 08:00,381.188975
+728,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,22-03-2026 08:00,381.140196
+729,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,23-03-2026 08:00,381.079251
+730,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,24-03-2026 08:00,381.027422
+731,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,25-03-2026 08:00,380.975629
+732,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,26-03-2026 08:00,380.920749
+733,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,27-03-2026 08:00,380.920749
+734,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,28-03-2026 08:00,380.807975
+735,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,29-03-2026 08:00,380.807975
+736,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,30-03-2026 08:00,380.698251
+737,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,31-03-2026 08:00,380.698251
+738,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,01-04-2026 08:00,380.579375
+739,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,02-04-2026 08:00,380.521480
+740,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,03-04-2026 08:00,380.521480
+741,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,04-04-2026 08:00,380.390400
+742,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,05-04-2026 08:00,380.390400
+743,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,06-04-2026 08:00,380.268473
+744,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,07-04-2026 08:00,380.201425
+745,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,08-04-2026 08:00,380.140480
+746,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,09-04-2026 08:00,380.079498
+747,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,10-04-2026 08:00,380.009400
+748,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,11-04-2026 08:00,380.009400
+749,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,12-04-2026 08:00,380.009400
+750,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,13-04-2026 08:00,379.820425
+751,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,14-04-2026 08:00,379.820425
+752,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,15-04-2026 08:00,379.701549
+753,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,16-04-2026 08:00,379.628400
+754,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,17-04-2026 08:00,379.558302
+755,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,18-04-2026 08:00,379.479051
+756,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,19-04-2026 08:00,379.479051
+757,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,20-04-2026 08:00,379.329702
+758,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,21-04-2026 08:00,379.329702
+759,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,22-04-2026 08:00,379.329702
+760,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,23-04-2026 08:00,379.180353
+761,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,24-04-2026 08:00,379.101102
+762,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,25-04-2026 08:00,379.031004
+763,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,26-04-2026 08:00,378.960906
+764,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,27-04-2026 08:00,378.960906
+765,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,28-04-2026 08:00,378.811520
+766,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,29-04-2026 08:00,378.741422
+767,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,30-04-2026 08:00,378.579906
+768,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,01-05-2026 08:00,378.500655
+769,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,02-05-2026 08:00,378.409200
+770,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,03-05-2026 08:00,378.409200
+771,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,04-05-2026 08:00,378.256800
+772,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,05-05-2026 08:00,378.256800
+773,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,06-05-2026 08:00,378.070876
+774,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,07-05-2026 08:00,377.988575
+775,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,08-05-2026 08:00,377.900171
+776,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,09-05-2026 08:00,377.900171
+777,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,10-05-2026 08:00,377.729502
+778,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,11-05-2026 08:00,377.638047
+779,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,12-05-2026 08:00,377.571000
+780,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,13-05-2026 08:00,377.470429
+781,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,14-05-2026 08:00,377.391178
+782,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,15-05-2026 08:00,377.290571
+783,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,16-05-2026 08:00,377.211320
+784,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,17-05-2026 08:00,377.211320
+785,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,18-05-2026 08:00,377.037600
+786,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,19-05-2026 08:00,376.949196
+787,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,20-05-2026 08:00,376.930927
+788,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,21-05-2026 08:00,376.915673
+789,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,22-05-2026 08:00,376.900455
+790,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,23-05-2026 08:00,376.900455
+791,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,24-05-2026 08:00,376.900455
+792,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,25-05-2026 08:00,376.879098
+793,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,26-05-2026 08:00,376.860829
+794,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,27-05-2026 08:00,376.860829
+795,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,28-05-2026 08:00,376.860829
+796,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,29-05-2026 08:00,376.821204
+797,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,30-05-2026 08:00,376.799847
+798,YOGIVEMANA RESERVOIR PROJECT,Andhra Pradesh SW,28,Andhra Pradesh,502,ANANTAPUR,MUDIGUBBA,-,-,Pennar,Pennar,Chitravathi,Manduleru,-,Manduleru,14.35777778,78.05111111,31-05-2026 08:00,376.790694
