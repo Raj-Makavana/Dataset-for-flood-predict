@@ -1,0 +1,3 @@
+Station,State,District,Tehsil,Block,River,Basin,Latitude,Longitude,Acquisition_Time,River_Discharge_m3sec
+KIM   DELHI,Gujarat,BHARUCH,VALIA,-,Tapi,Tapi,21.56388889,73.20611111,1970-10-10 00:00:00,0.0
+KIM   DELHI,Gujarat,BHARUCH,VALIA,-,Tapi,Tapi,21.56388889,73.20611111,1970-12-20 09:00:00,0.0
