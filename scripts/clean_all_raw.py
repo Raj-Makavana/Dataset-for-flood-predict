@@ -1,11 +1,15 @@
 """
 Master Cleaning Script for FRP Raw Datasets
-Cleans all raw dataset CSV files in data/raw and exports them to data/cleaned/
+Cleans all raw CSV datasets and shapefile ZIPs (e.g. dam.zip) in data/raw
+Exports cleaned versions to data/cleaned/
 Generates a detailed cleaning report in reports/raw_cleaning_summary.csv
 """
 
 import os
 import glob
+import zipfile
+import tempfile
+import shapefile
 import pandas as pd
 import numpy as np
 
@@ -16,12 +20,8 @@ REPORTS_DIR = r"c:\Users\Lenovo\Desktop\FRP\reports"
 os.makedirs(CLEANED_DIR, exist_ok=True)
 os.makedirs(REPORTS_DIR, exist_ok=True)
 
-csv_files = glob.glob(os.path.join(RAW_DIR, "*.csv"))
-csv_files.sort()
-
 print("=" * 90)
 print("MASTER DATA CLEANING PROCESS STARTED")
-print(f"Total CSV files found in raw folder: {len(csv_files)}")
 print("=" * 90)
 
 cleaning_report = []
@@ -38,6 +38,62 @@ DISTRICT_COORDS = {
     'DELHI': (28.6625, 77.2488),
     'PASHCHIMI SINGHBHUM': (22.7913, 86.1736)
 }
+
+# 1. PROCESS ZIP SHAPEFILES (e.g. dam.zip)
+zip_files = glob.glob(os.path.join(RAW_DIR, "*.zip"))
+for zpath in zip_files:
+    zname = os.path.basename(zpath)
+    print(f"\nProcessing ZIP Dataset: {zname}")
+    print("-" * 75)
+    try:
+        with zipfile.ZipFile(zpath, 'r') as z:
+            shp_files = [f for f in z.namelist() if f.lower().endswith('.shp')]
+            if shp_files:
+                tmpdir = tempfile.mkdtemp()
+                z.extractall(tmpdir)
+                shp_p = os.path.join(tmpdir, shp_files[0])
+                sf = None
+                for enc in ['utf-8', 'latin1', 'cp1252']:
+                    try:
+                        sf = shapefile.Reader(shp_p, encoding=enc)
+                        recs = sf.records()
+                        fields = [f[0] for f in sf.fields[1:]]
+                        dam_records = []
+                        shapes = sf.shapes()
+                        for i, r in enumerate(recs):
+                            d_dict = dict(zip(fields, r))
+                            # Add coordinates if point shape
+                            if i < len(shapes) and shapes[i].points:
+                                d_dict['Longitude'] = shapes[i].points[0][0]
+                                d_dict['Latitude'] = shapes[i].points[0][1]
+                            dam_records.append(d_dict)
+                        df_dam = pd.DataFrame(dam_records)
+                        clean_fname = f"cleaned_{zname.replace('.zip', '')}_locations_india.csv"
+                        clean_path = os.path.join(CLEANED_DIR, clean_fname)
+                        df_dam.to_csv(clean_path, index=False)
+                        print(f"  Exported Dam GIS Dataset: {len(df_dam)} records -> data/cleaned/{clean_fname}")
+                        cleaning_report.append({
+                            'Raw_File': zname,
+                            'Clean_File': clean_fname,
+                            'Metric': 'Dam_Locations_GIS',
+                            'Rows_Before': len(df_dam),
+                            'Rows_After': len(df_dam),
+                            'Duplicates_Removed': 0,
+                            'Missing_Coords_Fixed': 0,
+                            'Missing_Metric_Fixed': 0,
+                            'Status': 'Successfully Cleaned (GIS Shapefile)'
+                        })
+                        break
+                    except Exception as ex_enc:
+                        continue
+    except Exception as e:
+        print(f"  Error reading ZIP {zname}: {e}")
+
+# 2. PROCESS ALL CSV DATASETS
+csv_files = glob.glob(os.path.join(RAW_DIR, "*.csv"))
+csv_files.sort()
+
+print(f"\nProcessing {len(csv_files)} CSV Raw Datasets...")
 
 for filepath in csv_files:
     fname = os.path.basename(filepath)
@@ -102,46 +158,59 @@ for filepath in csv_files:
     df = df_raw.copy()
     df.columns = df.columns.str.strip()
 
-    # 1. Standardize text columns
-    state_col = 'State' if 'State' in df else [c for c in df.columns if 'state' in c.lower()][0]
-    district_col = 'District' if 'District' in df else [c for c in df.columns if 'district' in c.lower()][0]
-    station_col = 'Station' if 'Station' in df else [c for c in df.columns if 'station' in c.lower()][0]
-    time_col = 'Data Acquisition Time' if 'Data Acquisition Time' in df else [c for c in df.columns if 'time' in c.lower() or 'date' in c.lower()][0]
-    lat_col = 'Latitude' if 'Latitude' in df else [c for c in df.columns if 'lat' in c.lower()][0]
-    lon_col = 'Longitude' if 'Longitude' in df else [c for c in df.columns if 'lon' in c.lower()][0]
+    # Standardize text columns
+    state_col = 'State' if 'State' in df else ([c for c in df.columns if 'state' in c.lower()][0] if any('state' in c.lower() for c in df.columns) else None)
+    district_col = 'District' if 'District' in df else ([c for c in df.columns if 'district' in c.lower()][0] if any('district' in c.lower() for c in df.columns) else None)
+    station_col = 'Station' if 'Station' in df else ([c for c in df.columns if 'station' in c.lower()][0] if any('station' in c.lower() for c in df.columns) else None)
+    time_col = 'Data Acquisition Time' if 'Data Acquisition Time' in df else ([c for c in df.columns if 'time' in c.lower() or 'date' in c.lower()][0] if any('time' in c.lower() or 'date' in c.lower() for c in df.columns) else None)
+    lat_col = 'Latitude' if 'Latitude' in df else ([c for c in df.columns if 'lat' in c.lower()][0] if any('lat' in c.lower() for c in df.columns) else None)
+    lon_col = 'Longitude' if 'Longitude' in df else ([c for c in df.columns if 'lon' in c.lower()][0] if any('lon' in c.lower() for c in df.columns) else None)
 
-    df[station_col] = df[station_col].astype(str).str.strip().str.rstrip('.')
-    df[district_col] = df[district_col].astype(str).str.strip().str.upper()
-    df[state_col] = df[state_col].astype(str).str.strip()
+    if station_col:
+        df[station_col] = df[station_col].astype(str).str.strip().str.rstrip('.')
+    if district_col:
+        df[district_col] = df[district_col].astype(str).str.strip().str.upper()
+    if state_col:
+        df[state_col] = df[state_col].astype(str).str.strip()
 
-    # Optional metadata columns
     tehsil_col = 'Tehsil' if 'Tehsil' in df else None
     block_col = 'Block' if 'Block' in df else None
     river_col = 'River' if 'River' in df else None
     basin_col = 'Basin' if 'Basin' in df else None
 
-    # 2. Datetime conversion
-    df['Acquisition_Time'] = pd.to_datetime(df[time_col], errors='coerce', dayfirst=True)
-    df = df.dropna(subset=['Acquisition_Time'])
+    # Datetime conversion
+    if time_col:
+        df['Acquisition_Time'] = pd.to_datetime(df[time_col], errors='coerce', dayfirst=True)
+        df = df.dropna(subset=['Acquisition_Time'])
+    else:
+        df['Acquisition_Time'] = pd.Timestamp.now()
 
-    # 3. Duplicate removal
-    dups_before = df.duplicated(subset=[station_col, 'Acquisition_Time']).sum()
-    df = df.drop_duplicates(subset=[station_col, 'Acquisition_Time'], keep='first')
+    # Duplicate removal
+    if station_col and 'Acquisition_Time' in df:
+        dups_before = df.duplicated(subset=[station_col, 'Acquisition_Time']).sum()
+        df = df.drop_duplicates(subset=[station_col, 'Acquisition_Time'], keep='first')
+    else:
+        dups_before = 0
 
-    # 4. Lat / Lon cleaning & Imputation
-    df['Latitude_Clean'] = pd.to_numeric(df[lat_col], errors='coerce')
-    df['Longitude_Clean'] = pd.to_numeric(df[lon_col], errors='coerce')
-    missing_coords_before = df['Latitude_Clean'].isnull().sum()
+    # Lat / Lon cleaning & Imputation
+    missing_coords_before = 0
+    if lat_col and lon_col:
+        df['Latitude_Clean'] = pd.to_numeric(df[lat_col], errors='coerce')
+        df['Longitude_Clean'] = pd.to_numeric(df[lon_col], errors='coerce')
+        missing_coords_before = df['Latitude_Clean'].isnull().sum()
 
-    if missing_coords_before > 0:
-        for dist, coords in DISTRICT_COORDS.items():
-            mask = df[district_col] == dist
-            df.loc[mask & df['Latitude_Clean'].isnull(), 'Latitude_Clean'] = coords[0]
-            df.loc[mask & df['Longitude_Clean'].isnull(), 'Longitude_Clean'] = coords[1]
-        df['Latitude_Clean'] = df['Latitude_Clean'].fillna(df['Latitude_Clean'].median() if df['Latitude_Clean'].notnull().any() else 20.0)
-        df['Longitude_Clean'] = df['Longitude_Clean'].fillna(df['Longitude_Clean'].median() if df['Longitude_Clean'].notnull().any() else 78.0)
+        if missing_coords_before > 0 and district_col:
+            for dist, coords in DISTRICT_COORDS.items():
+                mask = df[district_col] == dist
+                df.loc[mask & df['Latitude_Clean'].isnull(), 'Latitude_Clean'] = coords[0]
+                df.loc[mask & df['Longitude_Clean'].isnull(), 'Longitude_Clean'] = coords[1]
+            df['Latitude_Clean'] = df['Latitude_Clean'].fillna(df['Latitude_Clean'].median() if df['Latitude_Clean'].notnull().any() else 20.0)
+            df['Longitude_Clean'] = df['Longitude_Clean'].fillna(df['Longitude_Clean'].median() if df['Longitude_Clean'].notnull().any() else 78.0)
+    else:
+        df['Latitude_Clean'] = 20.0
+        df['Longitude_Clean'] = 78.0
 
-    # 5. Detect and clean target metric
+    # Detect target metric
     target_orig_col = None
     target_clean_name = "Metric_Value"
 
@@ -165,29 +234,27 @@ for filepath in csv_files:
             break
 
     if not target_orig_col:
-        # Fallback to last column
         target_orig_col = df.columns[-1]
 
     df[target_clean_name] = pd.to_numeric(df[target_orig_col], errors='coerce')
     nulls_before = df[target_clean_name].isnull().sum()
 
-    # Outlier / NaN handling based on metric type
     if target_clean_name == "Hourly_Rainfall_mm":
-        # Clip negative rainfall to 0.0 and extreme anomalies (>400 mm/hr) to 400.0
         df[target_clean_name] = df[target_clean_name].clip(lower=0.0, upper=400.0).fillna(0.0)
-    else:
-        # For water level / discharge: forward fill then back fill per station
+    elif station_col:
         df[target_clean_name] = df.groupby(station_col)[target_clean_name].ffill().bfill()
         df[target_clean_name] = df[target_clean_name].fillna(df[target_clean_name].median() if df[target_clean_name].notnull().any() else 0.0)
+    else:
+        df[target_clean_name] = df[target_clean_name].fillna(0.0)
 
     nulls_after = df[target_clean_name].isnull().sum()
     rows_after = len(df)
 
-    # 6. Build Cleaned DataFrame Output
+    # Build Cleaned Export DataFrame
     df_export = pd.DataFrame({
-        'Station': df[station_col],
-        'State': df[state_col],
-        'District': df[district_col],
+        'Station': df[station_col] if station_col else 'General',
+        'State': df[state_col] if state_col else '-',
+        'District': df[district_col] if district_col else '-',
         'Tehsil': df[tehsil_col] if tehsil_col else '-',
         'Block': df[block_col] if block_col else '-',
         'River': df[river_col] if river_col else '-',
