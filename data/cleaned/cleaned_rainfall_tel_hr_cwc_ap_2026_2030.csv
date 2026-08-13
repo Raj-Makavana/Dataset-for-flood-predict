@@ -1,0 +1,610 @@
+Station,State,District,Tehsil,Block,River,Basin,Latitude,Longitude,Acquisition_Time,Hourly_Rainfall_mm
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-01-10 17:30:00,192.0
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-01-13 03:30:00,36.0
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-04-06 22:30:00,3.0
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-04-06 23:30:00,0.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-04-30 03:30:00,5.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-01 12:30:00,12.0
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-01 13:30:00,9.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-01 14:30:00,2.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-01 15:30:00,0.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-01 23:30:00,3.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-03 02:30:00,0.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-03 09:30:00,2.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-14 20:30:00,0.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-27 02:30:00,0.5
+AMADALAVALASA,Andhra Pradesh,SRIKAKULAM,AMUDALAVALASA,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.41,83.4,2026-05-31 02:30:00,4.0
+Bawapuram,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.8825,77.957222,2026-01-30 11:00:00,128.0
+Bawapuram,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.8825,77.957222,2026-01-30 12:00:00,128.0
+Bawapuram,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.8825,77.957222,2026-02-20 00:00:00,160.0
+Bawapuram,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.8825,77.957222,2026-02-20 01:00:00,160.0
+Bawapuram,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.8825,77.957222,2026-04-16 12:00:00,3.5
+Bawapuram,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.8825,77.957222,2026-04-18 15:30:00,291.5
+Bawapuram,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.8825,77.957222,2026-04-18 16:30:00,291.5
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 10:00:00,247.0
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 11:00:00,139.5
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 12:00:00,255.5
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 13:00:00,400.0
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 14:00:00,400.0
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 15:00:00,255.5
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 20:00:00,400.0
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 21:00:00,255.5
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 22:00:00,400.0
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-17 23:00:00,400.0
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-18 00:00:00,255.5
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-18 01:00:00,255.5
+Buggaagraharam,Andhra Pradesh,CHITTOOR,NAGALAPURAM,-,Kosasthalaiyar,East flowing rivers between Pennar and Kanyakumari,13.336389,79.598056,2026-04-18 02:00:00,255.5
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-01-05 13:00:00,258.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-03 16:00:00,196.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-03 17:00:00,4.5
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-07 18:00:00,2.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-08 14:00:00,216.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-09 20:00:00,77.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-12 04:00:00,18.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-13 05:00:00,83.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-14 03:00:00,64.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-02-15 08:00:00,320.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-03-17 14:00:00,7.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-04-06 17:00:00,258.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-09 23:00:00,2.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-10 00:00:00,2.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 11:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 12:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 13:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 14:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 15:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 16:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 17:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 18:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 19:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 20:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 21:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 22:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-16 23:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-17 00:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-17 01:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-17 02:00:00,1.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-23 14:00:00,2.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-23 17:00:00,2.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-23 19:00:00,2.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-23 23:00:00,2.0
+Doddipadu,Andhra Pradesh,KURNOOL,KALLUR,-,Krishna,Krishna,15.74,78.008056,2026-05-24 02:00:00,2.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-01-01 20:30:00,3.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-01-04 01:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-01-04 03:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-01-13 17:30:00,129.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-01-30 00:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-02-01 18:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-02-02 01:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-02-02 08:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-02-02 12:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-02-26 03:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-17 03:30:00,9.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-26 02:30:00,7.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-26 20:30:00,192.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-27 00:30:00,4.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-27 05:30:00,4.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-27 09:30:00,4.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-27 11:30:00,4.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-27 22:30:00,160.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-03-29 18:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-06 21:30:00,34.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-07 20:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-07 21:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-08 00:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-08 02:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-08 04:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-08 06:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-08 09:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-08 10:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-08 12:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-09 19:30:00,9.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-15 03:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-15 04:30:00,1.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-15 06:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-15 07:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-15 09:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-24 15:30:00,48.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-30 01:30:00,5.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-30 02:30:00,10.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-30 03:30:00,1.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-30 04:30:00,6.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-04-30 07:30:00,6.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-01 11:30:00,10.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-01 12:30:00,12.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-01 13:30:00,1.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-01 14:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-01 22:30:00,10.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-01 23:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-02 11:30:00,6.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 00:30:00,5.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 01:30:00,5.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 02:30:00,5.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 03:30:00,5.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 05:30:00,5.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 06:30:00,5.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 08:30:00,8.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-03 09:30:00,8.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-10 09:30:00,5.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-10 10:30:00,5.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-15 18:30:00,160.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-23 09:30:00,21.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-28 06:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-28 07:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-28 09:30:00,0.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-30 02:30:00,1.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-30 03:30:00,1.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-30 04:30:00,17.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-30 09:30:00,9.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-30 10:30:00,9.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-30 11:30:00,9.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-30 12:30:00,9.5
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-31 00:30:00,2.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-31 01:30:00,2.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-31 02:30:00,3.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-31 03:30:00,3.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-31 06:30:00,3.0
+Gotta Barrage,Andhra Pradesh,SRIKAKULAM,HEERAMANDALAM,-,Vamsadhara,East flowing rivers between Mahanadi and Pennar,18.688056,83.963889,2026-05-31 07:30:00,3.0
+Janjhavati Rd.Bridge,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.861111,83.459722,2026-02-22 10:30:00,120.0
+Janjhavati Rd.Bridge,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.861111,83.459722,2026-03-30 06:30:00,368.0
+Janjhavati Rd.Bridge,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.861111,83.459722,2026-04-06 15:30:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-01-21 06:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 16:00:00,14.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 17:00:00,14.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 18:00:00,16.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 19:00:00,16.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 20:00:00,3.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 21:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 22:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-23 23:00:00,2.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 00:00:00,2.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 01:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 02:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 03:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 05:00:00,2.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 06:00:00,2.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 07:00:00,7.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 08:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 09:00:00,7.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 11:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-24 12:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-25 03:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-25 10:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-02-27 07:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 12:00:00,1.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 13:00:00,2.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 14:00:00,5.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 15:00:00,3.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 16:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 17:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 18:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 19:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 20:00:00,15.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 21:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 22:00:00,2.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-19 23:00:00,20.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-20 00:00:00,1.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-20 01:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-20 02:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-20 12:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-20 19:00:00,2.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-20 20:00:00,3.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 14:00:00,1.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 15:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 16:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 18:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 19:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 20:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 21:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 22:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-22 23:00:00,10.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 00:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 01:00:00,1.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 02:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 04:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 05:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 07:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 08:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 09:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 10:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 11:00:00,3.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 15:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 22:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-23 23:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-24 06:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-24 07:00:00,1.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-24 14:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-25 04:00:00,1.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-03-25 08:00:00,145.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-04-15 03:00:00,2.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-04-16 04:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-04-17 13:00:00,2.0
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-04-18 21:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-04-20 13:00:00,0.5
+Koida,Andhra Pradesh,ELURU,-,-,Godavari,Godavari,17.4825,81.386667,2026-04-27 04:00:00,36.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-01-04 14:30:00,294.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-01-10 12:30:00,17.5
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-01-16 18:30:00,400.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-01-16 20:00:00,349.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-01-29 13:30:00,0.5
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-04-19 00:30:00,0.5
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-05-12 10:30:00,257.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-05-12 12:30:00,243.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-05-26 22:30:00,137.5
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-05-27 03:30:00,64.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-05-28 14:30:00,128.0
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-05-31 01:30:00,5.5
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-05-31 02:30:00,0.5
+KUDDADIVALASA,Andhra Pradesh,VIZIANAGARAM,SALURU,-,-,East flowing rivers between Mahanadi and Pennar,18.629722,83.218056,2026-06-02 00:30:00,64.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-01-11 18:30:00,400.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-01-29 17:30:00,64.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-01-29 21:30:00,32.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-02-08 14:30:00,144.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-03-02 04:30:00,107.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-05 22:30:00,1.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-06 00:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-06 09:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-06 14:30:00,192.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-07 00:30:00,10.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-16 06:30:00,191.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-21 16:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-22 00:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-29 14:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-04-30 03:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-01 11:30:00,18.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-01 12:30:00,1.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-01 21:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-01 22:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-03 00:30:00,15.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-25 16:30:00,51.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-26 02:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-26 21:30:00,12.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-26 22:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-28 10:30:00,257.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-05-31 02:30:00,0.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-06-02 16:30:00,320.0
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-06-03 04:30:00,2.5
+KURUPAM,Andhra Pradesh,VIZIANAGARAM,KURUPAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.866944,83.551111,2026-06-03 07:30:00,209.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-01-06 21:00:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-04-05 22:30:00,1.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-04-05 23:30:00,9.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-04-06 00:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-04-06 01:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-04-06 20:30:00,1.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-04-16 20:30:00,43.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-04-20 15:30:00,24.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-01 12:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-01 13:30:00,4.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-01 14:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-01 22:30:00,1.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-02 17:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-02 20:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-02 23:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-03 05:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-14 01:30:00,115.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-23 13:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-23 18:30:00,66.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-23 20:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-24 04:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-27 10:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-27 15:30:00,51.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-28 11:30:00,0.5
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-05-29 20:30:00,202.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-06-01 21:30:00,64.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-06-02 21:30:00,10.0
+Madduvalasa,Andhra Pradesh,VIZIANAGARAM,VIZIANAGARAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.63,83.22,2026-06-02 22:30:00,0.5
+Mantralayam,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.94,77.42,2026-02-09 07:00:00,36.5
+Mantralayam,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.94,77.42,2026-02-18 06:00:00,40.0
+Mantralayam,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.94,77.42,2026-04-16 11:00:00,54.0
+Mantralayam,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.94,77.42,2026-04-16 16:00:00,257.0
+Mantralayam,Andhra Pradesh,KURNOOL,KURNOOL,-,Krishna,Krishna,15.94,77.42,2026-04-18 05:00:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-01-31 09:00:00,57.0
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-02-10 20:30:00,18.0
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-02-22 17:30:00,257.0
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-03-27 05:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-03-29 19:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-03-30 07:00:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-03-30 22:30:00,66.0
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-04-08 10:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-04-30 19:30:00,3.0
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-02 03:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-02 14:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-23 12:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-26 23:30:00,1.0
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-27 00:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-27 03:30:00,0.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-31 02:30:00,1.5
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-31 03:30:00,1.0
+Narayanpuram Anicut,Andhra Pradesh,SRIKAKULAM,SRIKAKULAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.48,83.8,2026-05-31 04:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-02-23 22:00:00,1.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-02-28 10:30:00,80.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 10:00:00,1.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 11:00:00,1.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 12:00:00,1.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 13:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 14:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 15:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 16:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 16:30:00,1.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 17:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 17:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 19:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 19:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 22:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-05 23:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 01:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 02:00:00,2.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 08:00:00,8.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 09:00:00,9.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 10:00:00,12.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 14:30:00,8.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 15:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-06 16:30:00,3.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 10:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 11:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 12:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 13:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 14:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 15:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 16:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 16:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 17:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 18:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 19:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 20:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 21:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 22:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-07 23:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-08 00:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-08 01:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-08 02:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-29 21:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-29 22:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-04-30 03:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-01 06:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-01 07:30:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-01 08:30:00,15.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-01 23:00:00,15.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-02 00:00:00,15.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-02 01:00:00,15.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-02 02:00:00,15.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-02 17:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-02 18:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-02 20:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-02 21:00:00,0.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-22 23:00:00,35.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-23 00:00:00,35.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-23 01:00:00,35.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-23 02:00:00,35.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 11:00:00,15.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 12:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 14:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 15:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 17:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 17:30:00,15.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 18:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 18:30:00,1.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 19:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 22:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-26 23:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-27 00:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-27 01:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-27 02:00:00,17.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 14:00:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 15:00:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 16:00:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 17:00:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 18:00:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 19:00:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 20:00:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 20:30:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 21:00:00,11.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 22:00:00,11.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-30 23:00:00,12.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-31 00:00:00,12.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-31 01:00:00,12.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-31 02:00:00,12.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-31 03:30:00,5.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-05-31 05:30:00,1.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-06-01 00:00:00,1.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-06-01 01:00:00,3.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-06-01 02:00:00,3.0
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-06-01 06:30:00,1.5
+Paradi Rd Bridge,Andhra Pradesh,VIZIANAGARAM,BOBBILI,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,23.117222,85.619444,2026-06-01 07:30:00,1.5
+Polampalli,Andhra Pradesh,KRISHNA,VIJAYAWADA(R),-,Krishna,Krishna,17.015556,80.171667,2026-03-25 10:00:00,9.0
+Polampalli,Andhra Pradesh,KRISHNA,VIJAYAWADA(R),-,Krishna,Krishna,17.015556,80.171667,2026-04-27 11:00:00,48.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-01-10 09:00:00,226.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-09 22:00:00,170.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-11 04:00:00,138.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-20 04:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-22 03:00:00,63.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-22 09:00:00,120.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-23 18:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-23 20:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-02-26 12:00:00,151.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 06:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 07:00:00,258.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 12:00:00,40.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 14:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 15:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 17:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 21:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 22:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-23 23:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 00:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 01:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 02:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 09:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 11:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 12:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 13:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 14:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 15:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 18:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 19:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 20:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 21:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 22:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-24 23:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 02:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 10:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 11:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 12:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 18:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 19:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 21:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-25 23:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-26 13:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-26 20:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-26 22:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-26 23:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-27 00:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-27 02:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-27 22:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-27 23:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-28 01:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-28 02:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-30 01:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-03-30 02:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-03 18:00:00,192.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-10 01:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-10 21:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-10 22:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-10 23:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-11 02:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-16 07:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-17 09:00:00,18.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-04-30 23:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 14:00:00,4.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 15:00:00,4.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 16:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 17:00:00,6.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 18:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 19:00:00,7.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 20:00:00,7.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-28 23:00:00,7.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-31 21:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-31 22:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-05-31 23:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 01:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 05:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 06:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 07:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 08:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 09:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 10:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 11:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 12:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 13:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 14:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 15:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 16:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 17:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 18:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 19:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 20:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 22:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-01 23:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 02:00:00,2.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 04:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 06:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 07:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 08:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 10:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 12:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 15:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 17:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 19:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-02 21:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 00:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 01:00:00,1.0
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 02:00:00,1.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 15:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 16:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 17:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 18:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 19:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 20:00:00,0.5
+Polavaram site,Andhra Pradesh,ELURU,-,POLAVARAM,Godavari,Godavari,17.245833,81.659722,2026-06-03 21:00:00,0.5
+RAZAM,Andhra Pradesh,SRIKAKULAM,RAJAM,-,-,-,18.45,83.64,2026-05-27 17:30:00,50.0
+RAZAM,Andhra Pradesh,SRIKAKULAM,RAJAM,-,-,-,18.45,83.64,2026-05-27 20:30:00,0.5
+RAZAM,Andhra Pradesh,SRIKAKULAM,RAJAM,-,-,-,18.45,83.64,2026-06-02 14:30:00,63.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-01-04 20:30:00,160.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-01-07 11:30:00,96.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-01-15 21:30:00,160.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-01-29 09:30:00,264.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-01-29 14:30:00,252.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-02-02 11:30:00,146.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-02-14 12:30:00,78.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-02-19 19:30:00,60.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-02-27 07:30:00,144.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-03-18 18:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-03-24 17:30:00,96.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-05 15:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-05 18:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-05 19:30:00,7.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-06 14:30:00,2.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-06 16:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-06 18:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-06 19:30:00,84.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-06 21:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-07 13:30:00,32.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-08 09:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-10 07:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-11 14:30:00,60.0
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-21 15:30:00,1.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-21 16:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-21 17:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-21 18:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-21 19:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-04-22 04:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-05-01 11:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-05-01 16:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-05-02 02:30:00,0.5
+Seethanagaram,Andhra Pradesh,EAST GODAVARI,SEETHANAGARAM,-,Nagavalli,East flowing rivers between Mahanadi and Pennar,18.662222,83.370278,2026-05-02 20:30:00,0.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-03-29 18:30:00,42.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-02 01:30:00,57.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-08 17:00:00,0.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-09 18:30:00,192.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-10 04:30:00,80.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-15 02:30:00,222.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-16 20:30:00,139.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-21 14:30:00,126.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-21 20:30:00,399.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-21 21:30:00,1.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-22 23:30:00,208.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-23 12:30:00,95.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-04-29 12:00:00,92.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-01 11:30:00,11.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-01 12:30:00,5.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-01 13:30:00,0.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-16 07:30:00,400.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-23 17:30:00,0.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-25 15:30:00,50.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-29 20:30:00,2.5
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-05-31 01:30:00,2.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-06-01 16:30:00,34.0
+Thottapalli R/s (APSDPSData),Andhra Pradesh,VIZIANAGARAM,PARVATIPURAM,-,Nagavali,East flowing rivers between Mahanadi and Pennar,18.78,83.49,2026-06-01 22:30:00,208.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-01-08 22:00:00,84.5
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-01-13 20:00:00,400.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-02-05 17:30:00,1.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-03-25 02:30:00,232.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-03-27 09:30:00,257.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-03-29 14:30:00,42.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-03 16:30:00,365.5
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-04 21:30:00,156.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-05 22:30:00,3.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-06 00:30:00,0.5
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-06 21:30:00,4.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-06 22:30:00,0.5
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-06 23:30:00,4.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-10 19:30:00,2.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-17 16:30:00,144.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-17 20:30:00,160.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-25 14:30:00,65.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-29 02:30:00,170.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-04-30 03:30:00,2.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-05-01 11:30:00,4.5
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-05-01 12:30:00,5.5
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-05-01 13:30:00,3.0
+VONI,Andhra Pradesh,SRIKAKULAM,PALAKONDA,-,-,-,18.63,83.76,2026-05-01 14:30:00,0.5
