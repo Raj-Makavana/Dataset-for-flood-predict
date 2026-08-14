@@ -12,7 +12,7 @@ __pycache__/
 *$py.class
 
 # Data directories
-# data/raw/*
+data/raw/*
 
 # IDE and Editor files
 .vscode/
