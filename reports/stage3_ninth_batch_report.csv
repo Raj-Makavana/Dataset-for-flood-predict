@@ -1,0 +1,9 @@
+Dataset,Source,Total_Records,Clean_CSV,CSV_Size_MB,Clean_Excel,Excel_Size_MB
+rwl_tel_hr_assam_999_2021_2025,rwl_tel_hr_assam_999_2021_2025.csv,78212,cleaned_rwl_tel_hr_assam_999_2021_2025.csv,10.27,N/A (>30k rows),0.0
+rwl_tel_hr_assam_999_2026_2030,rwl_tel_hr_assam_999_2026_2030.csv,626,cleaned_rwl_tel_hr_assam_999_2026_2030.csv,0.08,cleaned_rwl_tel_hr_assam_999_2026_2030.xlsx,0.05
+rwl_tel_hr_bihar_999_2021_2025,rwl_tel_hr_bihar_999_2021_2025.csv,821160,cleaned_rwl_tel_hr_bihar_999_2021_2025.csv,96.5,N/A (>30k rows),0.0
+rwl_tel_hr_bihar_999_2026_2030,rwl_tel_hr_bihar_999_2026_2030.csv,65191,cleaned_rwl_tel_hr_bihar_999_2026_2030.csv,7.56,N/A (>30k rows),0.0
+rwl_tel_hr_cwc_006_2021_2025,rwl_tel_hr_cwc_006_2021_2025.csv,1055737,cleaned_rwl_tel_hr_cwc_006_2021_2025.csv,176.5,N/A (>30k rows),0.0
+rwl_tel_hr_cwc_007_2021_2025,rwl_tel_hr_cwc_007_2021_2025.csv,451445,cleaned_rwl_tel_hr_cwc_007_2021_2025.csv,70.01,N/A (>30k rows),0.0
+rwl_tel_hr_cwc_009_2021_2025,rwl_tel_hr_cwc_009_2021_2025.csv,618724,cleaned_rwl_tel_hr_cwc_009_2021_2025.csv,98.21,N/A (>30k rows),0.0
+rwl_tele_hr_bihar_999_1991_2020,rwl_tele_hr_bihar_999_1991_2020.csv,237,cleaned_rwl_tele_hr_bihar_999_1991_2020.csv,0.03,cleaned_rwl_tele_hr_bihar_999_1991_2020.xlsx,0.02
